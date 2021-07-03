@@ -243,17 +243,17 @@
     "Rank": 31,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "getpocket.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "getpocket.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 33,
@@ -403,9 +403,9 @@
     "Rank": 51,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "accounts.intuit.com",
+    "Category": "Accounting",
+    "Productivity": 2
   },
   {
     "Rank": 52,
@@ -419,9 +419,9 @@
     "Rank": 53,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "accounts.intuit.com",
-    "Category": "Accounting",
-    "Productivity": 2
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 54,
