@@ -9,11 +9,20 @@
   height="550px"
 ></iframe>
 
-### Oura
+### Oura Sleep
 
 <iframe
   title="Oura Sleep Overview"
   src="https://stethoscope.js.org/embed/?repo=markwk%2Flife-data&api=oura-sleep&latest=weeks"
+  width="90%"
+  height="550px"
+></iframe>
+
+### Oura Readiness
+
+<iframe
+  title="Oura Sleep Overview"
+  src="https://stethoscope.js.org/embed/?repo=markwk%2Flife-data&api=oura-readiness&latest=weeks"
   width="90%"
   height="550px"
 ></iframe>
