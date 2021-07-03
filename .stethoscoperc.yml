@@ -4,9 +4,9 @@ integrations:
     overview: true
     top-categories: true
     top-activities: true
-  last-fm:
-    frequency: "daily"
-    all: true
+  # last-fm:
+  #  frequency: "daily"
+  #  all: true
   #pocket-casts:
   #  frequency: "daily"
   #  all: true
