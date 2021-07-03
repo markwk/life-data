@@ -1,0 +1,36 @@
+{
+  "top-categories": {
+    "days": {
+      "2021": [
+        "06.json",
+        "07.json"
+      ]
+    },
+    "months": [
+      "2021.json"
+    ],
+    "weeks": {
+      "2021": [
+        "27.json"
+      ]
+    },
+    "years": "years.json"
+  },
+  "top-overview": {
+    "days": {
+      "2021": [
+        "06.json",
+        "07.json"
+      ]
+    },
+    "months": [
+      "2021.json"
+    ],
+    "weeks": {
+      "2021": [
+        "27.json"
+      ]
+    },
+    "years": "years.json"
+  }
+}
