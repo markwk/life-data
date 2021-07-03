@@ -1,0 +1,143 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "0:38:33",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 33,
+        "text": "38 mins",
+        "total_seconds": 2313.952158
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "0:38:33",
+        "hours": 0,
+        "minutes": 38,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 33,
+        "text": "38 mins",
+        "total_seconds": 2313.952158
+      }
+    ],
+    "grand_total": {
+      "digital": "0:38",
+      "hours": 0,
+      "minutes": 38,
+      "text": "38 mins",
+      "total_seconds": 2313.952158
+    },
+    "languages": [
+      {
+        "digital": "0:31:16",
+        "hours": 0,
+        "minutes": 31,
+        "name": "TypeScript",
+        "percent": 81.1,
+        "seconds": 16,
+        "text": "31 mins",
+        "total_seconds": 1876.572143
+      },
+      {
+        "digital": "0:04:23",
+        "hours": 0,
+        "minutes": 4,
+        "name": "Svelte",
+        "percent": 11.38,
+        "seconds": 23,
+        "text": "4 mins",
+        "total_seconds": 263.248518
+      },
+      {
+        "digital": "0:02:54",
+        "hours": 0,
+        "minutes": 2,
+        "name": "YAML",
+        "percent": 7.53,
+        "seconds": 54,
+        "text": "2 mins",
+        "total_seconds": 174.131497
+      }
+    ],
+    "machines": [
+      {
+        "digital": "0:31:17",
+        "hours": 0,
+        "machine_name_id": "40babeee-6eb4-4e47-9479-5cb02209f973",
+        "minutes": 31,
+        "name": "Anands-MBP.Dlink",
+        "percent": 81.12,
+        "seconds": 17,
+        "text": "31 mins",
+        "total_seconds": 1877.164779
+      },
+      {
+        "digital": "0:07:16",
+        "hours": 0,
+        "machine_name_id": "9ec612a1-e0dc-4b47-988c-5449eb499866",
+        "minutes": 7,
+        "name": "Anands-MacBook-Pro.local",
+        "percent": 18.88,
+        "seconds": 16,
+        "text": "7 mins",
+        "total_seconds": 436.787379
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "0:38:33",
+        "hours": 0,
+        "minutes": 38,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 33,
+        "text": "38 mins",
+        "total_seconds": 2313.952158
+      }
+    ],
+    "projects": [
+      {
+        "digital": "0:31:16",
+        "hours": 0,
+        "minutes": 31,
+        "name": "api",
+        "percent": 81.1,
+        "seconds": 16,
+        "text": "31 mins",
+        "total_seconds": 1876.572143
+      },
+      {
+        "digital": "0:05:28",
+        "hours": 0,
+        "minutes": 5,
+        "name": "koj",
+        "percent": 14.18,
+        "seconds": 28,
+        "text": "5 mins",
+        "total_seconds": 328.179664
+      },
+      {
+        "digital": "0:01:49",
+        "hours": 0,
+        "minutes": 1,
+        "name": "admin",
+        "percent": 4.72,
+        "seconds": 49,
+        "text": "1 min",
+        "total_seconds": 109.200351
+      }
+    ],
+    "range": {
+      "date": "2021-03-14",
+      "end": "2021-03-14T18:29:59Z",
+      "start": "2021-03-13T18:30:00Z",
+      "text": "Sun Mar 14th 2021",
+      "timezone": "Asia/Kolkata"
+    }
+  }
+]

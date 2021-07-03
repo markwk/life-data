@@ -1,0 +1,89 @@
+{
+  "2021-03-7": {
+    "Software Development": 8311,
+    "Reference & Learning": 5394,
+    "Business": 2998,
+    "Design & Composition": 1478,
+    "Shopping": 1466,
+    "Communication & Scheduling": 1348,
+    "Utilities": 851,
+    "News & Opinion": 520,
+    "Uncategorized": 349,
+    "Entertainment": 195,
+    "Social Networking": 149
+  },
+  "2021-03-8": {
+    "Software Development": 9004,
+    "Communication & Scheduling": 7833,
+    "Design & Composition": 5287,
+    "Reference & Learning": 1488,
+    "Uncategorized": 1220,
+    "Business": 1049,
+    "Utilities": 926,
+    "Social Networking": 905,
+    "News & Opinion": 175,
+    "Shopping": 157,
+    "Entertainment": 26
+  },
+  "2021-03-9": {
+    "Software Development": 20603,
+    "Communication & Scheduling": 3123,
+    "Uncategorized": 1148,
+    "Reference & Learning": 1120,
+    "Design & Composition": 871,
+    "Utilities": 783,
+    "Entertainment": 534,
+    "News & Opinion": 129,
+    "Shopping": 83,
+    "Business": 67,
+    "Social Networking": 47
+  },
+  "2021-03-10": {
+    "Software Development": 16061,
+    "Communication & Scheduling": 5919,
+    "Uncategorized": 2996,
+    "Reference & Learning": 2863,
+    "Business": 2327,
+    "Utilities": 754,
+    "Social Networking": 126,
+    "News & Opinion": 119,
+    "Design & Composition": 49,
+    "Entertainment": 19
+  },
+  "2021-03-11": {
+    "Software Development": 11921,
+    "Design & Composition": 8130,
+    "Communication & Scheduling": 7767,
+    "Reference & Learning": 1669,
+    "Uncategorized": 1070,
+    "Utilities": 840,
+    "Business": 515,
+    "Social Networking": 155,
+    "Entertainment": 90,
+    "Shopping": 24
+  },
+  "2021-03-12": {
+    "Software Development": 13098,
+    "Communication & Scheduling": 11327,
+    "Utilities": 2034,
+    "Reference & Learning": 1598,
+    "Shopping": 1311,
+    "Uncategorized": 976,
+    "Business": 612,
+    "Design & Composition": 599,
+    "News & Opinion": 297,
+    "Entertainment": 153,
+    "Social Networking": 3
+  },
+  "2021-03-13": {
+    "Communication & Scheduling": 9901,
+    "Software Development": 8863,
+    "Design & Composition": 2626,
+    "Uncategorized": 1907,
+    "Reference & Learning": 1203,
+    "Utilities": 874,
+    "Entertainment": 774,
+    "Business": 508,
+    "News & Opinion": 216
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "2021-03-28": {
+    "Software Development": 4902,
+    "Reference & Learning": 4050,
+    "Entertainment": 3582,
+    "Communication & Scheduling": 3100,
+    "Design & Composition": 2863,
+    "Uncategorized": 1816,
+    "Utilities": 1682,
+    "Shopping": 998,
+    "Business": 751,
+    "Social Networking": 477,
+    "News & Opinion": 98
+  },
+  "2021-03-29": {
+    "Communication & Scheduling": 6495,
+    "Software Development": 5545,
+    "Uncategorized": 4661,
+    "Reference & Learning": 2975,
+    "Business": 2658,
+    "Design & Composition": 1332,
+    "Utilities": 1276,
+    "Social Networking": 1090,
+    "Shopping": 40,
+    "News & Opinion": 4
+  },
+  "2021-03-30": {
+    "Software Development": 20793,
+    "Communication & Scheduling": 13024,
+    "Business": 3635,
+    "Utilities": 2257,
+    "Uncategorized": 1415,
+    "Reference & Learning": 1297,
+    "Design & Composition": 399,
+    "News & Opinion": 341,
+    "Shopping": 201,
+    "Social Networking": 191,
+    "Entertainment": 63
+  },
+  "2021-03-31": {
+    "Communication & Scheduling": 16793,
+    "Software Development": 9900,
+    "Uncategorized": 3724,
+    "Reference & Learning": 3493,
+    "Business": 1615,
+    "Utilities": 1418,
+    "Shopping": 1283,
+    "News & Opinion": 212,
+    "Social Networking": 131,
+    "Design & Composition": 85
+  },
+  "2021-04-1": {
+    "Reference & Learning": 8149,
+    "Communication & Scheduling": 6700,
+    "Software Development": 6418,
+    "Business": 5048,
+    "Design & Composition": 3461,
+    "Uncategorized": 2694,
+    "Utilities": 1159,
+    "News & Opinion": 53,
+    "Shopping": 52,
+    "Social Networking": 26
+  },
+  "2021-04-2": {
+    "Communication & Scheduling": 12716,
+    "Software Development": 7646,
+    "Utilities": 1599,
+    "Uncategorized": 1541,
+    "Reference & Learning": 738,
+    "Design & Composition": 415,
+    "Business": 336,
+    "Shopping": 138,
+    "News & Opinion": 48,
+    "Social Networking": 27,
+    "Entertainment": 2
+  },
+  "2021-04-3": {
+    "Software Development": 12564,
+    "Communication & Scheduling": 10262,
+    "Reference & Learning": 6589,
+    "Uncategorized": 1845,
+    "Business": 1305,
+    "Design & Composition": 1176,
+    "Utilities": 975,
+    "Social Networking": 284,
+    "Entertainment": 128,
+    "News & Opinion": 78
+  }
+}

@@ -1,0 +1,457 @@
+[
+  {
+    "created_at": "Sun Mar 14 16:05:14 +0000 2021",
+    "id": 1371130306518937600,
+    "id_str": "1371130306518937601",
+    "text": "@benawad Multiline Vim in VS Code https://t.co/sIas4glvR6",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "benawad",
+          "name": "Ben Awad",
+          "id": 840626569743913000,
+          "id_str": "840626569743912960",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1371130185722982400,
+          "id_str": "1371130185722982400",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ewc7o6zVcAAm_kL.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ewc7o6zVcAAm_kL.jpg",
+          "url": "https://t.co/sIas4glvR6",
+          "display_url": "pic.twitter.com/sIas4glvR6",
+          "expanded_url": "https://twitter.com/ernsheong/status/1371130306518937601/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 396,
+              "h": 274,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 396,
+              "h": 274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 396,
+              "h": 274,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1371130185722982400,
+          "id_str": "1371130185722982400",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/Ewc7o6zVcAAm_kL.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ewc7o6zVcAAm_kL.jpg",
+          "url": "https://t.co/sIas4glvR6",
+          "display_url": "pic.twitter.com/sIas4glvR6",
+          "expanded_url": "https://twitter.com/ernsheong/status/1371130306518937601/photo/1",
+          "type": "animated_gif",
+          "sizes": {
+            "small": {
+              "w": 396,
+              "h": 274,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 396,
+              "h": 274,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 396,
+              "h": 274,
+              "resize": "fit"
+            }
+          },
+          "video_info": {
+            "aspect_ratio": [
+              198,
+              137
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/Ewc7o6zVcAAm_kL.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1371122136409120800,
+    "in_reply_to_status_id_str": "1371122136409120773",
+    "in_reply_to_user_id": 840626569743913000,
+    "in_reply_to_user_id_str": "840626569743912960",
+    "in_reply_to_screen_name": "benawad",
+    "user": {
+      "id": 255712122,
+      "id_str": "255712122",
+      "name": "Jonathan Lin 👨🏻‍💻🇲🇾",
+      "screen_name": "ernsheong",
+      "location": "Kuala Lumpur, Malaysia",
+      "description": "Technologist • Maker @KanRails @PageDashApp • https://t.co/1eD3ECdBc9 • https://t.co/CFApJqSox6 • Sinner saved by Jesus",
+      "url": "https://t.co/TH9tdZ48v4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TH9tdZ48v4",
+              "expanded_url": "https://jonlinblog.com",
+              "display_url": "jonlinblog.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/1eD3ECdBc9",
+              "expanded_url": "http://beliantech.com",
+              "display_url": "beliantech.com",
+              "indices": [
+                46,
+                69
+              ]
+            },
+            {
+              "url": "https://t.co/CFApJqSox6",
+              "expanded_url": "http://joncloudgeek.com",
+              "display_url": "joncloudgeek.com",
+              "indices": [
+                72,
+                95
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 454,
+      "friends_count": 1425,
+      "listed_count": 17,
+      "created_at": "Mon Feb 21 22:30:55 +0000 2011",
+      "favourites_count": 4883,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7706,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "59A486",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1248129880933322759/56vcZaka_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248129880933322759/56vcZaka_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/255712122/1557378211",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "020F17",
+      "profile_sidebar_fill_color": "091E31",
+      "profile_text_color": "084355",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 111,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Mar 14 15:00:01 +0000 2021",
+    "id": 1371113894693900300,
+    "id_str": "1371113894693900298",
+    "text": "Do the math. https://t.co/BX88uUyZDn",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1370309861859205000,
+          "id_str": "1370309861859205120",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwRRjyRVIAAoUrN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwRRjyRVIAAoUrN.jpg",
+          "url": "https://t.co/BX88uUyZDn",
+          "display_url": "pic.twitter.com/BX88uUyZDn",
+          "expanded_url": "https://twitter.com/oneplus/status/1371113894693900298/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 936,
+              "h": 936,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 936,
+              "h": 936,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1370309861859205000,
+          "id_str": "1370309861859205120",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwRRjyRVIAAoUrN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwRRjyRVIAAoUrN.jpg",
+          "url": "https://t.co/BX88uUyZDn",
+          "display_url": "pic.twitter.com/BX88uUyZDn",
+          "expanded_url": "https://twitter.com/oneplus/status/1371113894693900298/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 936,
+              "h": 936,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 936,
+              "h": 936,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1370309926887649300,
+          "id_str": "1370309926887649288",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwRRnkhUcAgeX_a.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwRRnkhUcAgeX_a.jpg",
+          "url": "https://t.co/BX88uUyZDn",
+          "display_url": "pic.twitter.com/BX88uUyZDn",
+          "expanded_url": "https://twitter.com/oneplus/status/1371113894693900298/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1370309987050815500,
+          "id_str": "1370309987050815490",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/EwRRrEpVgAICBlC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EwRRrEpVgAICBlC.jpg",
+          "url": "https://t.co/BX88uUyZDn",
+          "display_url": "pic.twitter.com/BX88uUyZDn",
+          "expanded_url": "https://twitter.com/oneplus/status/1371113894693900298/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2196922086,
+      "id_str": "2196922086",
+      "name": "OnePlus",
+      "screen_name": "oneplus",
+      "location": "",
+      "description": "Discover the #OnePlus9Series co-developed with @hasselblad.",
+      "url": "https://t.co/2LA5ODP66A",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/2LA5ODP66A",
+              "expanded_url": "https://onepl.us/9pro_tw",
+              "display_url": "onepl.us/9pro_tw",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2344830,
+      "friends_count": 42,
+      "listed_count": 3558,
+      "created_at": "Sat Nov 16 01:50:21 +0000 2013",
+      "favourites_count": 15482,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15399,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EB0027",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1295555226720641026/gTnCg1RF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295555226720641026/gTnCg1RF_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2196922086/1616825704",
+      "profile_link_color": "EB0027",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 182,
+    "favorite_count": 5299,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

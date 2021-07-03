@@ -1,0 +1,694 @@
+[
+  {
+    "created_at": "Tue Jun 08 23:29:10 +0000 2021",
+    "id": 1402407385616949200,
+    "id_str": "1402407385616949250",
+    "text": "In most cases, the best option is:\n\nLoom &gt; Zoom &gt; Room\n\nYet in most cases, people default to:\n\nRoom &gt; Zoom &gt; Loom… https://t.co/C6FvlRaU29",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/C6FvlRaU29",
+          "expanded_url": "https://twitter.com/i/web/status/1402407385616949250",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            127,
+            150
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 626691391,
+      "id_str": "626691391",
+      "name": "Steph Smith",
+      "screen_name": "stephsmithio",
+      "location": "World",
+      "description": "Predicting the future at https://t.co/SvHQExODeF @TheHustle (acq. by @HubSpot)\n\nMaker https://t.co/emwUX1UjJy 🌎  Writer 📝  Dev 💻 Nomad 🇨🇦\n\nLatest project 👉 https://t.co/w1DBDrwPZA",
+      "url": "https://t.co/mR4DwcWrTY",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mR4DwcWrTY",
+              "expanded_url": "http://stephsmith.io",
+              "display_url": "stephsmith.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/SvHQExODeF",
+              "expanded_url": "http://Trends.co",
+              "display_url": "Trends.co",
+              "indices": [
+                25,
+                48
+              ]
+            },
+            {
+              "url": "https://t.co/emwUX1UjJy",
+              "expanded_url": "http://eunoia.world",
+              "display_url": "eunoia.world",
+              "indices": [
+                86,
+                109
+              ]
+            },
+            {
+              "url": "https://t.co/w1DBDrwPZA",
+              "expanded_url": "http://doingcontentright.com",
+              "display_url": "doingcontentright.com",
+              "indices": [
+                156,
+                179
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 28919,
+      "friends_count": 99,
+      "listed_count": 557,
+      "created_at": "Wed Jul 04 18:46:47 +0000 2012",
+      "favourites_count": 16080,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7321,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1079803857264205835/T2ZDra6d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079803857264205835/T2ZDra6d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/626691391/1541345077",
+      "profile_link_color": "68A0F9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 61,
+    "favorite_count": 571,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 08 16:45:15 +0000 2021",
+    "id": 1402305733929078800,
+    "id_str": "1402305733929078792",
+    "text": "YC S21's @PabioHQ is launching on @ProductHunt today! With Pabio, you get your apartment fully furnished by a profe… https://t.co/ghRB6jSpql",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PabioHQ",
+          "name": "Pabio",
+          "id": 1397878071483584500,
+          "id_str": "1397878071483584512",
+          "indices": [
+            9,
+            17
+          ]
+        },
+        {
+          "screen_name": "ProductHunt",
+          "name": "Product Hunt 😸",
+          "id": 2208027565,
+          "id_str": "2208027565",
+          "indices": [
+            34,
+            46
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/ghRB6jSpql",
+          "expanded_url": "https://twitter.com/i/web/status/1402305733929078792",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 113130846,
+      "id_str": "113130846",
+      "name": "Y Combinator",
+      "screen_name": "ycombinator",
+      "location": "Mountain View",
+      "description": "",
+      "url": "http://t.co/Ptx1FAYCtj",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/Ptx1FAYCtj",
+              "expanded_url": "http://ycombinator.com",
+              "display_url": "ycombinator.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1117585,
+      "friends_count": 309,
+      "listed_count": 9226,
+      "created_at": "Wed Feb 10 20:20:37 +0000 2010",
+      "favourites_count": 3015,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8316,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FA743E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/716641091311697920/hFFVBhFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113130846/1426780133",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 43,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 08 10:07:07 +0000 2021",
+    "id": 1402205541892509700,
+    "id_str": "1402205541892509696",
+    "text": "Cloudflare is down and so Twitter's emojis are down https://t.co/bxjoZOQ77n https://t.co/6IHIaBclts",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bxjoZOQ77n",
+          "expanded_url": "http://cloudflarestatus.com",
+          "display_url": "cloudflarestatus.com",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1402205350497980400,
+          "id_str": "1402205350497980445",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3WiVkqVkB0NiJQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3WiVkqVkB0NiJQ.jpg",
+          "url": "https://t.co/6IHIaBclts",
+          "display_url": "pic.twitter.com/6IHIaBclts",
+          "expanded_url": "https://twitter.com/levelsio/status/1402205541892509696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 902,
+              "h": 594,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 902,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1402205350497980400,
+          "id_str": "1402205350497980445",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3WiVkqVkB0NiJQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3WiVkqVkB0NiJQ.jpg",
+          "url": "https://t.co/6IHIaBclts",
+          "display_url": "pic.twitter.com/6IHIaBclts",
+          "expanded_url": "https://twitter.com/levelsio/status/1402205541892509696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 902,
+              "h": 594,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 448,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 902,
+              "h": 594,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1402205534850220000,
+          "id_str": "1402205534850220033",
+          "indices": [
+            76,
+            99
+          ],
+          "media_url": "http://pbs.twimg.com/media/E3WigTbVgAEBEZo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E3WigTbVgAEBEZo.jpg",
+          "url": "https://t.co/6IHIaBclts",
+          "display_url": "pic.twitter.com/6IHIaBclts",
+          "expanded_url": "https://twitter.com/levelsio/status/1402205541892509696/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1236,
+              "h": 450,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 248,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 437,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1577241403,
+      "id_str": "1577241403",
+      "name": "؜",
+      "screen_name": "levelsio",
+      "location": "🌳 I give $60k/y → CO₂ removal",
+      "description": "🌍https://t.co/p15s9omSVA\n🛰https://t.co/YV63OdSyGc\n👩‍💻https://t.co/2LTtgBn7hV\n🧔https://t.co/0lBrLiepEW\n📕https://t.co/67GOdk3EKA\n✈️https://t.co/7sQDNpUnSR\n💡https://t.co/5iD7kQtpkz\n🤳https://t.co/C6agjl1GL3\n🏡https://t.co/u9bPHelGAr\n📈https://t.co/CiKat24BEe",
+      "url": "https://t.co/9fCDQ9jJgx",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/9fCDQ9jJgx",
+              "expanded_url": "https://levels.io/contact-me",
+              "display_url": "levels.io/contact-me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/p15s9omSVA",
+              "expanded_url": "http://nomadlist.com",
+              "display_url": "nomadlist.com",
+              "indices": [
+                1,
+                24
+              ]
+            },
+            {
+              "url": "https://t.co/YV63OdSyGc",
+              "expanded_url": "http://remoteOK.io",
+              "display_url": "remoteOK.io",
+              "indices": [
+                26,
+                49
+              ]
+            },
+            {
+              "url": "https://t.co/2LTtgBn7hV",
+              "expanded_url": "http://workers.co",
+              "display_url": "workers.co",
+              "indices": [
+                53,
+                76
+              ]
+            },
+            {
+              "url": "https://t.co/0lBrLiepEW",
+              "expanded_url": "http://hoodmaps.com",
+              "display_url": "hoodmaps.com",
+              "indices": [
+                78,
+                101
+              ]
+            },
+            {
+              "url": "https://t.co/67GOdk3EKA",
+              "expanded_url": "http://MAKEbook.io",
+              "display_url": "MAKEbook.io",
+              "indices": [
+                103,
+                126
+              ]
+            },
+            {
+              "url": "https://t.co/7sQDNpUnSR",
+              "expanded_url": "http://airlinelist.com",
+              "display_url": "airlinelist.com",
+              "indices": [
+                129,
+                152
+              ]
+            },
+            {
+              "url": "https://t.co/5iD7kQtpkz",
+              "expanded_url": "http://ideasAI.net",
+              "display_url": "ideasAI.net",
+              "indices": [
+                154,
+                177
+              ]
+            },
+            {
+              "url": "https://t.co/C6agjl1GL3",
+              "expanded_url": "http://QRmn.co",
+              "display_url": "QRmn.co",
+              "indices": [
+                179,
+                202
+              ]
+            },
+            {
+              "url": "https://t.co/u9bPHelGAr",
+              "expanded_url": "http://rebase.to",
+              "display_url": "rebase.to",
+              "indices": [
+                204,
+                227
+              ]
+            },
+            {
+              "url": "https://t.co/CiKat24BEe",
+              "expanded_url": "http://inflationchart.com",
+              "display_url": "inflationchart.com",
+              "indices": [
+                229,
+                252
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 100032,
+      "friends_count": 12,
+      "listed_count": 2124,
+      "created_at": "Mon Jul 08 09:31:59 +0000 2013",
+      "favourites_count": 67750,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 86533,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1323795418686390272/vdMiSnFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323795418686390272/vdMiSnFe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577241403/1617832133",
+      "profile_link_color": "FF473F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 51,
+    "favorite_count": 261,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jun 08 07:01:17 +0000 2021",
+    "id": 1402158773523861500,
+    "id_str": "1402158773523861512",
+    "text": "@AnandChowdhary FYI, you've been added as a maker of Pabio on @ProductHunt https://t.co/r8uRYTZNeL h/t @KatManalac 🙌",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AnandChowdhary",
+          "name": "Anand Chowdhary",
+          "id": 39725981,
+          "id_str": "39725981",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "ProductHunt",
+          "name": "Product Hunt 😸",
+          "id": 2208027565,
+          "id_str": "2208027565",
+          "indices": [
+            62,
+            74
+          ]
+        },
+        {
+          "screen_name": "KatManalac",
+          "name": "Kat Mañalac",
+          "id": 17872737,
+          "id_str": "17872737",
+          "indices": [
+            103,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/r8uRYTZNeL",
+          "expanded_url": "https://www.producthunt.com/posts/pabio",
+          "display_url": "producthunt.com/posts/pabio",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://www.producthunt.com\" rel=\"nofollow\">Product Hunt Hi</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 4106265913,
+      "id_str": "4106265913",
+      "name": "Product Hunt Hi",
+      "screen_name": "ProductHuntHi",
+      "location": "San Francisco, CA",
+      "description": "Hi! Welcome to @ProductHunt. We use GIFs and emoji a lot. DM @ProductHunt for support 🤗",
+      "url": "https://t.co/U1PmmwwOtQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/U1PmmwwOtQ",
+              "expanded_url": "http://producthunt.com",
+              "display_url": "producthunt.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9190,
+      "friends_count": 11,
+      "listed_count": 187,
+      "created_at": "Mon Nov 02 22:10:27 +0000 2015",
+      "favourites_count": 942,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 221522,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/662417488806711296/NucHBWWQ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/662417488806711296/NucHBWWQ_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4106265913/1456272665",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

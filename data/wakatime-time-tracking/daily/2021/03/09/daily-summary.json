@@ -1,0 +1,192 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "4:43:51",
+        "hours": 4,
+        "minutes": 43,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 51,
+        "text": "4 hrs 43 mins",
+        "total_seconds": 17031.336916
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "4:43:51",
+        "hours": 4,
+        "minutes": 43,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 51,
+        "text": "4 hrs 43 mins",
+        "total_seconds": 17031.336916
+      }
+    ],
+    "grand_total": {
+      "digital": "4:43",
+      "hours": 4,
+      "minutes": 43,
+      "text": "4 hrs 43 mins",
+      "total_seconds": 17031.336916
+    },
+    "languages": [
+      {
+        "digital": "2:41:12",
+        "hours": 2,
+        "minutes": 41,
+        "name": "Svelte",
+        "percent": 56.79,
+        "seconds": 12,
+        "text": "2 hrs 41 mins",
+        "total_seconds": 9672.61961
+      },
+      {
+        "digital": "1:43:46",
+        "hours": 1,
+        "minutes": 43,
+        "name": "TypeScript",
+        "percent": 36.56,
+        "seconds": 46,
+        "text": "1 hr 43 mins",
+        "total_seconds": 6226.983881
+      },
+      {
+        "digital": "0:16:06",
+        "hours": 0,
+        "minutes": 16,
+        "name": "JSON",
+        "percent": 5.68,
+        "seconds": 6,
+        "text": "16 mins",
+        "total_seconds": 966.558796
+      },
+      {
+        "digital": "0:02:14",
+        "hours": 0,
+        "minutes": 2,
+        "name": "Other",
+        "percent": 0.79,
+        "seconds": 14,
+        "text": "2 mins",
+        "total_seconds": 134.862037
+      },
+      {
+        "digital": "0:00:15",
+        "hours": 0,
+        "minutes": 0,
+        "name": "SCSS",
+        "percent": 0.09,
+        "seconds": 15,
+        "text": "15 secs",
+        "total_seconds": 15.562
+      },
+      {
+        "digital": "0:00:14",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JavaScript",
+        "percent": 0.09,
+        "seconds": 14,
+        "text": "14 secs",
+        "total_seconds": 14.750592
+      }
+    ],
+    "machines": [
+      {
+        "digital": "4:43:51",
+        "hours": 4,
+        "machine_name_id": "9bcfc4a4-aef2-478e-96ef-9d809791edab",
+        "minutes": 43,
+        "name": "Anands-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 51,
+        "text": "4 hrs 43 mins",
+        "total_seconds": 17031.336916
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "4:43:51",
+        "hours": 4,
+        "minutes": 43,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 51,
+        "text": "4 hrs 43 mins",
+        "total_seconds": 17031.336916
+      }
+    ],
+    "projects": [
+      {
+        "digital": "2:07:55",
+        "hours": 2,
+        "minutes": 7,
+        "name": "koj",
+        "percent": 45.07,
+        "seconds": 55,
+        "text": "2 hrs 7 mins",
+        "total_seconds": 7675.744281
+      },
+      {
+        "digital": "1:32:34",
+        "hours": 1,
+        "minutes": 32,
+        "name": "api",
+        "percent": 32.61,
+        "seconds": 34,
+        "text": "1 hr 32 mins",
+        "total_seconds": 5554.739939
+      },
+      {
+        "digital": "0:30:50",
+        "hours": 0,
+        "minutes": 30,
+        "name": "admin",
+        "percent": 10.87,
+        "seconds": 50,
+        "text": "30 mins",
+        "total_seconds": 1850.575158
+      },
+      {
+        "digital": "0:15:22",
+        "hours": 0,
+        "minutes": 15,
+        "name": "website",
+        "percent": 5.41,
+        "seconds": 22,
+        "text": "15 mins",
+        "total_seconds": 922.179713
+      },
+      {
+        "digital": "0:11:05",
+        "hours": 0,
+        "minutes": 11,
+        "name": "koj-designer",
+        "percent": 3.9,
+        "seconds": 5,
+        "text": "11 mins",
+        "total_seconds": 665.067125
+      },
+      {
+        "digital": "0:06:03",
+        "hours": 0,
+        "minutes": 6,
+        "name": "third-party-dependencies",
+        "percent": 2.13,
+        "seconds": 3,
+        "text": "6 mins",
+        "total_seconds": 363.0307
+      }
+    ],
+    "range": {
+      "date": "2021-03-10",
+      "end": "2021-03-10T18:29:59Z",
+      "start": "2021-03-09T18:30:00Z",
+      "text": "Wed Mar 10th 2021",
+      "timezone": "Asia/Kolkata"
+    }
+  }
+]

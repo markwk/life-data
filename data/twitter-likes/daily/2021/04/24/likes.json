@@ -1,0 +1,584 @@
+[
+  {
+    "created_at": "Sat Apr 24 21:09:59 +0000 2021",
+    "id": 1386064902645821400,
+    "id_str": "1386064902645821445",
+    "text": "as well as giving a tour of SvelteKit i will be talking about why the backlash to modern front end development miss… https://t.co/9ObnVqWvEh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9ObnVqWvEh",
+          "expanded_url": "https://twitter.com/i/web/status/1386064902645821445",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 19487837,
+      "id_str": "19487837",
+      "name": "Rich Harris",
+      "screen_name": "Rich_Harris",
+      "location": "New York, New York",
+      "description": "Open sourceror. I make graphics at the @nytimes",
+      "url": "https://t.co/ZEnDJxoWL6",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZEnDJxoWL6",
+              "expanded_url": "http://bit.ly/IqT6zt",
+              "display_url": "bit.ly/IqT6zt",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 40543,
+      "friends_count": 1895,
+      "listed_count": 961,
+      "created_at": "Sun Jan 25 13:25:09 +0000 2009",
+      "favourites_count": 13428,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 21713,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/557940120184041473/bFyXy8Pu_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/557940120184041473/bFyXy8Pu_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19487837/1398389241",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1386039740957352000,
+    "quoted_status_id_str": "1386039740957351936",
+    "quoted_status": {
+      "created_at": "Sat Apr 24 19:30:00 +0000 2021",
+      "id": 1386039740957352000,
+      "id_str": "1386039740957351936",
+      "text": "Don't miss @Rich_Harris' talk about #SvelteKit at #SvelteSummit!\n\n📅 Sunday, April 25th.  Book your free ticket at… https://t.co/hDJtnB8Xty",
+      "truncated": true,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "SvelteKit",
+            "indices": [
+              36,
+              46
+            ]
+          },
+          {
+            "text": "SvelteSummit",
+            "indices": [
+              50,
+              63
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Rich_Harris",
+            "name": "Rich Harris",
+            "id": 19487837,
+            "id_str": "19487837",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hDJtnB8Xty",
+            "expanded_url": "https://twitter.com/i/web/status/1386039740957351936",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1176969867733479400,
+        "id_str": "1176969867733479424",
+        "name": "Svelte Society 🧡",
+        "screen_name": "SvelteSociety",
+        "location": "Discord, GitHub, YouTube",
+        "description": "The Global @sveltejs Community! 🌍🌎🌏\n\n🐦 Tweet from this account: https://t.co/0OnlH9lqcJ\n🗣️ Discord: https://t.co/WHxbkUE4qC\n📺 YouTube: https://t.co/dxDcn4f5Mk",
+        "url": "https://t.co/f13GcOZuIN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/f13GcOZuIN",
+                "expanded_url": "http://github.com/svelte-society",
+                "display_url": "github.com/svelte-society",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/0OnlH9lqcJ",
+                "expanded_url": "http://bit.ly/38uPJ7T",
+                "display_url": "bit.ly/38uPJ7T",
+                "indices": [
+                  64,
+                  87
+                ]
+              },
+              {
+                "url": "https://t.co/WHxbkUE4qC",
+                "expanded_url": "http://discord.gg/cT2KFtu",
+                "display_url": "discord.gg/cT2KFtu",
+                "indices": [
+                  100,
+                  123
+                ]
+              },
+              {
+                "url": "https://t.co/dxDcn4f5Mk",
+                "expanded_url": "http://bit.ly/35fH5sk",
+                "display_url": "bit.ly/35fH5sk",
+                "indices": [
+                  135,
+                  158
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 9642,
+        "friends_count": 1532,
+        "listed_count": 151,
+        "created_at": "Wed Sep 25 21:21:04 +0000 2019",
+        "favourites_count": 2263,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2155,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287132544333357057/5D1E3q7o_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287132544333357057/5D1E3q7o_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176969867733479424/1578437608",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 36,
+      "favorite_count": 117,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 44,
+    "favorite_count": 379,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Apr 24 19:34:21 +0000 2021",
+    "id": 1386040838686392300,
+    "id_str": "1386040838686392320",
+    "text": "Elon Musk is hosting Saturday Night Live and no this is not a joke https://t.co/QXrnsSlBEt https://t.co/8iipPySICC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/QXrnsSlBEt",
+          "expanded_url": "https://www.theverge.com/2021/4/24/22401253/elon-musk-hosting-saturday-night-live-miley-cyrus-tesla-spacex?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter",
+          "display_url": "theverge.com/2021/4/24/2240…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1386040837088465000,
+          "id_str": "1386040837088464898",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezw0zDrX0AIJJxi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezw0zDrX0AIJJxi.jpg",
+          "url": "https://t.co/8iipPySICC",
+          "display_url": "pic.twitter.com/8iipPySICC",
+          "expanded_url": "https://twitter.com/verge/status/1386040838686392320/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1386040837088465000,
+          "id_str": "1386040837088464898",
+          "indices": [
+            91,
+            114
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ezw0zDrX0AIJJxi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ezw0zDrX0AIJJxi.jpg",
+          "url": "https://t.co/8iipPySICC",
+          "display_url": "pic.twitter.com/8iipPySICC",
+          "expanded_url": "https://twitter.com/verge/status/1386040838686392320/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 275686563,
+      "id_str": "275686563",
+      "name": "The Verge",
+      "screen_name": "verge",
+      "location": "New York",
+      "description": "https://t.co/W2SFxIXkC4 covers life in the future.",
+      "url": "http://t.co/W2SFxIXkC4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/W2SFxIXkC4",
+              "expanded_url": "http://www.theverge.com",
+              "display_url": "theverge.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/W2SFxIXkC4",
+              "expanded_url": "http://www.theverge.com",
+              "display_url": "theverge.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2803108,
+      "friends_count": 169,
+      "listed_count": 36739,
+      "created_at": "Fri Apr 01 19:54:22 +0000 2011",
+      "favourites_count": 1372,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 193286,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877903823133704194/Mqp1PXU8_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/275686563/1601391578",
+      "profile_link_color": "EC008C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 405,
+    "favorite_count": 4312,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Apr 24 15:59:32 +0000 2021",
+    "id": 1385986777761124400,
+    "id_str": "1385986777761124354",
+    "text": "@dabit3 @ThePracticalDev This Junior Dev Hit Save In VS Code, And You Won’t Believe What Happened Next\n\n41 TypeScri… https://t.co/hiPErGZfdT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dabit3",
+          "name": "Nader Ξ Dabit",
+          "id": 17189394,
+          "id_str": "17189394",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "ThePracticalDev",
+          "name": "DEV Community 👩‍💻👨‍💻",
+          "id": 2735246778,
+          "id_str": "2735246778",
+          "indices": [
+            8,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hiPErGZfdT",
+          "expanded_url": "https://twitter.com/i/web/status/1385986777761124354",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 1385976231741505500,
+    "in_reply_to_status_id_str": "1385976231741505550",
+    "in_reply_to_user_id": 17189394,
+    "in_reply_to_user_id_str": "17189394",
+    "in_reply_to_screen_name": "dabit3",
+    "user": {
+      "id": 7618412,
+      "id_str": "7618412",
+      "name": "Erik Rasmussen 👨🏻‍💻🇺🇸🇪🇸",
+      "screen_name": "erikras",
+      "location": "Spain",
+      "description": "An American living in Spain 🇺🇸🇪🇸\n\nBlog: https://t.co/IBSNBqNVlK\nAuthor of @reduxform and @finalformjs.\nhe / him\n\nCo-host of @seekjusticefm and @happyhourdotfm.",
+      "url": "https://t.co/d27h1vaPis",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/d27h1vaPis",
+              "expanded_url": "https://github.com/users/erikras/sponsorship",
+              "display_url": "github.com/users/erikras/…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/IBSNBqNVlK",
+              "expanded_url": "http://erikras.com",
+              "display_url": "erikras.com",
+              "indices": [
+                40,
+                63
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 6445,
+      "friends_count": 1308,
+      "listed_count": 149,
+      "created_at": "Fri Jul 20 21:02:54 +0000 2007",
+      "favourites_count": 16772,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 30098,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1239587498344566784/1BxVOYSi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239587498344566784/1BxVOYSi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7618412/1552473280",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "favorite_count": 25,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "categories": [
+      {
+        "digital": "4:38:30",
+        "hours": 4,
+        "minutes": 38,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 30,
+        "text": "4 hrs 38 mins",
+        "total_seconds": 16710.861411
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "digital": "4:38:30",
+        "hours": 4,
+        "minutes": 38,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 30,
+        "text": "4 hrs 38 mins",
+        "total_seconds": 16710.861411
+      }
+    ],
+    "grand_total": {
+      "digital": "4:38",
+      "hours": 4,
+      "minutes": 38,
+      "text": "4 hrs 38 mins",
+      "total_seconds": 16710.861411
+    },
+    "languages": [
+      {
+        "digital": "3:34:41",
+        "hours": 3,
+        "minutes": 34,
+        "name": "TypeScript",
+        "percent": 77.08,
+        "seconds": 41,
+        "text": "3 hrs 34 mins",
+        "total_seconds": 12881.423218
+      },
+      {
+        "digital": "1:03:36",
+        "hours": 1,
+        "minutes": 3,
+        "name": "Svelte",
+        "percent": 22.84,
+        "seconds": 36,
+        "text": "1 hr 3 mins",
+        "total_seconds": 3816.128368
+      },
+      {
+        "digital": "0:00:13",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.08,
+        "seconds": 13,
+        "text": "13 secs",
+        "total_seconds": 13.309825
+      }
+    ],
+    "machines": [
+      {
+        "digital": "4:38:30",
+        "hours": 4,
+        "machine_name_id": "c2e50834-5fe3-4de5-b294-def8943ffbed",
+        "minutes": 38,
+        "name": "Anands-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 30,
+        "text": "4 hrs 38 mins",
+        "total_seconds": 16710.861411
+      }
+    ],
+    "operating_systems": [
+      {
+        "digital": "4:38:30",
+        "hours": 4,
+        "minutes": 38,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 30,
+        "text": "4 hrs 38 mins",
+        "total_seconds": 16710.861411
+      }
+    ],
+    "projects": [
+      {
+        "digital": "3:33:56",
+        "hours": 3,
+        "minutes": 33,
+        "name": "api",
+        "percent": 76.81,
+        "seconds": 56,
+        "text": "3 hrs 33 mins",
+        "total_seconds": 12836.441009
+      },
+      {
+        "digital": "1:04:13",
+        "hours": 1,
+        "minutes": 4,
+        "name": "lounge",
+        "percent": 23.06,
+        "seconds": 13,
+        "text": "1 hr 4 mins",
+        "total_seconds": 3853.001757
+      },
+      {
+        "digital": "0:00:21",
+        "hours": 0,
+        "minutes": 0,
+        "name": "koj",
+        "percent": 0.13,
+        "seconds": 21,
+        "text": "21 secs",
+        "total_seconds": 21.418645
+      }
+    ],
+    "range": {
+      "date": "2021-05-07",
+      "end": "2021-05-07T21:59:59Z",
+      "start": "2021-05-06T22:00:00Z",
+      "text": "Fri May 7th 2021",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

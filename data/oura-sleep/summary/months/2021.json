@@ -1,0 +1,68 @@
+{
+  "1": {
+    "total": 686430,
+    "rem": 95460,
+    "awake": 158790,
+    "deep": 224520,
+    "duration": 845220,
+    "efficiency": 2026,
+    "light": 366450,
+    "score": 1749
+  },
+  "2": {
+    "total": 717420,
+    "rem": 97140,
+    "awake": 169620,
+    "deep": 222570,
+    "duration": 887040,
+    "efficiency": 2188,
+    "light": 397710,
+    "score": 1810
+  },
+  "3": {
+    "total": 541020,
+    "rem": 66390,
+    "awake": 115560,
+    "deep": 175050,
+    "duration": 656580,
+    "efficiency": 1731,
+    "light": 299580,
+    "score": 1394
+  },
+  "4": {
+    "total": 386490,
+    "rem": 44940,
+    "awake": 67410,
+    "deep": 140490,
+    "duration": 453900,
+    "efficiency": 1280,
+    "light": 201060,
+    "score": 1084
+  },
+  "5": {
+    "total": 419610,
+    "rem": 43470,
+    "awake": 83970,
+    "deep": 158280,
+    "duration": 503580,
+    "efficiency": 1426,
+    "light": 217860,
+    "score": 1146
+  },
+  "6": {
+    "total": 630690,
+    "rem": 66540,
+    "awake": 110670,
+    "deep": 217260,
+    "duration": 741360,
+    "efficiency": 2136,
+    "light": 346890,
+    "score": 1692
+  },
+  "7": {},
+  "8": {},
+  "9": {},
+  "10": {},
+  "11": {},
+  "12": {}
+}
