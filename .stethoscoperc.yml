@@ -10,9 +10,9 @@ integrations:
   #pocket-casts:
   #  frequency: "daily"
   #  all: true
-  #oura-ring:
-  #  frequency: "daily"
-  #  all: true
+  oura-ring:
+    frequency: "daily"
+    all: true
   # clockify:
   # spotify:
   # goodreads:
