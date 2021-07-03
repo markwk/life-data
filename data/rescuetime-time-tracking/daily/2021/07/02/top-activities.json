@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 808,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 790,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
     "Productivity": 1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 784,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -33,6 +33,14 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 646,
+    "Number of People": 1,
+    "Activity": "stethoscope.js.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 635,
     "Number of People": 1,
     "Activity": "messages",
@@ -40,15 +48,15 @@
     "Productivity": -1
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 607,
+    "Rank": 7,
+    "Time Spent (seconds)": 495,
     "Number of People": 1,
-    "Activity": "stethoscope.js.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 488,
     "Number of People": 1,
     "Activity": "miro.com",
@@ -56,20 +64,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 436,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 418,
-    "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
   },
   {
     "Rank": 10,
@@ -113,7 +113,7 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 203,
+    "Time Spent (seconds)": 208,
     "Number of People": 1,
     "Activity": "markwk.github.io",
     "Category": "General Software Development",
@@ -121,7 +121,7 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 170,
+    "Time Spent (seconds)": 206,
     "Number of People": 1,
     "Activity": "sublime text",
     "Category": "Editing & IDEs",

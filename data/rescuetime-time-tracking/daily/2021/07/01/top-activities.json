@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "venicepaparazzi.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "venicepaparazzi.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 38,
@@ -403,9 +403,9 @@
     "Rank": 51,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "accounts.intuit.com",
-    "Category": "Accounting",
-    "Productivity": 2
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 52,
@@ -419,9 +419,9 @@
     "Rank": 53,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "accounts.intuit.com",
+    "Category": "Accounting",
+    "Productivity": 2
   },
   {
     "Rank": 54,
