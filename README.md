@@ -13,7 +13,7 @@
 
 <iframe
   title="Oura Sleep Overview"
-  src="https://stethoscope.js.org/embed/?repo=markwk%2Flife-data&api=oura-sleep&latest=top-overview.weeks"
+  src="https://stethoscope.js.org/embed/?repo=markwk%2Flife-data&api=oura-sleep&latest=weeks"
   width="90%"
   height="550px"
 ></iframe>
