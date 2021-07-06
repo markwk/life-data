@@ -147,17 +147,17 @@
     "Rank": 19,
     "Time Spent (seconds)": 114,
     "Number of People": 1,
-    "Activity": "last.fm",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 20,
     "Time Spent (seconds)": 114,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "last.fm",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
     "Rank": 21,
@@ -267,16 +267,16 @@
     "Rank": 34,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "markwk.com",
-    "Category": "Writing",
+    "Activity": "docs.github.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "docs.github.com",
-    "Category": "General Software Development",
+    "Activity": "markwk.com",
+    "Category": "Writing",
     "Productivity": 2
   },
   {

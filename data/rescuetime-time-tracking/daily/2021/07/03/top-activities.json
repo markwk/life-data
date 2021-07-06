@@ -211,17 +211,17 @@
     "Rank": 27,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "docker desktop",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "pypi.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 28,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "pypi.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "docker desktop",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 29,
@@ -291,16 +291,16 @@
     "Rank": 37,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "developer.okta.com",
-    "Category": "General Software Development",
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
     "Productivity": 2
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
+    "Activity": "developer.okta.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -339,16 +339,16 @@
     "Rank": 43,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "readthedocs.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "last.fm",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "last.fm",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "readthedocs.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   }
 ]

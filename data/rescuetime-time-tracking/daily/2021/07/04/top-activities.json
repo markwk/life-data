@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 962,
+    "Time Spent (seconds)": 1094,
     "Number of People": 1,
     "Activity": "miro.com",
     "Category": "Presentation",
@@ -115,17 +115,17 @@
     "Rank": 15,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "last.fm",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 16,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "last.fm",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
     "Rank": 17,
@@ -155,17 +155,17 @@
     "Rank": 20,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 22,
@@ -195,12 +195,20 @@
     "Rank": 25,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
+    "Activity": "int3c.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
     "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 26,
+    "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "sublime text",
@@ -208,19 +216,11 @@
     "Productivity": 2
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "int3c.com",
-    "Category": "Marketing",
-    "Productivity": 2
-  },
-  {
     "Rank": 28,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "developer.okta.com",
-    "Category": "General Software Development",
+    "Activity": "mint.intuit.com",
+    "Category": "Accounting",
     "Productivity": 2
   },
   {
@@ -235,12 +235,20 @@
     "Rank": 30,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
+    "Activity": "developer.okta.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
     "Activity": "mint.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -248,19 +256,11 @@
     "Productivity": -2
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "fullstackpython.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
-  },
-  {
-    "Rank": 33,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "mint.intuit.com",
-    "Category": "Accounting",
-    "Productivity": 2
   }
 ]
