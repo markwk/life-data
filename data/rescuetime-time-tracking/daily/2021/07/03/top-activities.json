@@ -195,16 +195,16 @@
     "Rank": 25,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "creative cloud",
-    "Category": "General Design & Composition",
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
+    "Activity": "creative cloud",
+    "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
@@ -339,16 +339,16 @@
     "Rank": 43,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "last.fm",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "readthedocs.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "readthedocs.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "last.fm",
+    "Category": "Music",
+    "Productivity": -2
   }
 ]

@@ -139,33 +139,33 @@
     "Rank": 18,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "howtogeek.com",
-    "Category": "General News & Opinion",
-    "Productivity": 1
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "calendar",
     "Category": "Calendars",
     "Productivity": 0
   },
   {
-    "Rank": 20,
-    "Time Spent (seconds)": 7,
+    "Rank": 19,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
+    "Activity": "howtogeek.com",
+    "Category": "General News & Opinion",
     "Productivity": 1
   },
   {
-    "Rank": 21,
+    "Rank": 20,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 22,
@@ -195,25 +195,25 @@
     "Rank": 25,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "int3c.com",
-    "Category": "Marketing",
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
     "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "int3c.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 27,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 28,
@@ -227,17 +227,17 @@
     "Rank": 29,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "stethoscope.js.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "developer.okta.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "developer.okta.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "stethoscope.js.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 31,
@@ -251,16 +251,16 @@
     "Rank": 32,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "fullstackpython.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "fullstackpython.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   }
 ]
