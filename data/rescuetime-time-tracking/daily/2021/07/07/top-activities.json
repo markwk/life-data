@@ -75,17 +75,17 @@
     "Rank": 10,
     "Time Spent (seconds)": 287,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
-    "Productivity": 1
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 11,
     "Time Spent (seconds)": 287,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "bookends",
+    "Category": "Search",
+    "Productivity": 1
   },
   {
     "Rank": 12,
@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "giphy.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "giphy.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 38,
@@ -371,33 +371,33 @@
     "Rank": 47,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "study.com",
-    "Category": "General Reference & Learning",
+    "Activity": "betterhelp.com",
+    "Category": "Health & Medicine",
     "Productivity": 1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "positivepsychology.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "betterhelp.com",
-    "Category": "Health & Medicine",
+    "Activity": "study.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "positivepsychology.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 51,
