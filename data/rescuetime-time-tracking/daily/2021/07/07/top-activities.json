@@ -75,17 +75,17 @@
     "Rank": 10,
     "Time Spent (seconds)": 287,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "bookends",
+    "Category": "Search",
+    "Productivity": 1
   },
   {
     "Rank": 11,
     "Time Spent (seconds)": 287,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
-    "Productivity": 1
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 12,
@@ -355,7 +355,7 @@
     "Rank": 45,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "unblockit.uno",
+    "Activity": "berkeleywellbeing.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -363,7 +363,7 @@
     "Rank": 46,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "berkeleywellbeing.com",
+    "Activity": "unblockit.uno",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -371,20 +371,12 @@
     "Rank": 47,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "betterhelp.com",
-    "Category": "Health & Medicine",
-    "Productivity": 1
-  },
-  {
-    "Rank": 48,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "positivepsychology.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 49,
+    "Rank": 48,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "study.com",
@@ -392,11 +384,19 @@
     "Productivity": 1
   },
   {
-    "Rank": 50,
+    "Rank": 49,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "betterhelp.com",
+    "Category": "Health & Medicine",
     "Productivity": 1
   },
   {
