@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "fossmint.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "fossmint.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 38,
@@ -315,16 +315,16 @@
     "Rank": 40,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "macdown.uranusjr.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "macdown.uranusjr.com",
-    "Category": "Uncategorized",
+    "Activity": "google chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "linfo.org",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "linfo.org",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 45,
@@ -363,25 +363,25 @@
     "Rank": 46,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Microsoft Teams",
-    "Category": "Instant Message",
-    "Productivity": 0
-  },
-  {
-    "Rank": 47,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "problem reporter",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Microsoft Teams",
+    "Category": "Instant Message",
+    "Productivity": 0
   },
   {
     "Rank": 49,

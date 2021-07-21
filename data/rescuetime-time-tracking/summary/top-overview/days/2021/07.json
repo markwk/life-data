@@ -199,12 +199,21 @@
     "Business": 852,
     "Utilities": 285,
     "Reference & Learning": 282,
+    "News & Opinion": 193,
     "Uncategorized": 161,
-    "News & Opinion": 159,
     "Entertainment": 147,
     "Software Development": 103
   },
-  "20": {},
+  "20": {
+    "Design & Composition": 9205,
+    "Business": 1103,
+    "Uncategorized": 876,
+    "Software Development": 846,
+    "Communication & Scheduling": 541,
+    "Entertainment": 394,
+    "Utilities": 327,
+    "News & Opinion": 20
+  },
   "21": {},
   "22": {},
   "23": {},
