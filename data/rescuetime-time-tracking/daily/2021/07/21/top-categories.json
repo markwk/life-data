@@ -25,13 +25,13 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1208,
+    "Time Spent (seconds)": 1215,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1049,
+    "Time Spent (seconds)": 1056,
     "Number of People": 1,
     "Category": "Data Modeling & Analysis"
   },
@@ -43,27 +43,27 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 933,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 922,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 800,
     "Number of People": 1,
     "Category": "Professional Networking"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 747,
+    "Rank": 11,
+    "Time Spent (seconds)": 748,
     "Number of People": 1,
     "Category": "General Utilities"
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 595,
-    "Number of People": 1,
-    "Category": "General News & Opinion"
   },
   {
     "Rank": 12,
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 361,
+    "Time Spent (seconds)": 376,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -91,33 +91,33 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 194,
+    "Time Spent (seconds)": 203,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 17,
+    "Time Spent (seconds)": 183,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 142,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 123,
+    "Rank": 19,
+    "Time Spent (seconds)": 124,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 19,
+    "Rank": 20,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Category": "Business"
-  },
-  {
-    "Rank": 20,
-    "Time Spent (seconds)": 97,
-    "Number of People": 1,
-    "Category": "Project Management"
   },
   {
     "Rank": 21,

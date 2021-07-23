@@ -49,7 +49,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1208,
+    "Time Spent (seconds)": 1215,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 1049,
+    "Time Spent (seconds)": 1056,
     "Number of People": 1,
     "Activity": "datastudio.google.com",
     "Category": "Data Modeling & Analysis",
@@ -129,6 +129,14 @@
   },
   {
     "Rank": 17,
+    "Time Spent (seconds)": 394,
+    "Number of People": 1,
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 379,
     "Number of People": 1,
     "Activity": "crossroadsequipmentandlease--uat.builder.salesforce-communities.com",
@@ -136,7 +144,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 19,
     "Time Spent (seconds)": 351,
     "Number of People": 1,
     "Activity": "s3.console.aws.amazon.com",
@@ -144,7 +152,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 20,
     "Time Spent (seconds)": 332,
     "Number of People": 1,
     "Activity": "Zoom",
@@ -152,7 +160,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 20,
+    "Rank": 21,
     "Time Spent (seconds)": 271,
     "Number of People": 1,
     "Activity": "fivethirtyeight.com",
@@ -160,7 +168,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 21,
+    "Rank": 22,
     "Time Spent (seconds)": 251,
     "Number of People": 1,
     "Activity": "ads.google.com",
@@ -168,7 +176,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
+    "Rank": 23,
     "Time Spent (seconds)": 228,
     "Number of People": 1,
     "Activity": "rescuetime.com",
@@ -176,7 +184,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 23,
+    "Rank": 24,
     "Time Spent (seconds)": 204,
     "Number of People": 1,
     "Activity": "codesandbox.io",
@@ -184,15 +192,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
-    "Time Spent (seconds)": 194,
+    "Rank": 25,
+    "Time Spent (seconds)": 185,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 26,
+    "Time Spent (seconds)": 183,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 180,
     "Number of People": 1,
     "Activity": "miro.com",
@@ -200,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 28,
     "Time Spent (seconds)": 178,
     "Number of People": 1,
     "Activity": "crossroadsequipmentandlease--uat.my.salesforce.com",
@@ -208,15 +224,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 176,
+    "Rank": 29,
+    "Time Spent (seconds)": 148,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
-    "Rank": 28,
+    "Rank": 30,
     "Time Spent (seconds)": 134,
     "Number of People": 1,
     "Activity": "localhost:1234",
@@ -224,7 +240,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 29,
+    "Rank": 31,
     "Time Spent (seconds)": 134,
     "Number of People": 1,
     "Activity": "messages",
@@ -232,23 +248,15 @@
     "Productivity": -1
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 133,
-    "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 31,
-    "Time Spent (seconds)": 123,
+    "Rank": 32,
+    "Time Spent (seconds)": 124,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 123,
     "Number of People": 1,
     "Activity": "crossroadsequipmentandlease--uat.lightning.force.com",
@@ -256,7 +264,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 34,
     "Time Spent (seconds)": 114,
     "Number of People": 1,
     "Activity": "codepen.io",
@@ -264,20 +272,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Activity": "cnbc.com",
     "Category": "Business",
     "Productivity": -1
-  },
-  {
-    "Rank": 35,
-    "Time Spent (seconds)": 97,
-    "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
   },
   {
     "Rank": 36,
@@ -291,17 +291,17 @@
     "Rank": 37,
     "Time Spent (seconds)": 94,
     "Number of People": 1,
-    "Activity": "crossroads-dealer-html-demo.s3-website-us-west-1.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 94,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "crossroads-dealer-html-demo.s3-website-us-west-1.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 39,
@@ -323,20 +323,28 @@
     "Rank": 41,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
-    "Activity": "anima-uploads.s3.amazonaws.com",
-    "Category": "Internet Utilities",
+    "Activity": "keeweb",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 42,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
+    "Activity": "anima-uploads.s3.amazonaws.com",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
     "Rank": 43,
+    "Time Spent (seconds)": 76,
+    "Number of People": 1,
+    "Activity": "rockpapershotgun.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 44,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
     "Activity": "s3tools.org",
@@ -344,7 +352,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
+    "Rank": 45,
     "Time Spent (seconds)": 63,
     "Number of People": 1,
     "Activity": "google.com",
@@ -352,7 +360,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 46,
+    "Time Spent (seconds)": 62,
+    "Number of People": 1,
+    "Activity": "cnn.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 47,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "nyquistdata.com",
@@ -360,15 +376,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
-    "Time Spent (seconds)": 49,
+    "Rank": 48,
+    "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 47,
+    "Rank": 49,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "calendly.com",
@@ -376,7 +392,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 50,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "sandiegouniontribune.com",
@@ -384,7 +400,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 49,
+    "Rank": 51,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "optimize.google.com",
@@ -392,7 +408,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 50,
+    "Rank": 52,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
     "Activity": "pluralsight.com",
@@ -400,7 +416,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 51,
+    "Rank": 53,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "signin.aws.amazon.com",
@@ -408,15 +424,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 52,
-    "Time Spent (seconds)": 22,
-    "Number of People": 1,
-    "Activity": "drive.google.com",
-    "Category": "General Business",
-    "Productivity": 2
-  },
-  {
-    "Rank": 53,
+    "Rank": 54,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -424,7 +432,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 54,
+    "Rank": 55,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 56,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "animaapp.com",
@@ -432,7 +448,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 55,
+    "Rank": 57,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "Preview",
@@ -440,7 +456,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 56,
+    "Rank": 58,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "google chrome",
@@ -448,7 +464,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 57,
+    "Rank": 59,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "crossroadsequipmentandlease--dondev.my.salesforce.com",
@@ -456,7 +472,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 58,
+    "Rank": 60,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "pages",
@@ -464,7 +480,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 59,
+    "Rank": 61,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "img",
@@ -472,7 +488,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 60,
+    "Rank": 62,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "crossroadsequipmentandlease--dondev.lightning.force.com",
@@ -480,15 +496,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 61,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 62,
+    "Rank": 63,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "history",
@@ -496,7 +504,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 63,
+    "Rank": 64,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 65,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "figma-to-html.netlify.app",
@@ -504,15 +520,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 64,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 65,
+    "Rank": 66,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "cerrowire.com",
@@ -520,15 +528,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 66,
-    "Time Spent (seconds)": 3,
+    "Rank": 67,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "usernotificationcenter",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 67,
+    "Rank": 68,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -536,7 +544,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 68,
+    "Rank": 69,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "usernotificationcenter",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 70,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "archive utility",
@@ -544,7 +560,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 69,
+    "Rank": 71,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "parceljs.org",
@@ -552,7 +568,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 70,
+    "Rank": 72,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "crossroadsequipmentandlease--uat--c.documentforce.com",
