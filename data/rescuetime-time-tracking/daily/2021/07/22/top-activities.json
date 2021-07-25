@@ -179,17 +179,17 @@
     "Rank": 23,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "mychonhealth.com",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "mychonhealth.com",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 25,
@@ -219,36 +219,20 @@
     "Rank": 28,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 29,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "rockpapershotgun.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 2,
+    "Rank": 29,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 31,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "drive.google.com",
-    "Category": "General Business",
+    "Activity": "iterm2",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 32,
+    "Rank": 30,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "figma.com",
@@ -256,15 +240,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 33,
-    "Time Spent (seconds)": 1,
+    "Rank": 31,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "google-analytics.com",
-    "Category": "General Software Development",
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "s3.console.aws.amazon.com",
@@ -272,11 +264,19 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 34,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "googleoptimize.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "google-analytics.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   }
 ]
