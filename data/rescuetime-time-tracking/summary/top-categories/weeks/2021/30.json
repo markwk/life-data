@@ -94,8 +94,8 @@
     "General Entertainment": 17,
     "Project Management": 11,
     "General Software Development": 6,
-    "General Design & Composition": 2,
-    "General Reference & Learning": 2
+    "General Reference & Learning": 2,
+    "General Design & Composition": 2
   },
   "2021-07-23": {
     "Presentation": 1255,
@@ -121,5 +121,11 @@
     "General Entertainment": 3,
     "Search": 1
   },
-  "2021-07-24": {}
+  "2021-07-24": {
+    "Audio Editing": 1683,
+    "General Utilities": 561,
+    "General Entertainment": 132,
+    "General Reference & Learning": 23,
+    "Intelligence": 18
+  }
 }

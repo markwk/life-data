@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1683,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 482,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 132,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "System Preferences",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 23,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  }
+]
