@@ -259,7 +259,18 @@
     "Business": 18
   },
   "25": {},
-  "26": {},
+  "26": {
+    "Communication & Scheduling": 5432,
+    "News & Opinion": 1311,
+    "Design & Composition": 421,
+    "Utilities": 206,
+    "Software Development": 130,
+    "Business": 116,
+    "Uncategorized": 99,
+    "Social Networking": 84,
+    "Entertainment": 81,
+    "Reference & Learning": 60
+  },
   "27": {},
   "28": {},
   "29": {},
