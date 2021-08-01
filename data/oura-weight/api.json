@@ -2,7 +2,8 @@
   "days": {
     "2021": [
       "06.json",
-      "07.json"
+      "07.json",
+      "08.json"
     ]
   },
   "months": [
@@ -14,7 +15,8 @@
       "28.json",
       "29.json",
       "30.json",
-      "31.json"
+      "31.json",
+      "32.json"
     ]
   },
   "years": "years.json"
