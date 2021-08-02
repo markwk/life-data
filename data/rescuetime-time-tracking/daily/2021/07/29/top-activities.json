@@ -307,16 +307,16 @@
     "Rank": 39,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "uclahs.zoom.us",
-    "Category": "Meetings",
+    "Activity": "ncbi.nlm.nih.gov",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "ncbi.nlm.nih.gov",
-    "Category": "Engineering & Technology",
+    "Activity": "uclahs.zoom.us",
+    "Category": "Meetings",
     "Productivity": 1
   },
   {
@@ -403,20 +403,28 @@
     "Rank": 51,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "wordpress.com",
-    "Category": "General News & Opinion",
-    "Productivity": 1
-  },
-  {
-    "Rank": 52,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "theme.visualmodo.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 52,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": 1
+  },
+  {
     "Rank": 53,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "system information",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 54,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "linkedin.com",
@@ -424,7 +432,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 55,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -432,20 +440,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 55,
+    "Rank": 56,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "app store",
     "Category": "General Shopping",
     "Productivity": -2
-  },
-  {
-    "Rank": 56,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "system information",
-    "Category": "General Utilities",
-    "Productivity": 1
   },
   {
     "Rank": 57,

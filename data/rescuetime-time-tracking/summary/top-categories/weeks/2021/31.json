@@ -106,8 +106,8 @@
     "Engineering & Technology": 36,
     "Health & Medicine": 18,
     "Accounting": 12,
-    "Professional Networking": 7,
-    "General Shopping": 7
+    "General Shopping": 7,
+    "Professional Networking": 7
   },
   "2021-07-30": {
     "Data Modeling & Analysis": 4136,
@@ -134,5 +134,29 @@
     "Search": 23,
     "Engineering & Technology": 23,
     "General Communication & Scheduling": 1
+  },
+  "2021-07-31": {
+    "Audio Editing": 1807,
+    "Music": 1059,
+    "Uncategorized": 758,
+    "Video": 224,
+    "General Entertainment": 210,
+    "General Utilities": 207,
+    "Data Modeling & Analysis": 200,
+    "Marketing": 144,
+    "General Business": 105,
+    "Search": 88,
+    "Project Management": 81,
+    "General Reference & Learning": 79,
+    "Intelligence": 63,
+    "General News & Opinion": 34,
+    "Browsers": 33,
+    "General Shopping": 27,
+    "Email": 9,
+    "Instant Message": 7,
+    "General Software Development": 6,
+    "Calendars": 5,
+    "Presentation": 2,
+    "Writing": 1
   }
 }
