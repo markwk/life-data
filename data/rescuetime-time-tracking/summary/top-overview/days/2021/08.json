@@ -10,7 +10,17 @@
     "Entertainment": 77,
     "Shopping": 17
   },
-  "2": {},
+  "2": {
+    "Business": 2582,
+    "Software Development": 2278,
+    "Uncategorized": 1303,
+    "Communication & Scheduling": 1246,
+    "Design & Composition": 1035,
+    "Reference & Learning": 460,
+    "Utilities": 385,
+    "News & Opinion": 138,
+    "Entertainment": 13
+  },
   "3": {},
   "4": {},
   "5": {},

@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 200,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "vrbo.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 200,
     "Number of People": 1,
-    "Activity": "vrbo.com",
-    "Category": "Travel & Outdoors",
-    "Productivity": -2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 13,
@@ -267,16 +267,16 @@
     "Rank": 34,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "frankosmaps.com",
-    "Category": "Uncategorized",
+    "Activity": "google chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "frankosmaps.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -299,17 +299,17 @@
     "Rank": 38,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "calendaroptions.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "calendaroptions.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 40,
@@ -331,16 +331,16 @@
     "Rank": 42,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "sweetwater.com",
-    "Category": "General Shopping",
+    "Activity": "serato dj lite",
+    "Category": "Music",
     "Productivity": -2
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "serato dj lite",
-    "Category": "Music",
+    "Activity": "sweetwater.com",
+    "Category": "General Shopping",
     "Productivity": -2
   }
 ]
