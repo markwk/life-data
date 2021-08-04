@@ -21,7 +21,17 @@
     "News & Opinion": 138,
     "Entertainment": 13
   },
-  "3": {},
+  "3": {
+    "Design & Composition": 6049,
+    "Software Development": 4532,
+    "Communication & Scheduling": 2558,
+    "Business": 2182,
+    "Utilities": 701,
+    "Reference & Learning": 578,
+    "Entertainment": 508,
+    "News & Opinion": 281,
+    "Uncategorized": 71
+  },
   "4": {},
   "5": {},
   "6": {},
