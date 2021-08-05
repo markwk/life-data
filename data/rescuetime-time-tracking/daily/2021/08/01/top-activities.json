@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 200,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "vrbo.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 200,
     "Number of People": 1,
-    "Activity": "vrbo.com",
-    "Category": "Travel & Outdoors",
-    "Productivity": -2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 13,
@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "travel.usnews.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "facebook.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "facebook.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "travel.usnews.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 27,
