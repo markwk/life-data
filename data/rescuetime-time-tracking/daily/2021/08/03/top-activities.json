@@ -171,17 +171,17 @@
     "Rank": 22,
     "Time Spent (seconds)": 139,
     "Number of People": 1,
-    "Activity": "nfx.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 139,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "nfx.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 24,
@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "nypost.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
-    "Activity": "nypost.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 36,
@@ -427,16 +427,16 @@
     "Rank": 54,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "verified.capitalone.com",
-    "Category": "Accounting",
+    "Activity": "help.miro.com",
+    "Category": "Presentation",
     "Productivity": 2
   },
   {
     "Rank": 55,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "help.miro.com",
-    "Category": "Presentation",
+    "Activity": "verified.capitalone.com",
+    "Category": "Accounting",
     "Productivity": 2
   },
   {
