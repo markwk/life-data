@@ -307,25 +307,25 @@
     "Rank": 39,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "somits-isep-01.somise.medctr.ucla.edu:8443",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 40,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "news.yahoo.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 41,
+    "Rank": 40,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "meet.google.com",
     "Category": "Meetings",
     "Productivity": 1
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "somits-isep-01.somise.medctr.ucla.edu:8443",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 42,
