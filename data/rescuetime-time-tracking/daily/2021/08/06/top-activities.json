@@ -43,16 +43,16 @@
     "Rank": 6,
     "Time Spent (seconds)": 797,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
+    "Activity": "miro.com",
+    "Category": "Presentation",
     "Productivity": 2
   },
   {
     "Rank": 7,
     "Time Spent (seconds)": 797,
     "Number of People": 1,
-    "Activity": "miro.com",
-    "Category": "Presentation",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 41,
@@ -363,20 +363,12 @@
     "Rank": 46,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "wordpress.com",
-    "Category": "General News & Opinion",
-    "Productivity": 1
-  },
-  {
-    "Rank": 47,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -384,20 +376,28 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
-    "Time Spent (seconds)": 4,
+    "Rank": 48,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "Google Documents",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": 1
   },
   {
-    "Rank": 50,
+    "Rank": 49,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "airbnb.com",
     "Category": "Travel & Outdoors",
     "Productivity": 0
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "Google Documents",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 51,
@@ -411,25 +411,25 @@
     "Rank": 52,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
+    "Activity": "hawaiianairlines.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "archive utility",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "hawaiianairlines.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 55,

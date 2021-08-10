@@ -81,15 +81,29 @@
     "Shopping": 33
   },
   "8": {
-    "Software Development": 3058,
-    "Reference & Learning": 1194,
+    "Software Development": 4404,
+    "Business": 2333,
+    "Design & Composition": 2073,
+    "Reference & Learning": 1955,
+    "Utilities": 697,
+    "Communication & Scheduling": 495,
     "Entertainment": 334,
-    "Design & Composition": 292,
-    "Business": 218,
     "News & Opinion": 184,
-    "Utilities": 81
+    "Uncategorized": 57
   },
-  "9": {},
+  "9": {
+    "Design & Composition": 9216,
+    "Business": 6379,
+    "Communication & Scheduling": 3727,
+    "Software Development": 2162,
+    "Uncategorized": 2121,
+    "Utilities": 971,
+    "Shopping": 702,
+    "Reference & Learning": 505,
+    "News & Opinion": 160,
+    "Social Networking": 160,
+    "Entertainment": 151
+  },
   "10": {},
   "11": {},
   "12": {},
