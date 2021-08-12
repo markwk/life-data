@@ -100,8 +100,8 @@
     "Utilities": 1306,
     "Shopping": 702,
     "Reference & Learning": 535,
-    "News & Opinion": 160,
     "Social Networking": 160,
+    "News & Opinion": 160,
     "Entertainment": 151
   },
   "10": {
@@ -116,7 +116,18 @@
     "Social Networking": 82,
     "Entertainment": 53
   },
-  "11": {},
+  "11": {
+    "Software Development": 6771,
+    "Design & Composition": 5227,
+    "Business": 4715,
+    "Communication & Scheduling": 2899,
+    "Utilities": 767,
+    "Entertainment": 731,
+    "Reference & Learning": 504,
+    "Uncategorized": 356,
+    "News & Opinion": 227,
+    "Shopping": 40
+  },
   "12": {},
   "13": {},
   "14": {},
