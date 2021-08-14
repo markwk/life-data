@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 654,
+    "Time Spent (seconds)": 701,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 519,
+    "Time Spent (seconds)": 543,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 452,
+    "Time Spent (seconds)": 532,
     "Number of People": 1,
     "Activity": "datastudio.google.com",
     "Category": "Data Modeling & Analysis",
@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 412,
+    "Time Spent (seconds)": 419,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
@@ -41,22 +41,46 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 347,
-    "Number of People": 1,
-    "Activity": "miro.com",
-    "Category": "Presentation",
-    "Productivity": 2
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 234,
+    "Time Spent (seconds)": 373,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
+    "Rank": 7,
+    "Time Spent (seconds)": 348,
+    "Number of People": 1,
+    "Activity": "miro.com",
+    "Category": "Presentation",
+    "Productivity": 2
+  },
+  {
     "Rank": 8,
+    "Time Spent (seconds)": 259,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 253,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 230,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 220,
     "Number of People": 1,
     "Activity": "System Preferences",
@@ -64,7 +88,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
+    "Rank": 12,
     "Time Spent (seconds)": 211,
     "Number of People": 1,
     "Activity": "spotify",
@@ -72,64 +96,40 @@
     "Productivity": -2
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 146,
+    "Rank": 13,
+    "Time Spent (seconds)": 169,
+    "Number of People": 1,
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 161,
+    "Number of People": 1,
+    "Activity": "airbnb.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": 0
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 148,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 148,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 108,
-    "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 12,
-    "Time Spent (seconds)": 103,
-    "Number of People": 1,
-    "Activity": "Google Spreadsheets",
-    "Category": "General Business",
-    "Productivity": 2
-  },
-  {
-    "Rank": 13,
-    "Time Spent (seconds)": 100,
-    "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 1
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 88,
-    "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 64,
-    "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 16,
-    "Time Spent (seconds)": 58,
-    "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
     "Rank": 17,
-    "Time Spent (seconds)": 34,
+    "Time Spent (seconds)": 130,
     "Number of People": 1,
     "Activity": "ads.google.com",
     "Category": "Marketing",
@@ -137,14 +137,38 @@
   },
   {
     "Rank": 18,
-    "Time Spent (seconds)": 30,
+    "Time Spent (seconds)": 111,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 19,
+    "Time Spent (seconds)": 108,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "iWork Numbers",
@@ -152,15 +176,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 20,
-    "Time Spent (seconds)": 9,
+    "Rank": 23,
+    "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "messages",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 21,
+    "Rank": 24,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "bmwmotorcycle.com",
@@ -168,7 +192,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 22,
+    "Rank": 25,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "f800riders.org",
@@ -176,7 +200,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 26,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "rescuetime.com",
@@ -184,7 +208,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 27,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "bookmarks",
@@ -192,7 +216,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 25,
+    "Rank": 28,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bobsbmw.com",
