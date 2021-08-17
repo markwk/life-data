@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 475,
+    "Number of People": 1,
+    "Activity": "Google Documents",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 303,
     "Number of People": 1,
     "Activity": "Google Calendar",
     "Category": "Calendars",
     "Productivity": 1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 263,
-    "Number of People": 1,
-    "Activity": "Google Documents",
-    "Category": "Writing",
-    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -41,6 +41,14 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 148,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -48,7 +56,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 8,
     "Time Spent (seconds)": 63,
     "Number of People": 1,
     "Activity": "datastudio.google.com",
@@ -56,7 +64,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "newtab",
@@ -64,7 +72,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "google.com",
@@ -72,19 +80,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -94,5 +94,13 @@
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]

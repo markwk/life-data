@@ -142,14 +142,15 @@
   },
   "2021-08-13": {
     "Meetings": 502,
+    "Writing": 483,
+    "Intelligence": 377,
     "Calendars": 303,
-    "Writing": 271,
-    "Intelligence": 235,
     "Presentation": 169,
     "General Business": 68,
     "Data Modeling & Analysis": 63,
     "Browsers": 62,
-    "Search": 16
+    "Search": 16,
+    "General Utilities": 3
   },
   "2021-08-14": {}
 }
