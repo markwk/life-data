@@ -459,33 +459,33 @@
     "Rank": 58,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "sweetwater.com",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 59,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
     "Activity": "icon-icons.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 60,
-    "Time Spent (seconds)": 11,
+    "Rank": 59,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "uxdesign.cc",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "sweetwater.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
-    "Rank": 61,
+    "Rank": 60,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "accounts.intuit.com",
     "Category": "Accounting",
     "Productivity": 2
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "uxdesign.cc",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 62,
