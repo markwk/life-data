@@ -251,17 +251,17 @@
     "Rank": 32,
     "Time Spent (seconds)": 106,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "unsplash.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 106,
     "Number of People": 1,
-    "Activity": "unsplash.com",
-    "Category": "Graphic Design",
-    "Productivity": 2
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 34,
@@ -291,16 +291,16 @@
     "Rank": 37,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Activity": "medium.com",
-    "Category": "Writing",
+    "Activity": "iterm2",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
+    "Activity": "medium.com",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
@@ -427,17 +427,17 @@
     "Rank": 54,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "fortune.com",
-    "Category": "Business",
-    "Productivity": -1
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 55,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "the archive",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "fortune.com",
+    "Category": "Business",
+    "Productivity": -1
   },
   {
     "Rank": 56,
@@ -459,33 +459,33 @@
     "Rank": 58,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "icon-icons.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 59,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
     "Activity": "sweetwater.com",
     "Category": "General Shopping",
     "Productivity": -2
   },
   {
-    "Rank": 60,
-    "Time Spent (seconds)": 11,
+    "Rank": 59,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "accounts.intuit.com",
-    "Category": "Accounting",
-    "Productivity": 2
+    "Activity": "icon-icons.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 61,
+    "Rank": 60,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "uxdesign.cc",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "accounts.intuit.com",
+    "Category": "Accounting",
+    "Productivity": 2
   },
   {
     "Rank": 62,
@@ -507,17 +507,17 @@
     "Rank": 64,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "melodics",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "melodics",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 66,

@@ -379,16 +379,16 @@
     "Rank": 48,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "blog.lifeli.app",
-    "Category": "Uncategorized",
+    "Activity": "google chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "blog.lifeli.app",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "liferithms.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "preview.themeforest.net",
+    "Category": "General Design & Composition",
+    "Productivity": 2
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "preview.themeforest.net",
-    "Category": "General Design & Composition",
-    "Productivity": 2
+    "Activity": "liferithms.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 59,
@@ -499,16 +499,16 @@
     "Rank": 63,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "apple.stackexchange.com",
-    "Category": "Engineering & Technology",
+    "Activity": "facetime",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
     "Rank": 64,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
+    "Activity": "apple.stackexchange.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
@@ -563,16 +563,16 @@
     "Rank": 71,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "email.n.dribbble.com",
+    "Category": "Graphic Design",
     "Productivity": 2
   },
   {
     "Rank": 72,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "email.n.dribbble.com",
-    "Category": "Graphic Design",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -587,25 +587,25 @@
     "Rank": 74,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "memrise.com",
-    "Category": "General Reference & Learning",
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
     "Productivity": 2
   },
   {
     "Rank": 75,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "opigno.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 76,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "opigno.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "memrise.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 2
   },
   {
     "Rank": 77,
