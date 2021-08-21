@@ -307,23 +307,23 @@
     "Rank": 39,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
-    "Activity": "bnhra.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 40,
-    "Time Spent (seconds)": 49,
-    "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 41,
+    "Rank": 40,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "scienceofgoals.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Activity": "bnhra.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -379,16 +379,16 @@
     "Rank": 48,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "blog.lifeli.app",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "blog.lifeli.app",
-    "Category": "Uncategorized",
+    "Activity": "google chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
@@ -427,17 +427,17 @@
     "Rank": 54,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "support.apple.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 55,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "support.apple.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 56,
@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "preview.themeforest.net",
-    "Category": "General Design & Composition",
-    "Productivity": 2
+    "Activity": "liferithms.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "liferithms.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "preview.themeforest.net",
+    "Category": "General Design & Composition",
+    "Productivity": 2
   },
   {
     "Rank": 59,
@@ -483,32 +483,32 @@
     "Rank": 61,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
+    "Activity": "anki",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "anki",
-    "Category": "General Reference & Learning",
+    "Activity": "bookends",
+    "Category": "Search",
     "Productivity": 1
   },
   {
     "Rank": 63,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
+    "Activity": "apple.stackexchange.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 64,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "apple.stackexchange.com",
-    "Category": "Engineering & Technology",
+    "Activity": "facetime",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
@@ -539,25 +539,25 @@
     "Rank": 68,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "Microsoft Teams",
-    "Category": "Instant Message",
-    "Productivity": 0
+    "Activity": "sweetwater.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 69,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "lifeli.app",
-    "Category": "Uncategorized",
+    "Activity": "Microsoft Teams",
+    "Category": "Instant Message",
     "Productivity": 0
   },
   {
     "Rank": 70,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "sweetwater.com",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "lifeli.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 71,
