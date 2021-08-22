@@ -259,20 +259,12 @@
     "Rank": 33,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "producerhive.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 34,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "the archive",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 34,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "indiegogo.com",
@@ -280,12 +272,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 36,
+    "Rank": 35,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "producerhive.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 37,
@@ -315,16 +315,16 @@
     "Rank": 40,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
     "Productivity": 2
   },
   {
@@ -339,23 +339,23 @@
     "Rank": 43,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "progressprinciple.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 44,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
     "Productivity": -2
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "bnhra.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "progressprinciple.com",
     "Category": "Uncategorized",
     "Productivity": 0
   }
