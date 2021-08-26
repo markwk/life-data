@@ -249,22 +249,25 @@
     "Reference & Learning": 374,
     "News & Opinion": 334,
     "Social Networking": 239,
-    "Entertainment": 31,
-    "Shopping": 31
+    "Shopping": 31,
+    "Entertainment": 31
   },
   "24": {
-    "Software Development": 7120,
-    "Communication & Scheduling": 4433,
-    "Design & Composition": 2999,
-    "Business": 2646,
-    "Utilities": 1539,
-    "News & Opinion": 537,
-    "Uncategorized": 531,
-    "Reference & Learning": 472,
+    "Software Development": 7523,
+    "Business": 6389,
+    "Communication & Scheduling": 6059,
+    "Design & Composition": 3016,
+    "Utilities": 1863,
+    "Uncategorized": 1051,
+    "Reference & Learning": 579,
+    "News & Opinion": 548,
     "Shopping": 152,
-    "Entertainment": 58
+    "Entertainment": 68
   },
-  "25": {},
+  "25": {
+    "Business": 28,
+    "Design & Composition": 3
+  },
   "26": {},
   "27": {},
   "28": {},

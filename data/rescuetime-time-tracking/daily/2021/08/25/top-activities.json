@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  }
+]
