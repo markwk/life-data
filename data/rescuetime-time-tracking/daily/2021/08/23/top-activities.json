@@ -67,16 +67,16 @@
     "Rank": 9,
     "Time Spent (seconds)": 379,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 10,
     "Time Spent (seconds)": 379,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
@@ -435,20 +435,12 @@
     "Rank": 55,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
-  },
-  {
-    "Rank": 56,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "facetime",
     "Category": "Voice Chat",
     "Productivity": 1
   },
   {
-    "Rank": 57,
+    "Rank": 56,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "libgen.unblocked.lc",
@@ -456,15 +448,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 58,
-    "Time Spent (seconds)": 2,
+    "Rank": 57,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
   },
   {
-    "Rank": 59,
+    "Rank": 58,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "gweb-miyagi.firebaseapp.com",
@@ -472,7 +464,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 60,
+    "Rank": 59,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "93.174.95.29",
@@ -480,7 +472,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 61,
+    "Rank": 60,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "transcode",
@@ -488,11 +480,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 62,
+    "Rank": 61,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "attackmagazine.com",
     "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
