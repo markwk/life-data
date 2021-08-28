@@ -299,24 +299,24 @@
     "Rank": 38,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
-    "Activity": "theweek.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 68,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
+    "Activity": "theweek.com",
+    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Activity": "thehill.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "discussions.apple.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Activity": "discussions.apple.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "thehill.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 48,
@@ -427,7 +427,7 @@
     "Rank": 54,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "keyboardsetupassistant",
+    "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -435,7 +435,7 @@
     "Rank": 55,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "bartender 4",
+    "Activity": "keyboardsetupassistant",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -483,17 +483,17 @@
     "Rank": 61,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "drive.google.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "behindthebuckpass.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "behindthebuckpass.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 63,
@@ -515,25 +515,25 @@
     "Rank": 65,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "favicon.cc",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "alfred preferences",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 67,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "favicon.cc",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "alfred preferences",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 68,
@@ -587,36 +587,20 @@
     "Rank": 74,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "users",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 75,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "coreautha",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 75,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "users",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 76,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "transcode",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 77,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "forms.gle",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 78,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Mail",
@@ -624,10 +608,26 @@
     "Productivity": 0
   },
   {
-    "Rank": 79,
+    "Rank": 77,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "jarvis.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 78,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "transcode",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 79,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "forms.gle",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -659,16 +659,16 @@
     "Rank": 83,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "googleoptimize.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 84,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "googleoptimize.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
   }
 ]
