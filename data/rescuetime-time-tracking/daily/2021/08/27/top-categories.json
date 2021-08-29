@@ -1,1 +1,104 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 4490,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1244,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 440,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 411,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 280,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 171,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 157,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 128,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 71,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Category": "Science & Technology"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 46,
+    "Number of People": 1,
+    "Category": "Photos"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Category": "Music"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Writing"
+  }
+]

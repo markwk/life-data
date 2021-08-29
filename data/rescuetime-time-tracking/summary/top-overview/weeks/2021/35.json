@@ -41,6 +41,25 @@
     "Design & Composition": 3
   },
   "2021-08-26": {},
-  "2021-08-27": {},
-  "2021-08-28": {}
+  "2021-08-27": {
+    "Entertainment": 4549,
+    "News & Opinion": 1297,
+    "Uncategorized": 440,
+    "Business": 423,
+    "Software Development": 414,
+    "Utilities": 242,
+    "Communication & Scheduling": 157,
+    "Reference & Learning": 54,
+    "Design & Composition": 2
+  },
+  "2021-08-28": {
+    "Communication & Scheduling": 576,
+    "Business": 423,
+    "Entertainment": 307,
+    "Utilities": 247,
+    "Uncategorized": 137,
+    "Software Development": 19,
+    "Shopping": 8,
+    "Design & Composition": 5
+  }
 }
