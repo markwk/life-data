@@ -281,15 +281,25 @@
     "Design & Composition": 2
   },
   "28": {
-    "Communication & Scheduling": 576,
-    "Business": 423,
+    "Communication & Scheduling": 625,
+    "Business": 615,
     "Entertainment": 307,
-    "Utilities": 247,
+    "Software Development": 303,
+    "Utilities": 267,
     "Uncategorized": 137,
-    "Software Development": 19,
     "Shopping": 8,
     "Design & Composition": 5
   },
-  "29": {},
+  "29": {
+    "Communication & Scheduling": 2957,
+    "Design & Composition": 1804,
+    "Entertainment": 1794,
+    "Software Development": 818,
+    "Uncategorized": 701,
+    "Reference & Learning": 697,
+    "Utilities": 276,
+    "Business": 275,
+    "News & Opinion": 243
+  },
   "30": {}
 }
