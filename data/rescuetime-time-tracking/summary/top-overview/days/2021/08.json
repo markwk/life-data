@@ -291,15 +291,28 @@
     "Design & Composition": 5
   },
   "29": {
-    "Communication & Scheduling": 2957,
-    "Design & Composition": 1804,
-    "Entertainment": 1794,
-    "Software Development": 818,
-    "Uncategorized": 701,
-    "Reference & Learning": 697,
-    "Utilities": 276,
-    "Business": 275,
-    "News & Opinion": 243
+    "Communication & Scheduling": 3147,
+    "Design & Composition": 2838,
+    "Entertainment": 2156,
+    "Software Development": 1595,
+    "Uncategorized": 1447,
+    "Business": 1132,
+    "Reference & Learning": 742,
+    "Utilities": 549,
+    "News & Opinion": 263,
+    "Shopping": 63
   },
-  "30": {}
+  "30": {
+    "Communication & Scheduling": 3124,
+    "Business": 2488,
+    "Design & Composition": 1385,
+    "Social Networking": 702,
+    "Software Development": 657,
+    "Reference & Learning": 641,
+    "News & Opinion": 470,
+    "Utilities": 464,
+    "Uncategorized": 237,
+    "Entertainment": 25,
+    "Shopping": 7
+  }
 }
