@@ -1,17 +1,27 @@
 {
   "1": {
     "Design & Composition": 10133,
-    "Communication & Scheduling": 3283,
+    "Communication & Scheduling": 3288,
     "News & Opinion": 961,
-    "Business": 734,
-    "Software Development": 541,
+    "Business": 736,
+    "Software Development": 594,
     "Utilities": 330,
     "Reference & Learning": 240,
     "Entertainment": 211,
     "Uncategorized": 162,
     "Shopping": 5
   },
-  "2": {},
+  "2": {
+    "Design & Composition": 2378,
+    "Software Development": 2287,
+    "Communication & Scheduling": 1019,
+    "Reference & Learning": 826,
+    "Business": 774,
+    "Utilities": 436,
+    "Entertainment": 424,
+    "Uncategorized": 210,
+    "News & Opinion": 15
+  },
   "3": {},
   "4": {},
   "5": {},

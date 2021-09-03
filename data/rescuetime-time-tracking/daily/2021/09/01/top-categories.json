@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 711,
+    "Time Spent (seconds)": 716,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -61,33 +61,33 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 224,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 211,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 209,
     "Number of People": 1,
     "Category": "Marketing"
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 189,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 175,
     "Number of People": 1,
     "Category": "General Utilities"
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 171,
-    "Number of People": 1,
-    "Category": "Data Modeling & Analysis"
   },
   {
     "Rank": 16,
@@ -121,7 +121,7 @@
   },
   {
     "Rank": 21,
-    "Time Spent (seconds)": 81,
+    "Time Spent (seconds)": 83,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -147,12 +147,12 @@
     "Rank": 25,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Category": "Audio Editing"
+    "Category": "General Shopping"
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Category": "General Shopping"
+    "Category": "Audio Editing"
   }
 ]
