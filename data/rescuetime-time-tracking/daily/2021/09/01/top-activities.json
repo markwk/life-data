@@ -211,17 +211,17 @@
     "Rank": 27,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
-    "Activity": "wordpress.com",
-    "Category": "General News & Opinion",
-    "Productivity": 1
+    "Activity": "manifest.mailchimpsites.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 28,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
-    "Activity": "manifest.mailchimpsites.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": 1
   },
   {
     "Rank": 29,
@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "vaco.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "vaco.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 38,
@@ -307,25 +307,25 @@
     "Rank": 39,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "miro.com",
+    "Category": "Presentation",
     "Productivity": 2
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "bookmarks",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "miro.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "bookmarks",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 42,
