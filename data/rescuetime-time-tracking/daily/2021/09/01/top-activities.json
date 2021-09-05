@@ -211,17 +211,17 @@
     "Rank": 27,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
-    "Activity": "manifest.mailchimpsites.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": 1
   },
   {
     "Rank": 28,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
-    "Activity": "wordpress.com",
-    "Category": "General News & Opinion",
-    "Productivity": 1
+    "Activity": "manifest.mailchimpsites.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 29,
@@ -307,25 +307,25 @@
     "Rank": 39,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "miro.com",
-    "Category": "Presentation",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "bookmarks",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "bookmarks",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "miro.com",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 42,
@@ -371,20 +371,12 @@
     "Rank": 47,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 48,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
     "Activity": "medium.com",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 49,
+    "Rank": 48,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "thenounproject.com",
@@ -392,15 +384,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 50,
-    "Time Spent (seconds)": 6,
+    "Rank": 49,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "Notion",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 51,
+    "Rank": 50,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -408,7 +400,23 @@
     "Productivity": 1
   },
   {
+    "Rank": 51,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "Notion",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
     "Rank": 52,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "latimes.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 53,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "splice",
@@ -416,7 +424,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 53,
+    "Rank": 54,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "docs.animaapp.com",
@@ -424,19 +432,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 55,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "amazon.com",
     "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 55,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "latimes.com",
-    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
