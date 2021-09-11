@@ -221,7 +221,7 @@
     "Number of People": 1,
     "Activity": "libgen.unblockit.ws",
     "Category": "Uncategorized",
-    "Productivity": 0
+    "Productivity": 1
   },
   {
     "Rank": 29,
@@ -419,17 +419,17 @@
     "Rank": 53,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "lapl.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "sfgate.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "sfgate.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "lapl.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 55,
