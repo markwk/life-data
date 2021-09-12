@@ -51,14 +51,21 @@
   "2021-09-10": {
     "Design & Composition": 6270,
     "Communication & Scheduling": 3652,
-    "Reference & Learning": 1167,
-    "Business": 751,
-    "Utilities": 333,
+    "Reference & Learning": 1416,
+    "Business": 1211,
+    "Uncategorized": 1019,
+    "Utilities": 385,
     "Social Networking": 314,
-    "Uncategorized": 274,
+    "Software Development": 167,
     "News & Opinion": 166,
-    "Software Development": 165,
     "Entertainment": 131
   },
-  "2021-09-11": {}
+  "2021-09-11": {
+    "Reference & Learning": 2520,
+    "Business": 1184,
+    "Design & Composition": 765,
+    "Utilities": 213,
+    "Uncategorized": 55,
+    "Communication & Scheduling": 19
+  }
 }
