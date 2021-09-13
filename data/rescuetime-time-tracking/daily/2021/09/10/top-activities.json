@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
     "Productivity": 2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -267,7 +267,7 @@
     "Rank": 34,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "alfred preferences",
+    "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -275,7 +275,7 @@
     "Rank": 35,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "keeweb",
+    "Activity": "alfred preferences",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "psycnet.apa.org",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "psycnet.apa.org",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 44,
@@ -387,17 +387,17 @@
     "Rank": 49,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "twitter.com",
+    "Category": "General Social Networking",
+    "Productivity": 0
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "twitter.com",
-    "Category": "General Social Networking",
-    "Productivity": 0
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 51,

@@ -104,14 +104,20 @@
     "Entertainment": 131
   },
   "11": {
-    "Reference & Learning": 2520,
-    "Business": 1184,
-    "Design & Composition": 765,
-    "Utilities": 213,
+    "Design & Composition": 2668,
+    "Reference & Learning": 2530,
+    "Business": 1457,
+    "Utilities": 514,
     "Uncategorized": 55,
-    "Communication & Scheduling": 19
+    "Communication & Scheduling": 40
   },
-  "12": {},
+  "12": {
+    "Design & Composition": 2257,
+    "Entertainment": 11,
+    "Business": 6,
+    "Utilities": 5,
+    "Reference & Learning": 4
+  },
   "13": {},
   "14": {},
   "15": {},
