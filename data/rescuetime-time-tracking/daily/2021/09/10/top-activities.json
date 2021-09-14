@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
     "Productivity": 2
   },
   {
@@ -267,7 +267,7 @@
     "Rank": 34,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "keeweb",
+    "Activity": "alfred preferences",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -275,7 +275,7 @@
     "Rank": 35,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "alfred preferences",
+    "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -403,25 +403,25 @@
     "Rank": 51,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "owntracks.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "otter.ai",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "newsroom.ucla.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "owntracks.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "otter.ai",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "newsroom.ucla.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 54,
