@@ -155,7 +155,7 @@
     "Rank": 20,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "bartender 4",
+    "Activity": "coreservicesuiagent",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -163,7 +163,7 @@
     "Rank": 21,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
+    "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },

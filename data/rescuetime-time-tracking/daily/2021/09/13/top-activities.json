@@ -41,19 +41,19 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 247,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 243,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 226,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
   },
   {
     "Rank": 8,
@@ -145,7 +145,7 @@
   },
   {
     "Rank": 19,
-    "Time Spent (seconds)": 15,
+    "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "Google Calendar",
     "Category": "Calendars",
