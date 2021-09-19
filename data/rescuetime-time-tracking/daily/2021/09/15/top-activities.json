@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
-    "Activity": "miro.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "notifyflaskapp.herokuapp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
-    "Activity": "notifyflaskapp.herokuapp.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "miro.com",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 27,
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "cavsnation.com",
+    "Category": "Sports",
+    "Productivity": -1
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "cavsnation.com",
-    "Category": "Sports",
-    "Productivity": -1
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 41,
@@ -331,33 +331,33 @@
     "Rank": 42,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 43,
-    "Time Spent (seconds)": 46,
-    "Number of People": 1,
     "Activity": "amity.co",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 45,
+    "Rank": 43,
+    "Time Spent (seconds)": 46,
     "Number of People": 1,
-    "Activity": "ads.google.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Activity": "comicbook.com",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "ads.google.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 46,
@@ -371,16 +371,16 @@
     "Rank": 47,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
-    "Activity": "localhost:19002",
-    "Category": "General Software Development",
+    "Activity": "mint.intuit.com",
+    "Category": "Accounting",
     "Productivity": 2
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
-    "Activity": "mint.intuit.com",
-    "Category": "Accounting",
+    "Activity": "localhost:19002",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -547,20 +547,12 @@
     "Rank": 69,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "bookloverscon.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 70,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
     "Activity": "enlight.nyc",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 71,
+    "Rank": 70,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "marmelab.com",
@@ -568,20 +560,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 72,
-    "Time Spent (seconds)": 11,
+    "Rank": 71,
+    "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "bookloverscon.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "New York Times",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 74,
@@ -627,25 +627,25 @@
     "Rank": 79,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "sfgate.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 80,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "localhost:8080",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 81,
+    "Rank": 80,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 81,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "sfgate.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 82,
