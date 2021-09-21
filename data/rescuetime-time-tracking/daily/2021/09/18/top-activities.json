@@ -179,20 +179,12 @@
     "Rank": 23,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "dailynous.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
     "Activity": "figma.com",
     "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
-    "Rank": 25,
+    "Rank": 24,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "editorial.rottentomatoes.com",
@@ -200,11 +192,19 @@
     "Productivity": -2
   },
   {
-    "Rank": 26,
+    "Rank": 25,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "dailynous.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   }
 ]
