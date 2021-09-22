@@ -179,32 +179,32 @@
     "Rank": 23,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "figma.com",
-    "Category": "General Design & Composition",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "editorial.rottentomatoes.com",
-    "Category": "General Entertainment",
+    "Activity": "dailynous.com",
+    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "dailynous.com",
-    "Category": "General News & Opinion",
+    "Activity": "editorial.rottentomatoes.com",
+    "Category": "General Entertainment",
     "Productivity": -2
   }
 ]
