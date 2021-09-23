@@ -275,25 +275,25 @@
     "Rank": 35,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "journals.sagepub.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 36,
-    "Time Spent (seconds)": 22,
-    "Number of People": 1,
     "Activity": "fantastapack.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 37,
+    "Rank": 36,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "amazon.com",
     "Category": "General Shopping",
     "Productivity": -2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "journals.sagepub.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 38,
@@ -315,17 +315,17 @@
     "Rank": 40,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "plato.stanford.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "dribbble.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "dribbble.com",
-    "Category": "Graphic Design",
-    "Productivity": 2
+    "Activity": "plato.stanford.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 42,
@@ -355,20 +355,12 @@
     "Rank": 45,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "outsideonline.com",
-    "Category": "Sports",
-    "Productivity": -1
-  },
-  {
-    "Rank": 46,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
     "Activity": "vox.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 47,
+    "Rank": 46,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "newyorker.com",
@@ -376,7 +368,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -384,12 +376,20 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 48,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "sci-hub.ru",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "outsideonline.com",
+    "Category": "Sports",
+    "Productivity": -1
   },
   {
     "Rank": 50,
@@ -403,24 +403,24 @@
     "Rank": 51,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "wired.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "lawliberty.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "wired.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "lawliberty.org",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {

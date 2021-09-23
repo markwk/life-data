@@ -21,7 +21,17 @@
     "score_sleep_balance": 69,
     "score_temperature": 100
   },
-  "2021-09-21": {},
+  "2021-09-21": {
+    "score": 76,
+    "score_activity_balance": 76,
+    "score_hrv_balance": 87,
+    "score_previous_day": 56,
+    "score_previous_night": 88,
+    "score_recovery_index": 66,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 75,
+    "score_temperature": 82
+  },
   "2021-09-22": {},
   "2021-09-23": {},
   "2021-09-24": {},

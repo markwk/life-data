@@ -259,17 +259,17 @@
     "Rank": 33,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "updater",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "themacbeginner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 34,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "themacbeginner.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "updater",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 35,
@@ -299,33 +299,33 @@
     "Rank": 38,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
+    "Activity": "googleadservices.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "get.php",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "libgen.me",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "googleadservices.com",
-    "Category": "General Software Development",
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
     "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "libgen.me",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "get.php",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 42,

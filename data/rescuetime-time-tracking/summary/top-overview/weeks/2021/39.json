@@ -35,7 +35,19 @@
     "News & Opinion": 26,
     "Shopping": 22
   },
-  "2021-09-22": {},
+  "2021-09-22": {
+    "Communication & Scheduling": 4459,
+    "Software Development": 4016,
+    "Design & Composition": 1334,
+    "Uncategorized": 1137,
+    "Reference & Learning": 698,
+    "Business": 623,
+    "Utilities": 512,
+    "Social Networking": 506,
+    "News & Opinion": 314,
+    "Entertainment": 130,
+    "Shopping": 14
+  },
   "2021-09-23": {},
   "2021-09-24": {},
   "2021-09-25": {}
