@@ -379,7 +379,7 @@
     "Rank": 48,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
-    "Activity": "projects.wojtekmaj.pl",
+    "Activity": "google-auth.readthedocs.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -387,7 +387,7 @@
     "Rank": 49,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
-    "Activity": "google-auth.readthedocs.io",
+    "Activity": "projects.wojtekmaj.pl",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "codementor.io",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "vicensfayos.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "vicensfayos.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "codementor.io",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 59,
@@ -563,25 +563,25 @@
     "Rank": 71,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "news.ycombinator.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 72,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
     "Activity": "the archive",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "w3schools.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "news.ycombinator.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 74,
@@ -595,7 +595,7 @@
     "Rank": 75,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "dbeaver.io",
+    "Activity": "fareharbor.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -603,17 +603,17 @@
     "Rank": 76,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "fareharbor.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "wiki.postgresql.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 77,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "wiki.postgresql.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "dbeaver.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 78,
@@ -651,7 +651,7 @@
     "Rank": 82,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "scalegrid.io",
+    "Activity": "exponential.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -659,33 +659,33 @@
     "Rank": 83,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "sleepdiary.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 84,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "exponential.io",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 85,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "autoupdate",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 86,
+    "Rank": 84,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "coreservicesuiagent",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "scalegrid.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 86,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "sleepdiary.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 87,

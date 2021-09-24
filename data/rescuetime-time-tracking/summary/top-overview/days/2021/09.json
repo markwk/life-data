@@ -238,7 +238,18 @@
     "Entertainment": 130,
     "Shopping": 14
   },
-  "23": {},
+  "23": {
+    "Communication & Scheduling": 1144,
+    "News & Opinion": 846,
+    "Software Development": 809,
+    "Design & Composition": 793,
+    "Uncategorized": 705,
+    "Entertainment": 539,
+    "Business": 524,
+    "Shopping": 350,
+    "Utilities": 123,
+    "Reference & Learning": 32
+  },
   "24": {},
   "25": {},
   "26": {},

@@ -347,17 +347,17 @@
     "Rank": 44,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "gitlab.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 45,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "gitlab.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 46,
@@ -483,20 +483,12 @@
     "Rank": 61,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
-  },
-  {
-    "Rank": 62,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "designer.boxgenie.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 63,
+    "Rank": 62,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "keeweb",
@@ -504,23 +496,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 64,
-    "Time Spent (seconds)": 1,
+    "Rank": 63,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "pngtree.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 65,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "elements.envato.com",
-    "Category": "Business & Finance",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
-    "Rank": 66,
+    "Rank": 64,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "nextdayflyers.com",
@@ -528,7 +512,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 67,
+    "Rank": 65,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -536,7 +520,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 68,
+    "Rank": 66,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "archive utility",
@@ -544,7 +528,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 69,
+    "Rank": 67,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "fantastapack.com",
@@ -552,11 +536,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 70,
+    "Rank": 68,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "anima-uploads.s3.amazonaws.com",
     "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "pngtree.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "elements.envato.com",
+    "Category": "Business & Finance",
     "Productivity": 1
   }
 ]
