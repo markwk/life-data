@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 2829,
+    "Number of People": 1,
+    "Activity": "components.novationmusic.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 1616,
     "Number of People": 1,
     "Activity": "udemy.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 1125,
-    "Number of People": 1,
-    "Activity": "components.novationmusic.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -33,15 +33,15 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 561,
+    "Time Spent (seconds)": 590,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 540,
+    "Time Spent (seconds)": 566,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -49,6 +49,14 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 561,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 481,
     "Number of People": 1,
     "Activity": "the archive",
@@ -56,7 +64,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 444,
     "Number of People": 1,
     "Activity": "splice",
@@ -64,7 +72,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 334,
     "Number of People": 1,
     "Activity": "splice.com",
@@ -72,7 +80,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 266,
     "Number of People": 1,
     "Activity": "users",
@@ -80,15 +88,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 176,
+    "Rank": 12,
+    "Time Spent (seconds)": 235,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 12,
+    "Rank": 13,
+    "Time Spent (seconds)": 207,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 173,
     "Number of People": 1,
     "Activity": "figma.com",
@@ -96,15 +112,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 162,
-    "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 139,
     "Number of People": 1,
     "Activity": "spotify",
@@ -112,7 +120,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 127,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -120,7 +128,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Activity": "nextjs.org",
@@ -128,28 +136,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 86,
+    "Rank": 18,
+    "Time Spent (seconds)": 77,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 19,
     "Time Spent (seconds)": 73,
     "Number of People": 1,
     "Activity": "developer.mozilla.org",
     "Category": "Engineering & Technology",
     "Productivity": 1
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 70,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
   },
   {
     "Rank": 20,
@@ -249,6 +249,14 @@
   },
   {
     "Rank": 32,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "kraftmusic.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "messages",
@@ -256,7 +264,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 33,
+    "Rank": 34,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "sublime text",
@@ -264,7 +272,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "shopify.vercel.store",
@@ -272,7 +280,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 36,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "quora.com",
@@ -280,7 +288,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 36,
+    "Rank": 37,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "typora",
@@ -288,7 +296,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 37,
+    "Rank": 38,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "customer.novationmusic.com",
@@ -296,7 +304,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 39,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "medium.com",
@@ -304,7 +312,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 39,
+    "Rank": 40,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "next-js-store.myshopify.com",
@@ -312,20 +320,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "delftstack.com",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "docs.npmjs.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
   },
   {
     "Rank": 42,
@@ -337,11 +337,11 @@
   },
   {
     "Rank": 43,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "javascripttutorial.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "docs.npmjs.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 44,
@@ -361,9 +361,9 @@
   },
   {
     "Rank": 46,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "datocms.com",
+    "Activity": "javascripttutorial.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -371,12 +371,20 @@
     "Rank": 47,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
+    "Activity": "datocms.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
     "Activity": "docker",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 48,
+    "Rank": 49,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -384,7 +392,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 50,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "demo.vercel.events",

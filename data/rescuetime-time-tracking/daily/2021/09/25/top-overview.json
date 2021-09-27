@@ -1,37 +1,37 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 4346,
+    "Number of People": 1,
+    "Category": "Design & Composition"
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 4018,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 2642,
-    "Number of People": 1,
-    "Category": "Design & Composition"
-  },
-  {
     "Rank": 3,
-    "Time Spent (seconds)": 1942,
+    "Time Spent (seconds)": 2022,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1099,
+    "Time Spent (seconds)": 1120,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 686,
+    "Time Spent (seconds)": 833,
     "Number of People": 1,
     "Category": "Utilities"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 180,
+    "Time Spent (seconds)": 594,
     "Number of People": 1,
     "Category": "Business"
   },
