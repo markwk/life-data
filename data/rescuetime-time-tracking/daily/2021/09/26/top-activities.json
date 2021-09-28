@@ -35,17 +35,17 @@
     "Rank": 5,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
-    "Activity": "news.yahoo.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "lakeshowlife.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 6,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
-    "Activity": "lakeshowlife.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "news.yahoo.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 7,
@@ -203,16 +203,16 @@
     "Rank": 26,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "cnbc.com",
-    "Category": "Business",
+    "Activity": "theverge.com",
+    "Category": "Science & Technology",
     "Productivity": -1
   },
   {
     "Rank": 27,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "theverge.com",
-    "Category": "Science & Technology",
+    "Activity": "cnbc.com",
+    "Category": "Business",
     "Productivity": -1
   },
   {
@@ -251,28 +251,12 @@
     "Rank": 32,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "components.novationmusic.com",
-    "Category": "Audio Editing",
+    "Activity": "dialogflow.cloud.google.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 33,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 34,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "developers.google.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Preview",
@@ -280,10 +264,26 @@
     "Productivity": 1
   },
   {
+    "Rank": 34,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "components.novationmusic.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 36,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "dialogflow.cloud.google.com",
+    "Activity": "developers.google.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -291,12 +291,20 @@
     "Rank": 37,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
+    "Activity": "splice.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 39,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "figma.com",
@@ -304,7 +312,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 39,
+    "Rank": 40,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "live",
@@ -312,19 +320,11 @@
     "Productivity": 2
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "the archive",
     "Category": "Writing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "splice.com",
-    "Category": "Audio Editing",
     "Productivity": 2
   }
 ]

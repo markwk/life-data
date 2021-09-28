@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
-    "Activity": "firebase.reactstarter.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "entrepreneur.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
-    "Activity": "entrepreneur.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "firebase.reactstarter.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 59,
@@ -539,25 +539,25 @@
     "Rank": 68,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "giphy.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
-    "Rank": 69,
-    "Time Spent (seconds)": 22,
-    "Number of People": 1,
     "Activity": "spencerporter2.medium.com",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 70,
+    "Rank": 69,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "tailwindcss.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 70,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "giphy.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 71,
@@ -587,17 +587,17 @@
     "Rank": 74,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "mhac.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "towardsdatascience.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 75,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "towardsdatascience.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "mhac.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 76,
@@ -795,17 +795,17 @@
     "Rank": 100,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "strapi-starter-next-blog-pearl.vercel.app",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "frontiersin.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 101,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "frontiersin.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "strapi-starter-next-blog-pearl.vercel.app",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 102,

@@ -635,7 +635,30 @@
     "Writing": 1,
     "General Design & Composition": 1
   },
-  "27": {},
+  "27": {
+    "Email": 3951,
+    "General Software Development": 3343,
+    "Editing & IDEs": 3215,
+    "Meetings": 1769,
+    "Browsers": 890,
+    "Instant Message": 534,
+    "Writing": 341,
+    "General Reference & Learning": 294,
+    "Calendars": 251,
+    "General Utilities": 150,
+    "Uncategorized": 123,
+    "Search": 114,
+    "Intelligence": 81,
+    "Systems Operations": 77,
+    "Engineering & Technology": 62,
+    "General News & Opinion": 36,
+    "General Entertainment": 36,
+    "General Business": 35,
+    "Data Modeling & Analysis": 11,
+    "Marketing": 4,
+    "Audio Editing": 3,
+    "General Design & Composition": 2
+  },
   "28": {},
   "29": {}
 }
