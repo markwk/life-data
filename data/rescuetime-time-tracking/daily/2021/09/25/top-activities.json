@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "demo.vercel.store",
+    "Activity": "vercel.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -219,7 +219,7 @@
     "Rank": 28,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "vercel.com",
+    "Activity": "demo.vercel.store",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "medium.com",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "next-js-store.myshopify.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "next-js-store.myshopify.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "medium.com",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 41,
@@ -331,28 +331,20 @@
     "Rank": 42,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "localhost:1337",
-    "Category": "Engineering & Technology",
+    "Activity": "docs.npmjs.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "docs.npmjs.com",
-    "Category": "General Reference & Learning",
+    "Activity": "localhost:1337",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 44,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "javascripttutorial.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 45,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -360,7 +352,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 46,
+    "Rank": 45,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "todoist",
@@ -368,20 +360,28 @@
     "Productivity": 2
   },
   {
-    "Rank": 47,
-    "Time Spent (seconds)": 3,
+    "Rank": 46,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "datocms.com",
+    "Activity": "javascripttutorial.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "docker",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "datocms.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 49,

@@ -35,17 +35,17 @@
     "Rank": 5,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
-    "Activity": "lakeshowlife.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "news.yahoo.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 6,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
-    "Activity": "news.yahoo.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "lakeshowlife.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 7,
@@ -203,16 +203,16 @@
     "Rank": 26,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "theverge.com",
-    "Category": "Science & Technology",
+    "Activity": "cnbc.com",
+    "Category": "Business",
     "Productivity": -1
   },
   {
     "Rank": 27,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "cnbc.com",
-    "Category": "Business",
+    "Activity": "theverge.com",
+    "Category": "Science & Technology",
     "Productivity": -1
   },
   {
@@ -251,17 +251,17 @@
     "Rank": 32,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "dialogflow.cloud.google.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "dialogflow.cloud.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 34,
