@@ -227,28 +227,20 @@
     "Rank": 29,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "postgresql.org",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 30,
-    "Time Spent (seconds)": 37,
-    "Number of People": 1,
     "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 31,
-    "Time Spent (seconds)": 36,
+    "Rank": 30,
+    "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "postgresql.org",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
-    "Rank": 32,
+    "Rank": 31,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -256,12 +248,20 @@
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 32,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "realpython.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 34,
@@ -299,36 +299,20 @@
     "Rank": 38,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "twilio.com",
-    "Category": "General Business",
+    "Activity": "community.onsen.io",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "community.onsen.io",
-    "Category": "General Software Development",
+    "Activity": "twilio.com",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 40,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Activity": "packaging.python.org",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 42,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "pipenv-fork.readthedocs.io",
@@ -336,19 +320,35 @@
     "Productivity": 1
   },
   {
+    "Rank": 41,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "packaging.python.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 43,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "localhost:8080",
-    "Category": "General Software Development",
+    "Activity": "chartio.com",
+    "Category": "Data Modeling & Analysis",
     "Productivity": 2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "chartio.com",
-    "Category": "Data Modeling & Analysis",
+    "Activity": "localhost:8080",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -395,33 +395,33 @@
     "Rank": 50,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 51,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
-  },
-  {
-    "Rank": 52,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "Preview",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 53,
+    "Rank": 51,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
     "Productivity": 2
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
     "Rank": 54,
@@ -443,12 +443,20 @@
     "Rank": 56,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
+    "Activity": "users",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
     "Activity": "aquaappearancehelper",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 57,
+    "Rank": 58,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "SecurityAgent",
@@ -456,19 +464,11 @@
     "Productivity": 2
   },
   {
-    "Rank": 58,
+    "Rank": 59,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "the archive",
     "Category": "Writing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 59,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "users",
-    "Category": "General Software Development",
     "Productivity": 2
   }
 ]

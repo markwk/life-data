@@ -251,12 +251,20 @@
     "Rank": 32,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
+    "Activity": "developers.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
     "Activity": "Preview",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 34,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "dialogflow.cloud.google.com",
@@ -264,7 +272,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "components.novationmusic.com",
@@ -272,7 +280,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 36,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -280,39 +288,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 36,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "developers.google.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
     "Rank": 37,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "splice.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 38,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 39,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "figma.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
-  },
-  {
-    "Rank": 40,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "live",
@@ -320,11 +296,35 @@
     "Productivity": 2
   },
   {
-    "Rank": 41,
+    "Rank": 38,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "the archive",
     "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "splice.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
     "Productivity": 2
   }
 ]
