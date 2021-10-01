@@ -21,10 +21,19 @@
     "score": 84
   },
   "2021-09-29": {
-    "steps": 1647,
-    "total": 106,
-    "cal_active": 51,
-    "cal_total": 1398,
-    "score": 82
-  }
+    "steps": 11092,
+    "total": 294,
+    "cal_active": 423,
+    "cal_total": 1924,
+    "score": 89
+  },
+  "2021-09-30": {
+    "steps": 2426,
+    "total": 165,
+    "cal_active": 91,
+    "cal_total": 1445,
+    "score": 85
+  },
+  "2021-10-1": {},
+  "2021-10-2": {}
 }

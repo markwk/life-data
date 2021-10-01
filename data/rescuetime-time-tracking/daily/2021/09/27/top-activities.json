@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "googleapis.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "googleapis.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 27,
@@ -243,25 +243,25 @@
     "Rank": 31,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "realpython.com",
-    "Category": "Engineering & Technology",
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "realpython.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 34,
@@ -315,15 +315,15 @@
     "Rank": 40,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "pipenv-fork.readthedocs.io",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "packaging.python.org",
+    "Activity": "pipenv-fork.readthedocs.io",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -331,24 +331,24 @@
     "Rank": 42,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "packaging.python.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "chartio.com",
-    "Category": "Data Modeling & Analysis",
+    "Activity": "localhost:8080",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "localhost:8080",
-    "Category": "General Software Development",
+    "Activity": "chartio.com",
+    "Category": "Data Modeling & Analysis",
     "Productivity": 2
   },
   {
@@ -371,12 +371,20 @@
     "Rank": 47,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
+    "Activity": "ads.google.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
     "Activity": "appseed.us",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 48,
+    "Rank": 49,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "localhost:5000",
@@ -384,15 +392,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 49,
-    "Time Spent (seconds)": 4,
+    "Rank": 50,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "ads.google.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
-    "Rank": 50,
+    "Rank": 51,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Preview",
@@ -400,7 +408,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 51,
+    "Rank": 52,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "live",
@@ -408,20 +416,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 52,
+    "Rank": 53,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
     "Productivity": 2
-  },
-  {
-    "Rank": 53,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
   },
   {
     "Rank": 54,
