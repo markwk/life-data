@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 108,
     "Number of People": 1,
-    "Activity": "Google Presentations",
-    "Category": "Presentation",
+    "Activity": "marcboule.github.io",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 108,
     "Number of People": 1,
-    "Activity": "marcboule.github.io",
-    "Category": "General Software Development",
+    "Activity": "Google Presentations",
+    "Category": "Presentation",
     "Productivity": 2
   },
   {
@@ -323,20 +323,12 @@
     "Rank": 41,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "fi-network.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 42,
-    "Time Spent (seconds)": 27,
-    "Number of People": 1,
     "Activity": "firstwestroads.bank",
     "Category": "Uncategorized",
     "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 42,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -344,15 +336,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 22,
+    "Rank": 43,
+    "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "business.paypal.com",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "fi-network.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -360,20 +352,28 @@
     "Productivity": 1
   },
   {
-    "Rank": 46,
-    "Time Spent (seconds)": 16,
+    "Rank": 45,
+    "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
+    "Activity": "business.paypal.com",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 47,
+    "Rank": 46,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 48,
@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "blog.fi-network.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "blog.fi-network.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 53,
