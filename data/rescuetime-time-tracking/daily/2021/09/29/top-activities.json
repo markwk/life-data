@@ -347,33 +347,33 @@
     "Rank": 44,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
+    "Activity": "business.paypal.com",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
     "Rank": 45,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "business.paypal.com",
-    "Category": "Internet Utilities",
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 46,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 48,
@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "blog.fi-network.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "blog.fi-network.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 53,
