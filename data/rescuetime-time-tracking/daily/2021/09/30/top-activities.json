@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "raw.githubusercontent.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "libgen.is",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "libgen.is",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "raw.githubusercontent.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 36,
@@ -307,7 +307,7 @@
     "Rank": 39,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "mutable-instruments.net",
+    "Activity": "give.mccourtfoundation.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -315,7 +315,7 @@
     "Rank": 40,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "give.mccourtfoundation.org",
+    "Activity": "mutable-instruments.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "unblockit.ws",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
+    "Activity": "unblockit.ws",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 48,
@@ -395,12 +395,20 @@
     "Rank": 50,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "Terminal",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "usernotificationcenter",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 51,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
+  },
+  {
+    "Rank": 52,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "libgen.lc",
@@ -408,20 +416,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 52,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "usernotificationcenter",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
     "Rank": 53,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
+    "Activity": "Terminal",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 54,
@@ -467,15 +467,15 @@
     "Rank": 59,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "libgen.gs",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 60,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "libgen.gs",
+    "Activity": "libgen.be",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -483,8 +483,8 @@
     "Rank": 61,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "libgen.be",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   }
 ]
