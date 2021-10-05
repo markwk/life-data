@@ -48,7 +48,17 @@
     "score_sleep_balance": 2308,
     "score_temperature": 2528
   },
-  "10": {},
+  "10": {
+    "score": 235,
+    "score_activity_balance": 221,
+    "score_hrv_balance": 273,
+    "score_previous_day": 238,
+    "score_previous_night": 211,
+    "score_recovery_index": 261,
+    "score_resting_hr": 216,
+    "score_sleep_balance": 231,
+    "score_temperature": 286
+  },
   "11": {},
   "12": {}
 }

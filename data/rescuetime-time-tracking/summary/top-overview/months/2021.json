@@ -55,7 +55,18 @@
     "Shopping": 1332,
     "Social Networking": 4992
   },
-  "10": {},
+  "10": {
+    "Software Development": 2931,
+    "Communication & Scheduling": 2179,
+    "Business": 1252,
+    "News & Opinion": 1146,
+    "Utilities": 444,
+    "Reference & Learning": 339,
+    "Design & Composition": 144,
+    "Entertainment": 53,
+    "Uncategorized": 40,
+    "Social Networking": 15
+  },
   "11": {},
   "12": {}
 }

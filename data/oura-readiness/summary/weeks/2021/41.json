@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2021-10-03",
-    "period_id": 1,
+{
+  "2021-10-3": {
     "score": 83,
     "score_activity_balance": 74,
     "score_hrv_balance": 95,
@@ -10,7 +8,12 @@
     "score_recovery_index": 100,
     "score_resting_hr": 82,
     "score_sleep_balance": 80,
-    "score_temperature": 86,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 86
+  },
+  "2021-10-4": {},
+  "2021-10-5": {},
+  "2021-10-6": {},
+  "2021-10-7": {},
+  "2021-10-8": {},
+  "2021-10-9": {}
+}

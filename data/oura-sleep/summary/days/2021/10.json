@@ -1,7 +1,34 @@
 {
-  "1": {},
-  "2": {},
-  "3": {},
+  "1": {
+    "total": 22260,
+    "rem": 4410,
+    "awake": 3780,
+    "deep": 5190,
+    "duration": 26040,
+    "efficiency": 85,
+    "light": 12660,
+    "score": 71
+  },
+  "2": {
+    "total": 31020,
+    "rem": 4260,
+    "awake": 9420,
+    "deep": 4290,
+    "duration": 40440,
+    "efficiency": 77,
+    "light": 22470,
+    "score": 80
+  },
+  "3": {
+    "total": 25590,
+    "rem": 2970,
+    "awake": 7230,
+    "deep": 5460,
+    "duration": 32820,
+    "efficiency": 78,
+    "light": 17160,
+    "score": 71
+  },
   "4": {},
   "5": {},
   "6": {},

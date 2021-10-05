@@ -183,7 +183,32 @@
     "Business": 8,
     "Design & Planning": 48
   },
-  "10": {},
+  "10": {
+    "General Software Development": 2421,
+    "General News & Opinion": 1146,
+    "Project Management": 1059,
+    "Meetings": 1040,
+    "Email": 889,
+    "Editing & IDEs": 303,
+    "General Utilities": 279,
+    "Systems Operations": 207,
+    "Travel & Outdoors": 167,
+    "Browsers": 165,
+    "Intelligence": 141,
+    "Instant Message": 132,
+    "Search": 114,
+    "General Communication & Scheduling": 91,
+    "Writing": 76,
+    "General Design & Composition": 68,
+    "Accounting": 52,
+    "Games": 48,
+    "Uncategorized": 40,
+    "General Reference & Learning": 30,
+    "Engineering & Technology": 28,
+    "Calendars": 27,
+    "Professional Networking": 15,
+    "General Entertainment": 5
+  },
   "11": {},
   "12": {}
 }
