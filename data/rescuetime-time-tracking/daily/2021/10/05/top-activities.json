@@ -483,24 +483,24 @@
     "Rank": 61,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "calendar-poc-backend-dev1.herokuapp.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 63,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
+    "Activity": "calendar-poc-backend-dev1.herokuapp.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -571,36 +571,20 @@
     "Rank": 72,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "auth.atlassian.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 73,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "users",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 74,
-    "Time Spent (seconds)": 2,
+    "Rank": 73,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 75,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "reactjs.org",
-    "Category": "Uncategorized",
+    "Activity": "auth.atlassian.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 76,
+    "Rank": 74,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bitbucket-trello-integration.prod.public.atl-paas.net",
@@ -608,7 +592,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 77,
+    "Rank": 75,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bookmarks",
@@ -616,15 +600,23 @@
     "Productivity": -2
   },
   {
-    "Rank": 78,
-    "Time Spent (seconds)": 1,
+    "Rank": 76,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "atlassian.net",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 79,
+    "Rank": 77,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "reactjs.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 78,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "accounts.youtube.com",
@@ -632,11 +624,19 @@
     "Productivity": -2
   },
   {
-    "Rank": 80,
+    "Rank": 79,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "archive utility",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 80,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "atlassian.net",
+    "Category": "General Business",
+    "Productivity": 2
   }
 ]
