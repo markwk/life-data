@@ -403,16 +403,16 @@
     "Rank": 51,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "atlassian.com",
-    "Category": "Search",
+    "Activity": "Safari",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "Safari",
-    "Category": "Browsers",
+    "Activity": "atlassian.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
@@ -427,24 +427,24 @@
     "Rank": 54,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "apps.apple.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "id.heroku.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 55,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "community.miro.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "apps.apple.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 56,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "id.heroku.com",
-    "Category": "General Software Development",
+    "Activity": "community.miro.com",
+    "Category": "Presentation",
     "Productivity": 2
   },
   {
@@ -483,24 +483,24 @@
     "Rank": 61,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 62,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
     "Activity": "stackoverflow.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 63,
+    "Rank": 62,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "calendar-poc-backend-dev1.herokuapp.com",
     "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 63,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
@@ -571,23 +571,23 @@
     "Rank": 72,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "users",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 73,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "auth.atlassian.com",
     "Category": "Search",
     "Productivity": 0
   },
   {
+    "Rank": 73,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "users",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 74,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "bitbucket-trello-integration.prod.public.atl-paas.net",
+    "Activity": "reactjs.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -595,25 +595,25 @@
     "Rank": 75,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "bookmarks",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 76,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "en.wikipedia.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
+    "Rank": 76,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "bitbucket-trello-integration.prod.public.atl-paas.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 77,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "reactjs.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "bookmarks",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 78,
