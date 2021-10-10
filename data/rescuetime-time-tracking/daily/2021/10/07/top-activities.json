@@ -267,16 +267,16 @@
     "Rank": 34,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
+    "Activity": "Visual Studio Code",
+    "Category": "Editing & IDEs",
     "Productivity": 2
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
-    "Activity": "Visual Studio Code",
-    "Category": "Editing & IDEs",
+    "Activity": "iterm2",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -371,16 +371,16 @@
     "Rank": 47,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "shop.gandi.net",
-    "Category": "General Utilities",
+    "Activity": "dl.acm.org",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "dl.acm.org",
-    "Category": "Engineering & Technology",
+    "Activity": "shop.gandi.net",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -491,17 +491,17 @@
     "Rank": 62,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "d1wqtxts1xzle7.cloudfront.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 63,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "d1wqtxts1xzle7.cloudfront.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 64,
@@ -523,44 +523,20 @@
     "Rank": 66,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "gandi.net",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 67,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "sci-hub.do",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 67,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
     "Rank": 68,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "mis.kp.ac.rw",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 69,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "watermark.silverchair.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 70,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "history",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 71,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -568,7 +544,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 72,
+    "Rank": 69,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "bookloverscon.com",
@@ -576,7 +552,39 @@
     "Productivity": 2
   },
   {
+    "Rank": 70,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "mis.kp.ac.rw",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 71,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "history",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "watermark.silverchair.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 73,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "scholar.googleusercontent.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 74,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "myaccount.google.com",
@@ -584,18 +592,10 @@
     "Productivity": 0
   },
   {
-    "Rank": 74,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "libgen.io",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
     "Rank": 75,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "scholar.googleusercontent.com",
+    "Activity": "libgen.io",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
@@ -619,28 +619,20 @@
     "Rank": 78,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "academic.oup.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 79,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "leeds.ac.uk",
     "Category": "Operations",
     "Productivity": 2
   },
   {
-    "Rank": 80,
-    "Time Spent (seconds)": 3,
+    "Rank": 79,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "academic.oup.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 81,
+    "Rank": 80,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "citeseerx.ist.psu.edu",
@@ -648,7 +640,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 82,
+    "Rank": 81,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "maxvanmanen.com",
@@ -656,15 +648,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 83,
-    "Time Spent (seconds)": 2,
+    "Rank": 82,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "garyrolfe.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
-    "Rank": 84,
+    "Rank": 83,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "linkinghub.elsevier.com",
@@ -672,7 +664,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 85,
+    "Rank": 84,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -680,7 +672,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 86,
+    "Rank": 85,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "semanticscholar.org",
@@ -688,19 +680,27 @@
     "Productivity": 1
   },
   {
-    "Rank": 87,
-    "Time Spent (seconds)": 1,
+    "Rank": 86,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "transcode",
+    "Activity": "garyrolfe.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 88,
+    "Rank": 87,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "reflectivepractice-cpd.wikispaces.com",
     "Category": "Intelligence",
     "Productivity": 2
+  },
+  {
+    "Rank": 88,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "transcode",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]

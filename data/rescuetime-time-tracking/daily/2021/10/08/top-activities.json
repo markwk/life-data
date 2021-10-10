@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4321,
+    "Time Spent (seconds)": 8025,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -25,6 +25,14 @@
   },
   {
     "Rank": 4,
+    "Time Spent (seconds)": 859,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
     "Time Spent (seconds)": 788,
     "Number of People": 1,
     "Activity": "track.toggl.com",
@@ -32,16 +40,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 748,
-    "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
-    "Productivity": 2
-  },
-  {
     "Rank": 6,
-    "Time Spent (seconds)": 592,
+    "Time Spent (seconds)": 597,
     "Number of People": 1,
     "Activity": "messages",
     "Category": "Instant Message",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 250,
+    "Time Spent (seconds)": 259,
     "Number of People": 1,
     "Activity": "Preview",
     "Category": "General Reference & Learning",
@@ -81,15 +81,15 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 147,
+    "Time Spent (seconds)": 176,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 141,
+    "Time Spent (seconds)": 149,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
@@ -97,6 +97,14 @@
   },
   {
     "Rank": 13,
+    "Time Spent (seconds)": 147,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 128,
     "Number of People": 1,
     "Activity": "testdriven.io",
@@ -104,15 +112,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 127,
+    "Rank": 15,
+    "Time Spent (seconds)": 110,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 97,
     "Number of People": 1,
     "Activity": "yasoob.me",
@@ -120,19 +128,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 95,
     "Number of People": 1,
     "Activity": "eventbrite.com",
     "Category": "Calendars",
-    "Productivity": 0
-  },
-  {
-    "Rank": 17,
-    "Time Spent (seconds)": 90,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
     "Productivity": 0
   },
   {
@@ -219,16 +219,16 @@
     "Rank": 28,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "medschool.ucla.edu",
-    "Category": "General Reference & Learning",
+    "Activity": "Zoom",
+    "Category": "Meetings",
     "Productivity": 1
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "Zoom",
-    "Category": "Meetings",
+    "Activity": "medschool.ucla.edu",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -289,6 +289,14 @@
   },
   {
     "Rank": 37,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "bioscience.ucla.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 38,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "toggl.com",
@@ -296,7 +304,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 38,
+    "Rank": 39,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "todoist",
@@ -304,7 +312,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 39,
+    "Rank": 40,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -312,11 +320,19 @@
     "Productivity": 2
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Zoom website",
     "Category": "Meetings",
     "Productivity": 1
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   }
 ]

@@ -387,23 +387,23 @@
     "Rank": 49,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "usatoday.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 50,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 51,
+    "Rank": 50,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "reddit.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "usatoday.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
@@ -547,16 +547,16 @@
     "Rank": 69,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "forums.malwarebytes.com",
-    "Category": "Anti-Virus & Spyware",
-    "Productivity": -1
+    "Activity": "test.goaldashboarding.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 70,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "test.goaldashboarding.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "forums.malwarebytes.com",
+    "Category": "Anti-Virus & Spyware",
+    "Productivity": -1
   }
 ]
