@@ -155,17 +155,17 @@
     "Rank": 20,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "newsroom.ucla.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "newsroom.ucla.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 22,
@@ -219,16 +219,16 @@
     "Rank": 28,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "Zoom",
-    "Category": "Meetings",
+    "Activity": "medschool.ucla.edu",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "medschool.ucla.edu",
-    "Category": "General Reference & Learning",
+    "Activity": "Zoom",
+    "Category": "Meetings",
     "Productivity": 1
   },
   {
