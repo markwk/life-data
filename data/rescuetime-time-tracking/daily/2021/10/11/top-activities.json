@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 289,
+    "Time Spent (seconds)": 305,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -505,6 +505,14 @@
   },
   {
     "Rank": 64,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 65,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "bsim.org",
@@ -512,7 +520,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 65,
+    "Rank": 66,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -520,19 +528,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 66,
+    "Rank": 67,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "register.hakuapp.com",
     "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 67,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
     "Productivity": 0
   },
   {
