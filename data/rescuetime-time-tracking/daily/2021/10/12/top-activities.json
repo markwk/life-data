@@ -331,28 +331,20 @@
     "Rank": 42,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "transcode",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 43,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
     "Activity": "todoist",
     "Category": "Project Management",
     "Productivity": 2
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 11,
+    "Rank": 43,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "github.blog",
+    "Activity": "transcode",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "dspace.library.uvic.ca",
@@ -360,20 +352,28 @@
     "Productivity": 1
   },
   {
-    "Rank": 46,
-    "Time Spent (seconds)": 10,
+    "Rank": 45,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "github.blog",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 47,
+    "Rank": 46,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "genomebiology.biomedcentral.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 48,
@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "emojipedia.org",
-    "Category": "General Social Networking",
-    "Productivity": -2
+    "Activity": "journals.plos.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "journals.plos.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "emojipedia.org",
+    "Category": "General Social Networking",
+    "Productivity": -2
   },
   {
     "Rank": 53,
@@ -435,7 +435,7 @@
     "Rank": 55,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "jarvis.ai",
+    "Activity": "databeta.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -443,7 +443,7 @@
     "Rank": 56,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "databeta.io",
+    "Activity": "jarvis.ai",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -451,25 +451,25 @@
     "Rank": 57,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "toggl.com",
-    "Category": "Intelligence",
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
     "Productivity": 2
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "archive utility",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 59,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "toggl.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 60,
