@@ -235,16 +235,16 @@
     "Rank": 30,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "setapp.com",
-    "Category": "Uncategorized",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "setapp.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -323,17 +323,17 @@
     "Rank": 41,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "napavalleymarathon.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "si.com",
+    "Category": "Sports",
+    "Productivity": -1
   },
   {
     "Rank": 42,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "si.com",
-    "Category": "Sports",
-    "Productivity": -1
+    "Activity": "napavalleymarathon.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 43,
@@ -539,20 +539,12 @@
     "Rank": 68,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "portlandmarathon.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 69,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 70,
+    "Rank": 69,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "libgen.gs",
@@ -560,7 +552,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 71,
+    "Rank": 70,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "registration.rundisney.com",
@@ -568,20 +560,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 72,
-    "Time Spent (seconds)": 4,
+    "Rank": 71,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
-    "Productivity": 2
+    "Activity": "portlandmarathon.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "calibre",
     "Category": "General Communication & Scheduling",
     "Productivity": 0
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
   },
   {
     "Rank": 74,
@@ -595,24 +595,24 @@
     "Rank": 75,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "mybrandscript.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 76,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
+    "Activity": "mybrandscript.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 77,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
     "Productivity": 2
   }
 ]
