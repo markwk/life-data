@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 913,
+    "Time Spent (seconds)": 1073,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -259,16 +259,16 @@
     "Rank": 33,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "canalpals.com",
-    "Category": "Marketing",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 34,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "canalpals.com",
+    "Category": "Marketing",
     "Productivity": 2
   },
   {
@@ -379,12 +379,20 @@
     "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
     "Activity": "airbnb.com",
     "Category": "Travel & Outdoors",
     "Productivity": 0
   },
   {
-    "Rank": 49,
+    "Rank": 50,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "libgen.unblockit.ws",
@@ -392,20 +400,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 50,
+    "Rank": 51,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "data.clockfoundation.org",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 51,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
   },
   {
     "Rank": 52,

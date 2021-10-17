@@ -195,16 +195,16 @@
     "Rank": 25,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "iterm2",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -235,7 +235,7 @@
     "Rank": 30,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "otter.ai",
+    "Activity": "Google Forms",
     "Category": "General Business",
     "Productivity": 2
   },
@@ -243,7 +243,7 @@
     "Rank": 31,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "Google Forms",
+    "Activity": "otter.ai",
     "Category": "General Business",
     "Productivity": 2
   },
@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "forms.gle",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "dspace.library.uvic.ca",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "dspace.library.uvic.ca",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "forms.gle",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 36,
