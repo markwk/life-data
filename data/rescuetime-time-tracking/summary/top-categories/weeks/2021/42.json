@@ -141,5 +141,22 @@
     "Travel & Outdoors": 2,
     "Engineering & Technology": 1
   },
-  "2021-10-16": {}
+  "2021-10-16": {
+    "Writing": 4570,
+    "General Reference & Learning": 459,
+    "General Software Development": 397,
+    "General Utilities": 285,
+    "Uncategorized": 209,
+    "General Business": 157,
+    "Search": 132,
+    "Intelligence": 119,
+    "General Entertainment": 79,
+    "Data Modeling & Analysis": 75,
+    "Marketing": 75,
+    "Browsers": 66,
+    "Email": 57,
+    "Project Management": 48,
+    "Engineering & Technology": 12,
+    "General Design & Composition": 1
+  }
 }
