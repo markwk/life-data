@@ -236,8 +236,8 @@
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "mydata.clockfoundation.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 31,
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "libgen.gs",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "libgen.gs",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 45,
@@ -379,32 +379,32 @@
     "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "data.clockfoundation.org",
-    "Category": "Uncategorized",
+    "Activity": "airbnb.com",
+    "Category": "Travel & Outdoors",
     "Productivity": 0
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
+    "Activity": "libgen.unblockit.ws",
+    "Category": "Uncategorized",
     "Productivity": 1
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "airbnb.com",
-    "Category": "Travel & Outdoors",
-    "Productivity": 0
+    "Activity": "data.clockfoundation.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "libgen.unblockit.ws",
-    "Category": "Uncategorized",
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
