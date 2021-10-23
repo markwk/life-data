@@ -426,9 +426,9 @@
     "Music": 27,
     "Internet Utilities": 22,
     "Comedy": 19,
+    "Engineering & Technology": 8,
     "General Communication & Scheduling": 8,
     "General News & Opinion": 8,
-    "Engineering & Technology": 8,
     "Maps & Regional": 2
   },
   "21": {
@@ -461,7 +461,25 @@
     "Maps & Regional": 8,
     "Project Management": 7
   },
-  "22": {},
+  "22": {
+    "Writing": 5842,
+    "Email": 2687,
+    "Intelligence": 519,
+    "General Utilities": 299,
+    "General Reference & Learning": 266,
+    "Calendars": 259,
+    "Instant Message": 205,
+    "Uncategorized": 192,
+    "Search": 135,
+    "General News & Opinion": 72,
+    "General Entertainment": 53,
+    "Professional Networking": 53,
+    "Browsers": 39,
+    "Engineering & Technology": 32,
+    "Voice Chat": 26,
+    "General Communication & Scheduling": 25,
+    "General Software Development": 25
+  },
   "23": {},
   "24": {},
   "25": {},

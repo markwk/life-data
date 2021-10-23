@@ -331,33 +331,33 @@
     "Rank": 42,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
-    "Activity": "tinkertravels.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 43,
-    "Time Spent (seconds)": 31,
-    "Number of People": 1,
     "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 27,
+    "Rank": 43,
+    "Time Spent (seconds)": 31,
     "Number of People": 1,
-    "Activity": "skulpt.me",
+    "Activity": "tinkertravels.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "bandsintown.com",
     "Category": "Music",
     "Productivity": -2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "skulpt.me",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 46,
@@ -379,17 +379,17 @@
     "Rank": 48,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "korgusa.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "viome.com",
+    "Category": "Health & Medicine",
+    "Productivity": 1
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Activity": "viome.com",
-    "Category": "Health & Medicine",
-    "Productivity": 1
+    "Activity": "korgusa.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 50,
@@ -451,20 +451,12 @@
     "Rank": 57,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "thorne.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 58,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "insidetracker.com",
     "Category": "Health & Medicine",
     "Productivity": 1
   },
   {
-    "Rank": 59,
+    "Rank": 58,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "lundquist.org",
@@ -472,7 +464,23 @@
     "Productivity": 0
   },
   {
+    "Rank": 59,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "thorne.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
     "Rank": 60,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "reddit.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 61,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -480,7 +488,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 61,
+    "Rank": 62,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -488,7 +496,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 62,
+    "Rank": 63,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -496,20 +504,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 63,
+    "Rank": 64,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "ncbi.nlm.nih.gov",
     "Category": "Engineering & Technology",
     "Productivity": 1
-  },
-  {
-    "Rank": 64,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "reddit.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
   },
   {
     "Rank": 65,
@@ -523,17 +523,17 @@
     "Rank": 66,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "fareharbor.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "calculateme.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 67,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "calculateme.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "fareharbor.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 68,
@@ -587,15 +587,15 @@
     "Rank": 74,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "travelprod.firebaseapp.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "istockphoto.com",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 75,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "forms.gle",
+    "Activity": "travelprod.firebaseapp.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -603,8 +603,8 @@
     "Rank": 76,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "istockphoto.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "forms.gle",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
