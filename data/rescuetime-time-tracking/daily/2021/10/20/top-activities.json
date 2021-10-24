@@ -259,17 +259,17 @@
     "Rank": 33,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "babystepmagazine.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 34,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "babystepmagazine.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 35,
@@ -395,23 +395,23 @@
     "Rank": 50,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 51,
-    "Time Spent (seconds)": 20,
-    "Number of People": 1,
     "Activity": "myaccount.google.com",
     "Category": "Internet Utilities",
     "Productivity": 0
   },
   {
+    "Rank": 51,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
     "Rank": 52,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "bestreviews.guide",
+    "Activity": "clipart-library.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -419,17 +419,17 @@
     "Rank": 53,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "lipstickalley.com",
-    "Category": "Comedy",
-    "Productivity": -2
+    "Activity": "bestreviews.guide",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "clipart-library.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "lipstickalley.com",
+    "Category": "Comedy",
+    "Productivity": -2
   },
   {
     "Rank": 55,
@@ -475,12 +475,28 @@
     "Rank": 60,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "ncbi.nlm.nih.gov",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
     "Activity": "reddit.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 61,
+    "Rank": 63,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -488,28 +504,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 62,
+    "Rank": 64,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "iterm2",
     "Category": "General Software Development",
     "Productivity": 2
-  },
-  {
-    "Rank": 63,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
-  },
-  {
-    "Rank": 64,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "ncbi.nlm.nih.gov",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
   },
   {
     "Rank": 65,
@@ -523,17 +523,17 @@
     "Rank": 66,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "calculateme.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "fareharbor.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 67,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "fareharbor.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "calculateme.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 68,
@@ -555,17 +555,17 @@
     "Rank": 70,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Google Maps",
-    "Category": "Maps & Regional",
+    "Activity": "goo.gl",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
     "Rank": 71,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "goo.gl",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "buy.geni.us",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 72,
@@ -579,9 +579,9 @@
     "Rank": 73,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "buy.geni.us",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Google Maps",
+    "Category": "Maps & Regional",
+    "Productivity": 1
   },
   {
     "Rank": 74,

@@ -132,8 +132,8 @@
     "Search": 503,
     "General Utilities": 305,
     "Browsers": 114,
-    "Accounting": 112,
     "General Entertainment": 112,
+    "Accounting": 112,
     "Employment": 105,
     "Health & Medicine": 89,
     "Engineering & Technology": 87,
@@ -162,8 +162,21 @@
     "Browsers": 39,
     "Engineering & Technology": 32,
     "Voice Chat": 26,
-    "General Communication & Scheduling": 25,
-    "General Software Development": 25
+    "General Software Development": 25,
+    "General Communication & Scheduling": 25
   },
-  "2021-10-23": {}
+  "2021-10-23": {
+    "Professional Networking": 982,
+    "General Reference & Learning": 785,
+    "General Utilities": 247,
+    "Writing": 232,
+    "Email": 150,
+    "General Software Development": 86,
+    "Calendars": 71,
+    "Intelligence": 70,
+    "Search": 61,
+    "Instant Message": 49,
+    "Engineering & Technology": 18,
+    "Browsers": 16
+  }
 }

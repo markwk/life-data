@@ -99,17 +99,17 @@
     "Rank": 13,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "researchgate.net",
+    "Category": "Professional Networking",
+    "Productivity": 1
   },
   {
     "Rank": 14,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
-    "Activity": "researchgate.net",
-    "Category": "Professional Networking",
-    "Productivity": 1
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 15,
@@ -171,17 +171,17 @@
     "Rank": 22,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "bulletjournal.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "bulletjournal.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 24,
