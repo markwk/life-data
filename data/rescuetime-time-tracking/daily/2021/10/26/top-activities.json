@@ -291,16 +291,16 @@
     "Rank": 37,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
+    "Activity": "spotify",
+    "Category": "General Entertainment",
     "Productivity": -2
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
@@ -419,16 +419,16 @@
     "Rank": 53,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "blinkist.com",
-    "Category": "General Reference & Learning",
+    "Activity": "facetime",
+    "Category": "Voice Chat",
     "Productivity": 1
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
+    "Activity": "blinkist.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -475,24 +475,24 @@
     "Rank": 60,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "gandi.net",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 61,
-    "Time Spent (seconds)": 24,
-    "Number of People": 1,
     "Activity": "asdfg.me",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 62,
+    "Rank": 61,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "dro.deakin.edu.au",
     "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "gandi.net",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -515,17 +515,17 @@
     "Rank": 65,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "tandfonline.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "clockfoundation.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "clockfoundation.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "tandfonline.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 67,
@@ -539,17 +539,17 @@
     "Rank": 68,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "hangouts.google.com",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "faberacoustical.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 69,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "faberacoustical.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "hangouts.google.com",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 70,
@@ -587,7 +587,7 @@
     "Rank": 74,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "mcgillclinicaleducation.ca",
+    "Activity": "gearspace.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -595,17 +595,17 @@
     "Rank": 75,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "synthtopia.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "mcgillclinicaleducation.ca",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 76,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "gearspace.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "synthtopia.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 77,
@@ -619,33 +619,33 @@
     "Rank": 78,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
-  },
-  {
-    "Rank": 79,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "researchgate.net",
-    "Category": "Professional Networking",
-    "Productivity": 1
-  },
-  {
-    "Rank": 80,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "vcvrack.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 81,
+    "Rank": 79,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "sigma.nursingrepository.org",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 80,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 81,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "researchgate.net",
+    "Category": "Professional Networking",
+    "Productivity": 1
   },
   {
     "Rank": 82,
@@ -699,17 +699,17 @@
     "Rank": 88,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "myaccount.google.com",
+    "Category": "Internet Utilities",
+    "Productivity": 0
   },
   {
     "Rank": 89,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "myaccount.google.com",
-    "Category": "Internet Utilities",
-    "Productivity": 0
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 90,
@@ -723,17 +723,17 @@
     "Rank": 91,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "semanticscholar.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "googleadservices.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 92,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "googleadservices.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "semanticscholar.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 93,
