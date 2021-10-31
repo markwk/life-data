@@ -31,7 +31,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 574,
+    "Time Spent (seconds)": 594,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -55,33 +55,33 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 256,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 245,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 226,
     "Number of People": 1,
     "Category": "Video"
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 223,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
     "Rank": 13,
-    "Time Spent (seconds)": 218,
+    "Time Spent (seconds)": 221,
     "Number of People": 1,
-    "Category": "Systems Operations"
+    "Category": "Intelligence"
   },
   {
     "Rank": 14,
-    "Time Spent (seconds)": 215,
+    "Time Spent (seconds)": 218,
     "Number of People": 1,
-    "Category": "Intelligence"
+    "Category": "Systems Operations"
   },
   {
     "Rank": 15,

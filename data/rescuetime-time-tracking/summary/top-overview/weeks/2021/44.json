@@ -56,12 +56,21 @@
     "Communication & Scheduling": 5839,
     "Design & Composition": 5568,
     "Software Development": 5320,
-    "Utilities": 730,
-    "Business": 700,
+    "Utilities": 750,
+    "Business": 706,
     "Reference & Learning": 647,
     "Entertainment": 348,
-    "Uncategorized": 223,
+    "Uncategorized": 256,
     "Shopping": 9
   },
-  "2021-10-30": {}
+  "2021-10-30": {
+    "Business": 762,
+    "Software Development": 415,
+    "Utilities": 217,
+    "Reference & Learning": 211,
+    "Communication & Scheduling": 85,
+    "Entertainment": 48,
+    "Shopping": 26,
+    "Design & Composition": 11
+  }
 }
