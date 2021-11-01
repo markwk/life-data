@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Activity": "ngrok.com",
+    "Activity": "dashboard.ngrok.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -291,7 +291,7 @@
     "Rank": 37,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Activity": "dashboard.ngrok.com",
+    "Activity": "ngrok.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
-    "Activity": "minitaur editor standalone",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "blog.zoom.us",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
-    "Activity": "blog.zoom.us",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "minitaur editor standalone",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 45,
@@ -379,7 +379,7 @@
     "Rank": 48,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "System Preferences",
+    "Activity": "alfred preferences",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -387,16 +387,16 @@
     "Rank": 49,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "account.mongodb.com",
-    "Category": "Engineering & Technology",
+    "Activity": "System Preferences",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "alfred preferences",
-    "Category": "General Utilities",
+    "Activity": "account.mongodb.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
@@ -475,17 +475,17 @@
     "Rank": 60,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "system information",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "admin.google.com",
+    "Category": "Administration",
+    "Productivity": 2
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "admin.google.com",
-    "Category": "Administration",
-    "Productivity": 2
+    "Activity": "system information",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 62,

@@ -64,13 +64,14 @@
     "Shopping": 9
   },
   "2021-10-30": {
-    "Business": 762,
-    "Software Development": 415,
-    "Utilities": 217,
-    "Reference & Learning": 211,
-    "Communication & Scheduling": 85,
-    "Entertainment": 48,
-    "Shopping": 26,
+    "Communication & Scheduling": 1078,
+    "Business": 886,
+    "Software Development": 424,
+    "Reference & Learning": 274,
+    "Utilities": 226,
+    "Entertainment": 91,
+    "Uncategorized": 41,
+    "Shopping": 27,
     "Design & Composition": 11
   }
 }
