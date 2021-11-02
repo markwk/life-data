@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "calendly.com",
+    "Category": "Calendars",
     "Productivity": 1
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Activity": "dashboard.ngrok.com",
+    "Activity": "ngrok.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -291,7 +291,7 @@
     "Rank": 37,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
-    "Activity": "ngrok.com",
+    "Activity": "dashboard.ngrok.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -299,17 +299,17 @@
     "Rank": 38,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
-    "Activity": "jwt.io",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "install command line developer tools",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
-    "Activity": "install command line developer tools",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "jwt.io",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 40,
@@ -379,15 +379,15 @@
     "Rank": 48,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "alfred preferences",
-    "Category": "General Utilities",
+    "Activity": "account.mongodb.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "System Preferences",
+    "Activity": "alfred preferences",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -395,20 +395,12 @@
     "Rank": 50,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "account.mongodb.com",
-    "Category": "Engineering & Technology",
+    "Activity": "System Preferences",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 51,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
-    "Activity": "localhost:8895",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 52,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -416,7 +408,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 53,
+    "Rank": 52,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "Terminal",
@@ -424,7 +416,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "rescuetime.com",
@@ -432,15 +424,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 55,
-    "Time Spent (seconds)": 13,
+    "Rank": 54,
+    "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "myaccount.google.com",
-    "Category": "Internet Utilities",
-    "Productivity": 0
+    "Activity": "localhost:8895",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 56,
+    "Rank": 55,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "coreservicesuiagent",
@@ -448,12 +440,20 @@
     "Productivity": 1
   },
   {
-    "Rank": 57,
+    "Rank": 56,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "forge.medium.com",
     "Category": "Writing",
     "Productivity": 2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "myaccount.google.com",
+    "Category": "Internet Utilities",
+    "Productivity": 0
   },
   {
     "Rank": 58,
@@ -475,17 +475,17 @@
     "Rank": 60,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "admin.google.com",
-    "Category": "Administration",
-    "Productivity": 2
+    "Activity": "system information",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "system information",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "admin.google.com",
+    "Category": "Administration",
+    "Productivity": 2
   },
   {
     "Rank": 62,
@@ -515,20 +515,12 @@
     "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "usernotificationcenter",
-    "Category": "General Utilities",
+    "Activity": "dropbox.com",
+    "Category": "File Sharing",
     "Productivity": 1
   },
   {
     "Rank": 66,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "dropbox.com",
-    "Category": "File Sharing",
-    "Productivity": -2
-  },
-  {
-    "Rank": 67,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "archive utility",
@@ -536,7 +528,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 68,
+    "Rank": 67,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "transcode",
@@ -544,11 +536,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 69,
+    "Rank": 68,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "facetime",
     "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "usernotificationcenter",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {

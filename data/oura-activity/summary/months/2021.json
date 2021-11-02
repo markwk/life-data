@@ -33,12 +33,18 @@
     "score": 2554
   },
   "10": {
-    "steps": 348141,
-    "total": 12330,
-    "cal_active": 14267,
-    "cal_total": 60104,
-    "score": 2717
+    "steps": 361195,
+    "total": 12907,
+    "cal_active": 14692,
+    "cal_total": 62140,
+    "score": 2810
   },
-  "11": {},
+  "11": {
+    "steps": 3274,
+    "total": 80,
+    "cal_active": 107,
+    "cal_total": 1431,
+    "score": 86
+  },
   "12": {}
 }
