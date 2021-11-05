@@ -419,33 +419,33 @@
     "Rank": 53,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "getpocket.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 15,
-    "Number of People": 1,
     "Activity": "medium.com",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 55,
-    "Time Spent (seconds)": 14,
+    "Rank": 54,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
+    "Activity": "getpocket.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 56,
+    "Rank": 55,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "nature.com",
     "Category": "Search",
     "Productivity": 0
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 57,
@@ -475,25 +475,25 @@
     "Rank": 60,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "sfchronicle.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "postman",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "sfchronicle.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "postman",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 63,
@@ -515,33 +515,33 @@
     "Rank": 65,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "e-book viewer",
-    "Category": "General Reference & Learning",
+    "Activity": "Zoom website",
+    "Category": "Meetings",
     "Productivity": 1
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
+    "Activity": "e-book viewer",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 67,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "uxcoffee.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "toggl.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 68,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "toggl.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "uxcoffee.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 69,

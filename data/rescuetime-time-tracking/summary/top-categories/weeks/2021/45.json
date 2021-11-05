@@ -100,11 +100,31 @@
     "Marketing": 60,
     "General Shopping": 14,
     "Business & Finance": 7,
-    "Graphic Design": 6,
     "General Communication & Scheduling": 6,
+    "Graphic Design": 6,
     "General News & Opinion": 5
   },
-  "2021-11-4": {},
+  "2021-11-4": {
+    "Writing": 7602,
+    "General Design & Composition": 5011,
+    "General Business": 2654,
+    "Search": 464,
+    "Instant Message": 456,
+    "Project Management": 333,
+    "Calendars": 264,
+    "Email": 217,
+    "Intelligence": 186,
+    "Uncategorized": 152,
+    "General Entertainment": 101,
+    "General Reference & Learning": 95,
+    "General Utilities": 87,
+    "Health & Medicine": 57,
+    "Browsers": 37,
+    "Games": 6,
+    "General News & Opinion": 5,
+    "Meetings": 3,
+    "Engineering & Technology": 2
+  },
   "2021-11-5": {},
   "2021-11-6": {}
 }
