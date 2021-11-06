@@ -38,16 +38,28 @@
     "News & Opinion": 5
   },
   "4": {
-    "Design & Composition": 12613,
-    "Business": 3173,
-    "Communication & Scheduling": 940,
-    "Reference & Learning": 618,
-    "Uncategorized": 152,
-    "Utilities": 124,
-    "Entertainment": 107,
-    "News & Opinion": 5
+    "Design & Composition": 14344,
+    "Business": 3617,
+    "Communication & Scheduling": 2256,
+    "Entertainment": 1475,
+    "Reference & Learning": 670,
+    "Uncategorized": 539,
+    "Utilities": 371,
+    "News & Opinion": 349,
+    "Shopping": 21,
+    "Software Development": 11
   },
-  "5": {},
+  "5": {
+    "Design & Composition": 19380,
+    "Communication & Scheduling": 1907,
+    "Business": 1530,
+    "Reference & Learning": 1080,
+    "Software Development": 696,
+    "Utilities": 495,
+    "Uncategorized": 306,
+    "News & Opinion": 47,
+    "Entertainment": 13
+  },
   "6": {},
   "7": {},
   "8": {},
