@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 282,
     "Number of People": 1,
-    "Activity": "userinterviews.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 282,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "userinterviews.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 13,
@@ -307,20 +307,12 @@
     "Rank": 39,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "medium.com",
-    "Category": "Writing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 40,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "iterm2",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 41,
+    "Rank": 40,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -328,11 +320,19 @@
     "Productivity": 1
   },
   {
-    "Rank": 42,
+    "Rank": 41,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "business.facebook.com",
     "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "medium.com",
+    "Category": "Writing",
     "Productivity": 2
   },
   {

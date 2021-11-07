@@ -1,1 +1,130 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 4687,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 475,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 467,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 227,
+    "Number of People": 1,
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 127,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 96,
+    "Number of People": 1,
+    "Activity": "splice",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 80,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "reddit.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "tunebat.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "cprato.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  }
+]

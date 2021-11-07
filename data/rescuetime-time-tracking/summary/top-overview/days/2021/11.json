@@ -50,17 +50,27 @@
     "Software Development": 11
   },
   "5": {
-    "Design & Composition": 19380,
-    "Communication & Scheduling": 1907,
-    "Business": 1530,
-    "Reference & Learning": 1080,
+    "Design & Composition": 19462,
+    "Communication & Scheduling": 3146,
+    "Business": 1762,
+    "Reference & Learning": 1119,
     "Software Development": 696,
-    "Utilities": 495,
-    "Uncategorized": 306,
-    "News & Opinion": 47,
-    "Entertainment": 13
+    "Utilities": 508,
+    "Uncategorized": 333,
+    "News & Opinion": 205,
+    "Entertainment": 17
   },
-  "6": {},
+  "6": {
+    "Design & Composition": 5039,
+    "Entertainment": 475,
+    "Business": 467,
+    "Reference & Learning": 127,
+    "Utilities": 104,
+    "Software Development": 80,
+    "Communication & Scheduling": 63,
+    "Uncategorized": 56,
+    "News & Opinion": 52
+  },
   "7": {},
   "8": {},
   "9": {},
