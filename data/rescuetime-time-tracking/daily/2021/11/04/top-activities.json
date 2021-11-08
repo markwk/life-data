@@ -147,25 +147,25 @@
     "Rank": 19,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 20,
-    "Time Spent (seconds)": 107,
-    "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
   },
   {
-    "Rank": 21,
+    "Rank": 20,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 107,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 22,
@@ -259,25 +259,25 @@
     "Rank": 33,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "library.lol",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 34,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 34,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "library.lol",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 36,
@@ -355,20 +355,12 @@
     "Rank": 45,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 46,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "pubmed.ncbi.nlm.nih.gov",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 47,
+    "Rank": 46,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "ncbi.nlm.nih.gov",
@@ -376,12 +368,20 @@
     "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "nancyl@panix.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 49,

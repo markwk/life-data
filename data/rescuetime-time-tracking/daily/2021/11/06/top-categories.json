@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4783,
+    "Time Spent (seconds)": 6149,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
@@ -13,19 +13,19 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 467,
+    "Time Spent (seconds)": 474,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 256,
+    "Time Spent (seconds)": 257,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 127,
+    "Time Spent (seconds)": 135,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -55,18 +55,24 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 48,
+    "Number of People": 1,
+    "Category": "Video"
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 12,
+    "Rank": 13,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Category": "Voice Chat"
