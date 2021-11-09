@@ -283,28 +283,12 @@
     "Rank": 36,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
-    "Rank": 37,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
-    "Activity": "cbrubin.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 38,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
     "Activity": "unsplash.com",
     "Category": "Graphic Design",
     "Productivity": 2
   },
   {
-    "Rank": 39,
+    "Rank": 37,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "rescuetime.com",
@@ -312,20 +296,36 @@
     "Productivity": 2
   },
   {
-    "Rank": 40,
-    "Time Spent (seconds)": 16,
+    "Rank": 38,
+    "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "businessinsider.com",
-    "Category": "General News & Opinion",
+    "Activity": "spotify",
+    "Category": "General Entertainment",
     "Productivity": -2
   },
   {
-    "Rank": 41,
+    "Rank": 39,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "cbrubin.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 40,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "medium.com",
     "Category": "Writing",
     "Productivity": 2
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "businessinsider.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 42,
@@ -395,17 +395,17 @@
     "Rank": 50,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "newcriterion.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "localhost:8888",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "localhost:8888",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "newcriterion.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 52,
@@ -419,20 +419,12 @@
     "Rank": 53,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "coreautha",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "Terminal",
     "Category": "Systems Operations",
     "Productivity": 2
   },
   {
-    "Rank": 55,
+    "Rank": 54,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "cmswire.com",
@@ -440,12 +432,20 @@
     "Productivity": 0
   },
   {
-    "Rank": 56,
+    "Rank": 55,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "wordribbon.tips.net",
     "Category": "General Reference & Learning",
     "Productivity": 1
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "coreautha",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 57,
@@ -483,17 +483,17 @@
     "Rank": 61,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "jarvis.ai",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "theverge.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "theverge.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "jarvis.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 63,
