@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 71,
     "Number of People": 1,
-    "Activity": "pygal.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 71,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "pygal.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 38,
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "stackabuse.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
-    "Activity": "stackabuse.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 45,
@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "towardsdatascience.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "towardsdatascience.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 59,
