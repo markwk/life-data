@@ -395,16 +395,16 @@
     "Rank": 50,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "hawaiianairlines.com",
-    "Category": "General Reference & Learning",
+    "Activity": "talk.jekyllrb.com",
+    "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "talk.jekyllrb.com",
-    "Category": "Engineering & Technology",
+    "Activity": "hawaiianairlines.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -531,12 +531,20 @@
     "Rank": 67,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
+    "Activity": "login.mailchimp.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 68,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
     "Activity": "about:blank#blocked",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 68,
+    "Rank": 69,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "towardsdatascience.com",
@@ -544,23 +552,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 69,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "login.mailchimp.com",
-    "Category": "Marketing",
-    "Productivity": 2
-  },
-  {
     "Rank": 70,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "Dropbox",
-    "Category": "File Sharing",
-    "Productivity": -2
-  },
-  {
-    "Rank": 71,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "libvips.org",
@@ -568,20 +560,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 72,
-    "Time Spent (seconds)": 3,
+    "Rank": 71,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Terminal",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "Dropbox",
+    "Category": "File Sharing",
+    "Productivity": -2
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "libgen.lc",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "Terminal",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 74,
@@ -603,24 +603,24 @@
     "Rank": 76,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
+    "Activity": "anima-uploads.s3.amazonaws.com",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
     "Rank": 77,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "anima-uploads.s3.amazonaws.com",
-    "Category": "Internet Utilities",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
     "Rank": 78,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "archive utility",
+    "Category": "General Utilities",
     "Productivity": 1
   }
 ]
