@@ -269,7 +269,22 @@
     "General Software Development": 8,
     "Legal & Gov't": 2
   },
-  "12": {},
+  "12": {
+    "General Software Development": 1223,
+    "General News & Opinion": 770,
+    "Email": 450,
+    "Uncategorized": 132,
+    "Business": 87,
+    "General Utilities": 51,
+    "Intelligence": 18,
+    "Browsers": 11,
+    "Instant Message": 11,
+    "General Communication & Scheduling": 9,
+    "Search": 7,
+    "General Shopping": 3,
+    "Writing": 2,
+    "General Reference & Learning": 1
+  },
   "13": {},
   "14": {},
   "15": {},
