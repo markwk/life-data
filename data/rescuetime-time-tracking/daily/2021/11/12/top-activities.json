@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "science.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "science.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 13,
@@ -107,25 +107,25 @@
     "Rank": 14,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 15,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 16,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 17,
@@ -155,17 +155,17 @@
     "Rank": 20,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 22,
