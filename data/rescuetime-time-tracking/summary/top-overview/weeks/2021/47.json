@@ -11,7 +11,18 @@
     "News & Opinion": 20,
     "Design & Composition": 14
   },
-  "2021-11-15": {},
+  "2021-11-15": {
+    "Design & Composition": 1312,
+    "Reference & Learning": 1098,
+    "Software Development": 658,
+    "Communication & Scheduling": 334,
+    "Uncategorized": 266,
+    "Utilities": 197,
+    "Business": 155,
+    "News & Opinion": 24,
+    "Entertainment": 2,
+    "Shopping": 2
+  },
   "2021-11-16": {},
   "2021-11-17": {},
   "2021-11-18": {},
