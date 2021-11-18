@@ -179,17 +179,17 @@
     "Rank": 23,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "reminders",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "reminders",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 25,
@@ -219,20 +219,12 @@
     "Rank": 28,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "photos",
-    "Category": "Photos",
-    "Productivity": -2
-  },
-  {
-    "Rank": 29,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "cdn.shopify.com",
     "Category": "General Shopping",
     "Productivity": -2
   },
   {
-    "Rank": 30,
+    "Rank": 29,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "scents-of-earth.com",
@@ -240,7 +232,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 30,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "keeweb",
@@ -248,7 +240,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 31,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "Google Spreadsheets",
@@ -256,15 +248,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 33,
-    "Time Spent (seconds)": 1,
+    "Rank": 32,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Zoom",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "photos",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
-    "Rank": 34,
+    "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -272,11 +264,19 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 34,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "instapaper.com",
     "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Zoom",
+    "Category": "Meetings",
     "Productivity": 1
   }
 ]
