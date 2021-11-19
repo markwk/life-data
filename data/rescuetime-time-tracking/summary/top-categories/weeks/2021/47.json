@@ -41,20 +41,29 @@
   },
   "2021-11-16": {},
   "2021-11-17": {
-    "General Software Development": 537,
-    "Instant Message": 199,
-    "Email": 122,
-    "Intelligence": 14,
+    "General Software Development": 591,
+    "Instant Message": 223,
+    "Email": 145,
+    "Intelligence": 21,
     "Browsers": 10,
     "Uncategorized": 9,
+    "Search": 5,
     "Writing": 5,
-    "Search": 3,
     "Project Management": 2,
     "General Reference & Learning": 2,
     "General Utilities": 1,
     "General Shopping": 1
   },
-  "2021-11-18": {},
+  "2021-11-18": {
+    "Photos": 2773,
+    "General Software Development": 1391,
+    "Email": 1079,
+    "General Utilities": 117,
+    "Intelligence": 29,
+    "Calendars": 23,
+    "Search": 13,
+    "Browsers": 10
+  },
   "2021-11-19": {},
   "2021-11-20": {}
 }

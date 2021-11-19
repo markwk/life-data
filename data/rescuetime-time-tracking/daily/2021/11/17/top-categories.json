@@ -1,25 +1,25 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 537,
+    "Time Spent (seconds)": 591,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 199,
+    "Time Spent (seconds)": 223,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 122,
+    "Time Spent (seconds)": 145,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 14,
+    "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Category": "Intelligence"
   },
@@ -39,13 +39,13 @@
     "Rank": 7,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Category": "Writing"
+    "Category": "Search"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Category": "Search"
+    "Category": "Writing"
   },
   {
     "Rank": 9,
