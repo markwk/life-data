@@ -353,7 +353,14 @@
   },
   "19": {},
   "20": {},
-  "21": {},
+  "21": {
+    "Browsers": 88,
+    "General Utilities": 56,
+    "Audio Editing": 40,
+    "General Entertainment": 37,
+    "Internet Utilities": 20,
+    "General Software Development": 20
+  },
   "22": {},
   "23": {},
   "24": {},
