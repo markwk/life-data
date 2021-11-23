@@ -1,38 +1,86 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 88,
+    "Time Spent (seconds)": 5631,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Writing"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 56,
-    "Number of People": 1,
-    "Category": "General Utilities"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 40,
+    "Time Spent (seconds)": 1931,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 1263,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
     "Rank": 4,
-    "Time Spent (seconds)": 37,
+    "Time Spent (seconds)": 909,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 20,
+    "Time Spent (seconds)": 863,
     "Number of People": 1,
-    "Category": "Internet Utilities"
+    "Category": "General Software Development"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 20,
+    "Time Spent (seconds)": 727,
     "Number of People": 1,
-    "Category": "General Software Development"
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 646,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 497,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 182,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 157,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 149,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 120,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Category": "Internet Utilities"
   }
 ]
