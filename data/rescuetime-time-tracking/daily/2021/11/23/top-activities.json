@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "devtools",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 48,
@@ -435,17 +435,17 @@
     "Rank": 55,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "toggl.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
   },
   {
     "Rank": 56,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
+    "Activity": "toggl.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 57,
@@ -467,25 +467,25 @@
     "Rank": 59,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "youtube-dl.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 60,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "localhost:1313",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "youtube-dl.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "localhost:1313",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 62,
@@ -515,20 +515,12 @@
     "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "raw.githubusercontent.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 66,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "cnn.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 67,
+    "Rank": 66,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "hub.docker.com",
@@ -536,11 +528,19 @@
     "Productivity": 2
   },
   {
-    "Rank": 68,
+    "Rank": 67,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "accounts.intuit.com",
     "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 68,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "raw.githubusercontent.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
