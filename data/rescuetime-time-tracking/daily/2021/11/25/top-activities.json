@@ -131,17 +131,17 @@
     "Rank": 17,
     "Time Spent (seconds)": 123,
     "Number of People": 1,
-    "Activity": "Github",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 18,
     "Time Spent (seconds)": 123,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 19,
@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "aws.amazon.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "aws.amazon.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 27,

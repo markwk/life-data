@@ -299,17 +299,17 @@
     "Rank": 38,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
-    "Activity": "talk.jekyllrb.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 119,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "talk.jekyllrb.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 40,
@@ -451,7 +451,7 @@
     "Rank": 57,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "superuser.com",
+    "Activity": "makandracards.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -467,7 +467,7 @@
     "Rank": 59,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "makandracards.com",
+    "Activity": "superuser.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
@@ -587,24 +587,24 @@
     "Rank": 74,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "thisdot.co",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 75,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
     "Activity": "chewy.com",
     "Category": "General Shopping",
     "Productivity": -2
   },
   {
-    "Rank": 76,
+    "Rank": 75,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 76,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "thisdot.co",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -619,17 +619,17 @@
     "Rank": 78,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp4.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "forums.macrumors.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 79,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "forums.macrumors.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "upwork-usw2-prod-file-storage-wp4.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 80,
@@ -651,28 +651,20 @@
     "Rank": 82,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "i.stack.imgur.com",
-    "Category": "Photos",
-    "Productivity": -2
-  },
-  {
-    "Rank": 83,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "localhost:3000",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 84,
-    "Time Spent (seconds)": 4,
+    "Rank": 83,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "i.stack.imgur.com",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
-    "Rank": 85,
+    "Rank": 84,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "justgoodthemes.com",
@@ -680,7 +672,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 86,
+    "Rank": 85,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "keeweb",
@@ -688,20 +680,28 @@
     "Productivity": 1
   },
   {
-    "Rank": 87,
-    "Time Spent (seconds)": 3,
+    "Rank": 86,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 88,
+    "Rank": 87,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Zoom website",
     "Category": "Meetings",
     "Productivity": 1
+  },
+  {
+    "Rank": 88,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
   },
   {
     "Rank": 89,

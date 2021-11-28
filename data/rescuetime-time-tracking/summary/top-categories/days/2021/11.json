@@ -503,7 +503,16 @@
     "General Communication & Scheduling": 4,
     "Search": 3
   },
-  "27": {},
+  "27": {
+    "Audio Editing": 965,
+    "Intelligence": 398,
+    "Browsers": 256,
+    "Writing": 196,
+    "General Utilities": 84,
+    "General Software Development": 44,
+    "General Communication & Scheduling": 22,
+    "Voice Chat": 12
+  },
   "28": {},
   "29": {}
 }
