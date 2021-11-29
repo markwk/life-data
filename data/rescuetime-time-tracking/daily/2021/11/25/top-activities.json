@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "aws.amazon.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "aws.amazon.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 27,
@@ -267,25 +267,25 @@
     "Rank": 34,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "randomlists.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 35,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "laphil.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 36,
+    "Rank": 35,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "randomlists.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 37,

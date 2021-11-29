@@ -506,13 +506,23 @@
   "27": {
     "Audio Editing": 965,
     "Intelligence": 398,
-    "Browsers": 256,
+    "Browsers": 321,
     "Writing": 196,
     "General Utilities": 84,
     "General Software Development": 44,
     "General Communication & Scheduling": 22,
     "Voice Chat": 12
   },
-  "28": {},
+  "28": {
+    "Email": 540,
+    "Writing": 530,
+    "Intelligence": 177,
+    "Browsers": 51,
+    "General Entertainment": 50,
+    "General Software Development": 22,
+    "Uncategorized": 18,
+    "Meetings": 3,
+    "Search": 2
+  },
   "29": {}
 }
