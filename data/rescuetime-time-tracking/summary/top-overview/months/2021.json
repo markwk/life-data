@@ -82,15 +82,16 @@
     "Shopping": 2319
   },
   "12": {
-    "Software Development": 4544,
-    "Business": 2526,
-    "Design & Composition": 2136,
-    "Communication & Scheduling": 1930,
-    "Reference & Learning": 740,
-    "Utilities": 256,
-    "Uncategorized": 133,
-    "News & Opinion": 122,
-    "Entertainment": 93,
-    "Social Networking": 11
+    "Design & Composition": 14224,
+    "Software Development": 7359,
+    "Business": 4380,
+    "Entertainment": 3269,
+    "Reference & Learning": 2844,
+    "Communication & Scheduling": 4751,
+    "Uncategorized": 7331,
+    "Utilities": 1430,
+    "News & Opinion": 679,
+    "Shopping": 77,
+    "Social Networking": 41
   }
 }
