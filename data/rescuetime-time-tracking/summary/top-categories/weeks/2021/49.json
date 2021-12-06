@@ -116,7 +116,7 @@
     "Quality Assurance": 4
   },
   "2021-12-2": {
-    "Uncategorized": 10772,
+    "Audio Editing": 10150,
     "Writing": 7296,
     "Presentation": 2449,
     "Email": 2429,
@@ -124,6 +124,7 @@
     "General Design & Composition": 1023,
     "Intelligence": 930,
     "General Utilities": 645,
+    "Uncategorized": 622,
     "Meetings": 431,
     "Search": 411,
     "Calendars": 385,
@@ -150,15 +151,14 @@
   },
   "2021-12-3": {
     "Writing": 4566,
-    "Uncategorized": 2992,
+    "Audio Editing": 2372,
+    "General Software Development": 1852,
     "Email": 1616,
     "Project Management": 1432,
     "Meetings": 1171,
     "Instant Message": 914,
     "General Entertainment": 808,
-    "Audio Editing": 731,
     "General Shopping": 706,
-    "General Software Development": 703,
     "General Design & Composition": 611,
     "Presentation": 554,
     "General Business": 541,
@@ -168,11 +168,30 @@
     "Browsers": 230,
     "Search": 216,
     "General Utilities": 205,
+    "Uncategorized": 202,
     "Professional Networking": 152,
     "General Reference & Learning": 88,
     "Marketing": 13,
     "Sports": 7,
     "File Sharing": 4
   },
-  "2021-12-4": {}
+  "2021-12-4": {
+    "Audio Editing": 5066,
+    "Writing": 1078,
+    "Email": 542,
+    "Project Management": 302,
+    "General Utilities": 257,
+    "Intelligence": 85,
+    "General Software Development": 47,
+    "Uncategorized": 41,
+    "General Entertainment": 27,
+    "Sports": 25,
+    "Browsers": 25,
+    "Professional Networking": 23,
+    "General Reference & Learning": 17,
+    "Instant Message": 16,
+    "General News & Opinion": 10,
+    "General Shopping": 10,
+    "Business": 8
+  }
 }
