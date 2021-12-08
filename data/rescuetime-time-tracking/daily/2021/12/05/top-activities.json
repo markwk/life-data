@@ -339,7 +339,7 @@
     "Rank": 43,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "news.yahoo.com",
+    "Activity": "vox.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
@@ -347,7 +347,7 @@
     "Rank": 44,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "vox.com",
+    "Activity": "news.yahoo.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
@@ -363,7 +363,7 @@
     "Rank": 46,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "users",
+    "Activity": "myagingtests.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -371,17 +371,17 @@
     "Rank": 47,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "myagingtests.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Wikipedia",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Wikipedia",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "users",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 49,
