@@ -323,7 +323,7 @@
     "Rank": 41,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "usernotificationcenter",
+    "Activity": "time.is",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -331,7 +331,7 @@
     "Rank": 42,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "time.is",
+    "Activity": "usernotificationcenter",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -339,33 +339,33 @@
     "Rank": 43,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 44,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "usatoday.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 45,
-    "Time Spent (seconds)": 8,
+    "Rank": 44,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "devtools",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 46,
+    "Rank": 45,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "problem reporter",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 47,
