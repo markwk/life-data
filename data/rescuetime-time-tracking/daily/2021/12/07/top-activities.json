@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "tandfonline.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
-    "Productivity": 2
+    "Activity": "tandfonline.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 41,
@@ -395,20 +395,28 @@
     "Rank": 50,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "endurancecui.active.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "endurancecui.active.com",
-    "Category": "General Reference & Learning",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
     "Rank": 52,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 53,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "scholar.google.com",
@@ -416,20 +424,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 53,
+    "Rank": 54,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "vox.com",
     "Category": "General News & Opinion",
     "Productivity": -2
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
   },
   {
     "Rank": 55,

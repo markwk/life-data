@@ -28,12 +28,16 @@
     "score": 98
   },
   "2021-12-9": {
-    "steps": 2388,
-    "total": 103,
-    "cal_active": 76,
-    "cal_total": 1430,
-    "score": 94
+    "steps": 6972,
+    "total": 323,
+    "cal_active": 229,
+    "cal_total": 1766
   },
-  "2021-12-10": {},
+  "2021-12-10": {
+    "steps": 4180,
+    "total": 208,
+    "cal_active": 161,
+    "cal_total": 1556
+  },
   "2021-12-11": {}
 }

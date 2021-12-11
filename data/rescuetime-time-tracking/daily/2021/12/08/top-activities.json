@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "checkout.stripe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
-    "Activity": "checkout.stripe.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 27,
@@ -379,16 +379,16 @@
     "Rank": 48,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   }
 ]
