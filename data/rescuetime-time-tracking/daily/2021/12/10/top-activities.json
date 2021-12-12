@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3287,
+    "Time Spent (seconds)": 3295,
     "Number of People": 1,
     "Activity": "Google Presentations",
     "Category": "Presentation",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1519,
+    "Time Spent (seconds)": 1521,
     "Number of People": 1,
     "Activity": "Google Documents",
     "Category": "Writing",
@@ -33,6 +33,14 @@
   },
   {
     "Rank": 5,
+    "Time Spent (seconds)": 1177,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 6,
     "Time Spent (seconds)": 1036,
     "Number of People": 1,
     "Activity": "typora",
@@ -40,16 +48,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 937,
-    "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 1
-  },
-  {
     "Rank": 7,
-    "Time Spent (seconds)": 360,
+    "Time Spent (seconds)": 376,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 340,
+    "Time Spent (seconds)": 358,
     "Number of People": 1,
     "Activity": "todoist",
     "Category": "Project Management",
@@ -65,7 +65,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 216,
+    "Time Spent (seconds)": 310,
     "Number of People": 1,
     "Activity": "Google Calendar",
     "Category": "Calendars",
@@ -73,7 +73,7 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 211,
+    "Time Spent (seconds)": 213,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
@@ -89,7 +89,7 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 159,
+    "Time Spent (seconds)": 161,
     "Number of People": 1,
     "Activity": "cult.fit",
     "Category": "Uncategorized",
@@ -113,7 +113,7 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 99,
+    "Time Spent (seconds)": 100,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
@@ -145,7 +145,7 @@
   },
   {
     "Rank": 19,
-    "Time Spent (seconds)": 66,
+    "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Activity": "crunchbase.com",
     "Category": "General Communication & Scheduling",
@@ -185,7 +185,7 @@
   },
   {
     "Rank": 24,
-    "Time Spent (seconds)": 50,
+    "Time Spent (seconds)": 51,
     "Number of People": 1,
     "Activity": "app.fireflies.ai",
     "Category": "Meetings",
@@ -241,7 +241,7 @@
   },
   {
     "Rank": 31,
-    "Time Spent (seconds)": 23,
+    "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "app.jarvis.ai",
     "Category": "Writing",

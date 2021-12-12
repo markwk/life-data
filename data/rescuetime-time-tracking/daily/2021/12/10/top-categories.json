@@ -1,75 +1,75 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3827,
+    "Time Spent (seconds)": 3830,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3318,
+    "Time Spent (seconds)": 3326,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2212,
+    "Time Spent (seconds)": 2213,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 937,
+    "Time Spent (seconds)": 1177,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 388,
+    "Time Spent (seconds)": 406,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 375,
+    "Time Spent (seconds)": 391,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 271,
+    "Time Spent (seconds)": 310,
+    "Number of People": 1,
+    "Category": "Calendars"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 273,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 257,
+    "Rank": 9,
+    "Time Spent (seconds)": 259,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 237,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 216,
-    "Number of People": 1,
-    "Category": "Calendars"
-  },
-  {
     "Rank": 11,
     "Time Spent (seconds)": 147,
     "Number of People": 1,
-    "Category": "Professional Networking"
+    "Category": "General Communication & Scheduling"
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 146,
+    "Time Spent (seconds)": 147,
     "Number of People": 1,
-    "Category": "General Communication & Scheduling"
+    "Category": "Professional Networking"
   },
   {
     "Rank": 13,
@@ -81,13 +81,13 @@
     "Rank": 14,
     "Time Spent (seconds)": 100,
     "Number of People": 1,
-    "Category": "General Reference & Learning"
+    "Category": "Search"
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 99,
+    "Time Spent (seconds)": 100,
     "Number of People": 1,
-    "Category": "Search"
+    "Category": "General Reference & Learning"
   },
   {
     "Rank": 16,

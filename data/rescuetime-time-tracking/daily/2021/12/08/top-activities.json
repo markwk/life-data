@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
-    "Activity": "checkout.stripe.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "checkout.stripe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 27,
@@ -219,7 +219,7 @@
     "Rank": 28,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
-    "Activity": "Finder",
+    "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -227,7 +227,7 @@
     "Rank": 29,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
-    "Activity": "bartender 4",
+    "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -275,24 +275,24 @@
     "Rank": 35,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "visualcomposer.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
   },
   {
     "Rank": 36,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "support.squarespace.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
+    "Activity": "visualcomposer.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
+    "Activity": "support.squarespace.com",
+    "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
