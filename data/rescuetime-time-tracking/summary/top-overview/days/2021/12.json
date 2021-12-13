@@ -126,15 +126,21 @@
     "Shopping": 6
   },
   "11": {
-    "Design & Composition": 735,
+    "Entertainment": 1508,
+    "Design & Composition": 1375,
     "Software Development": 511,
-    "Entertainment": 354,
+    "Utilities": 234,
+    "Business": 168,
     "Communication & Scheduling": 42,
-    "Utilities": 25,
-    "Reference & Learning": 8,
-    "Business": 4
+    "Reference & Learning": 8
   },
-  "12": {},
+  "12": {
+    "Entertainment": 1394,
+    "Design & Composition": 407,
+    "Business": 403,
+    "Utilities": 54,
+    "Reference & Learning": 2
+  },
   "13": {},
   "14": {},
   "15": {},

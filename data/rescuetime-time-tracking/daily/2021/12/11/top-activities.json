@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 710,
+    "Time Spent (seconds)": 1344,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -9,15 +9,15 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 511,
+    "Time Spent (seconds)": 851,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "VLC Media Player",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 354,
+    "Time Spent (seconds)": 657,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -25,15 +25,15 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 42,
+    "Time Spent (seconds)": 511,
     "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 1
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 25,
+    "Time Spent (seconds)": 234,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -41,6 +41,22 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 168,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "the archive",
@@ -48,7 +64,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "google.com",
@@ -56,11 +72,11 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 4,
+    "Rank": 10,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   }
 ]

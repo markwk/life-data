@@ -34,10 +34,15 @@
     "cal_total": 1766
   },
   "2021-12-10": {
-    "steps": 6288,
+    "steps": 6295,
     "total": 319,
     "cal_active": 230,
-    "cal_total": 1733
+    "cal_total": 1743
   },
-  "2021-12-11": {}
+  "2021-12-11": {
+    "steps": 11482,
+    "total": 542,
+    "cal_active": 387,
+    "cal_total": 1917
+  }
 }

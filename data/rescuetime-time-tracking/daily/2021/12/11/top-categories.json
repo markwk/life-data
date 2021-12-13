@@ -1,50 +1,56 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 710,
+    "Time Spent (seconds)": 1344,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 511,
+    "Time Spent (seconds)": 851,
     "Number of People": 1,
-    "Category": "General Software Development"
+    "Category": "Video"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 354,
+    "Time Spent (seconds)": 657,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 42,
+    "Time Spent (seconds)": 511,
     "Number of People": 1,
-    "Category": "Email"
+    "Category": "General Software Development"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 25,
+    "Time Spent (seconds)": 234,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 25,
+    "Time Spent (seconds)": 168,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
-    "Rank": 7,
+    "Rank": 9,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Category": "Search"
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Category": "Intelligence"
   }
 ]

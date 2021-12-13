@@ -265,20 +265,31 @@
     "Graphic Design": 33,
     "Instant Message": 23,
     "General Design & Composition": 12,
-    "Engineering & Technology": 6,
-    "General Shopping": 6
+    "General Shopping": 6,
+    "Engineering & Technology": 6
   },
   "11": {
-    "Audio Editing": 710,
+    "Audio Editing": 1344,
+    "Video": 851,
+    "General Entertainment": 657,
     "General Software Development": 511,
-    "General Entertainment": 354,
+    "General Utilities": 234,
+    "Intelligence": 168,
     "Email": 42,
-    "General Utilities": 25,
-    "Writing": 25,
-    "Search": 8,
-    "Intelligence": 4
+    "Writing": 31,
+    "Search": 8
   },
-  "12": {},
+  "12": {
+    "Video": 981,
+    "General Entertainment": 413,
+    "Audio Editing": 403,
+    "Intelligence": 400,
+    "General Utilities": 52,
+    "Writing": 4,
+    "Project Management": 3,
+    "Search": 2,
+    "Browsers": 2
+  },
   "13": {},
   "14": {},
   "15": {},

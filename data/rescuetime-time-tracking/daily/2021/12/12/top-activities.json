@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 981,
+    "Number of People": 1,
+    "Activity": "VLC Media Player",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 413,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 403,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 244,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 151,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "RescueTime",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  }
+]
