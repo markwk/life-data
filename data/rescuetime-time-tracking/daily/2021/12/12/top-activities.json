@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 730,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 413,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 403,
-    "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
-    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 25,
+    "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -75,17 +75,17 @@
     "Rank": 10,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 11,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 12,

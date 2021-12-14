@@ -136,12 +136,21 @@
   },
   "12": {
     "Entertainment": 1394,
-    "Design & Composition": 407,
+    "Design & Composition": 734,
     "Business": 403,
-    "Utilities": 54,
+    "Utilities": 55,
     "Reference & Learning": 2
   },
-  "13": {},
+  "13": {
+    "Software Development": 5420,
+    "Utilities": 2123,
+    "Communication & Scheduling": 2058,
+    "Business": 1414,
+    "Design & Composition": 756,
+    "Reference & Learning": 160,
+    "News & Opinion": 89,
+    "Entertainment": 69
+  },
   "14": {},
   "15": {},
   "16": {},

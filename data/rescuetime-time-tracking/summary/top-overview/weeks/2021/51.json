@@ -1,12 +1,21 @@
 {
   "2021-12-12": {
     "Entertainment": 1394,
-    "Design & Composition": 407,
+    "Design & Composition": 734,
     "Business": 403,
-    "Utilities": 54,
+    "Utilities": 55,
     "Reference & Learning": 2
   },
-  "2021-12-13": {},
+  "2021-12-13": {
+    "Software Development": 5420,
+    "Utilities": 2123,
+    "Communication & Scheduling": 2058,
+    "Business": 1414,
+    "Design & Composition": 756,
+    "Reference & Learning": 160,
+    "News & Opinion": 89,
+    "Entertainment": 69
+  },
   "2021-12-14": {},
   "2021-12-15": {},
   "2021-12-16": {},

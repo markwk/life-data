@@ -7,15 +7,15 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 413,
+    "Time Spent (seconds)": 730,
     "Number of People": 1,
-    "Category": "General Entertainment"
+    "Category": "Audio Editing"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 403,
+    "Time Spent (seconds)": 413,
     "Number of People": 1,
-    "Category": "Audio Editing"
+    "Category": "General Entertainment"
   },
   {
     "Rank": 4,
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 52,
+    "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Category": "General Utilities"
   },
@@ -45,12 +45,12 @@
     "Rank": 8,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "Search"
+    "Category": "Browsers"
   },
   {
     "Rank": 9,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Search"
   }
 ]

@@ -299,17 +299,17 @@
     "Rank": 38,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "libgen.is",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "figma.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
+    "Activity": "libgen.is",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 40,
@@ -323,17 +323,17 @@
     "Rank": 41,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "app store",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "apps.apple.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 42,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "apps.apple.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "app store",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 43,
