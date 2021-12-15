@@ -77,10 +77,20 @@
     "steps": 13244,
     "total": 565,
     "cal_active": 446,
-    "cal_total": 1968
+    "cal_total": 1969
   },
-  "13": {},
-  "14": {},
+  "13": {
+    "steps": 6803,
+    "total": 319,
+    "cal_active": 216,
+    "cal_total": 1720
+  },
+  "14": {
+    "steps": 1385,
+    "total": 63,
+    "cal_active": 44,
+    "cal_total": 1362
+  },
   "15": {},
   "16": {},
   "17": {},

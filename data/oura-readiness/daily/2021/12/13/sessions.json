@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "summary_date": "2021-12-13",
+    "period_id": 1,
+    "score": 82,
+    "score_activity_balance": 0,
+    "score_hrv_balance": 33,
+    "score_previous_day": 0,
+    "score_previous_night": 90,
+    "score_recovery_index": 98,
+    "score_resting_hr": 91,
+    "score_sleep_balance": 100,
+    "score_temperature": 100,
+    "rest_mode_state": 2
+  }
+]
