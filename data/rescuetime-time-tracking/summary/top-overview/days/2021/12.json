@@ -189,7 +189,18 @@
     "Shopping": 7,
     "Uncategorized": 3
   },
-  "17": {},
+  "17": {
+    "Software Development": 4409,
+    "Business": 1988,
+    "Communication & Scheduling": 1806,
+    "Design & Composition": 888,
+    "Utilities": 461,
+    "Reference & Learning": 333,
+    "Uncategorized": 315,
+    "Shopping": 241,
+    "Entertainment": 128,
+    "News & Opinion": 73
+  },
   "18": {},
   "19": {},
   "20": {},
