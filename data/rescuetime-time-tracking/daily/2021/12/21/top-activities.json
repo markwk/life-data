@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1822,
+    "Time Spent (seconds)": 2105,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1616,
+    "Time Spent (seconds)": 1654,
     "Number of People": 1,
     "Activity": "v4616118864.ny11.us.aegir.cc",
     "Category": "Uncategorized",
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 772,
+    "Time Spent (seconds)": 997,
     "Number of People": 1,
     "Activity": "agendaflect04.int3c.com",
     "Category": "Marketing",
@@ -73,6 +73,14 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 317,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 313,
     "Number of People": 1,
     "Activity": "Github",
@@ -80,16 +88,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 310,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
     "Rank": 12,
-    "Time Spent (seconds)": 297,
+    "Time Spent (seconds)": 299,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -113,7 +113,7 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 236,
+    "Time Spent (seconds)": 243,
     "Number of People": 1,
     "Activity": "drupal.org",
     "Category": "General Software Development",
@@ -273,6 +273,14 @@
   },
   {
     "Rank": 35,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "bookends",
@@ -280,7 +288,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 36,
+    "Rank": 37,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "facebook.com",
@@ -288,7 +296,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 37,
+    "Rank": 38,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "toggl.com",
@@ -296,23 +304,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 38,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
     "Rank": 39,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
-    "Activity": "accounting.waveapps.com",
-    "Category": "General Business",
-    "Productivity": 2
-  },
-  {
-    "Rank": 40,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "zapier.com",
@@ -320,7 +312,23 @@
     "Productivity": 1
   },
   {
+    "Rank": 40,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "accounting.waveapps.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
     "Rank": 41,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 42,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "cnn.com",
@@ -328,7 +336,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 42,
+    "Rank": 43,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "the archive",
@@ -336,7 +344,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 43,
+    "Rank": 44,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -344,7 +352,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 44,
+    "Rank": 45,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "login.mailchimp.com",
@@ -352,7 +360,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 45,
+    "Rank": 46,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "my.waveapps.com",
@@ -360,7 +368,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 46,
+    "Rank": 47,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "bookloverscon.com",

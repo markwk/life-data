@@ -203,7 +203,7 @@
     "Rank": 26,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
-    "Activity": "biotracking.com",
+    "Activity": "lumen.me",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
-    "Activity": "lumen.me",
+    "Activity": "biotracking.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -267,36 +267,20 @@
     "Rank": 34,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "Firefox",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 35,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 36,
-    "Time Spent (seconds)": 10,
+    "Rank": 35,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 37,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
-    "Activity": "biopryn.com",
-    "Category": "Uncategorized",
+    "Activity": "Firefox",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 36,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "reversewinesnob.com",
@@ -304,7 +288,31 @@
     "Productivity": 0
   },
   {
+    "Rank": 37,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "biopryn.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 39,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 40,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "gandi.net",
@@ -312,20 +320,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "cdc.gov",
     "Category": "Search",
     "Productivity": 0
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
   },
   {
     "Rank": 42,
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "audiblegenius.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "target.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "target.com",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "audiblegenius.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 45,
