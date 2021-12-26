@@ -270,8 +270,28 @@
     "Entertainment": 151,
     "News & Opinion": 8
   },
-  "24": {},
-  "25": {},
+  "24": {
+    "Design & Composition": 8769,
+    "Reference & Learning": 2385,
+    "Business": 1893,
+    "Entertainment": 893,
+    "Software Development": 446,
+    "Utilities": 299,
+    "Uncategorized": 172,
+    "Communication & Scheduling": 68,
+    "News & Opinion": 33
+  },
+  "25": {
+    "Design & Composition": 2330,
+    "Reference & Learning": 1908,
+    "Utilities": 408,
+    "Business": 290,
+    "Uncategorized": 206,
+    "Entertainment": 104,
+    "Social Networking": 31,
+    "News & Opinion": 17,
+    "Software Development": 14
+  },
   "26": {},
   "27": {},
   "28": {},

@@ -179,17 +179,17 @@
     "Rank": 23,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "bradfrost.github.io",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "codepen.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 90,
     "Number of People": 1,
-    "Activity": "codepen.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "bradfrost.github.io",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 25,
@@ -371,16 +371,16 @@
     "Rank": 47,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "mailchimp.com",
-    "Category": "Marketing",
+    "Activity": "ethercycle.com",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "ethercycle.com",
-    "Category": "General Business",
+    "Activity": "mailchimp.com",
+    "Category": "Marketing",
     "Productivity": 2
   }
 ]
