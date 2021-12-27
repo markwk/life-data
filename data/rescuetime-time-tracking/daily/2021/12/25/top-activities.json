@@ -179,36 +179,20 @@
     "Rank": 23,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "pure.roehampton.ac.uk",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 15,
-    "Number of People": 1,
     "Activity": "nrl.northumbria.ac.uk",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 14,
+    "Rank": 24,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 26,
-    "Time Spent (seconds)": 14,
-    "Number of People": 1,
-    "Activity": "dfzljdn9uc3pi.cloudfront.net",
+    "Activity": "pure.roehampton.ac.uk",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 27,
+    "Rank": 25,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "nectar.northampton.ac.uk",
@@ -216,11 +200,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 26,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "music.ishkur.com",
     "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Activity": "dfzljdn9uc3pi.cloudfront.net",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -251,20 +251,12 @@
     "Rank": 32,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "splice.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 33,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
     "Activity": "scholar.googleusercontent.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 34,
+    "Rank": 33,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "theconversation.com",
@@ -272,12 +264,20 @@
     "Productivity": -2
   },
   {
-    "Rank": 35,
+    "Rank": 34,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "splice.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 36,

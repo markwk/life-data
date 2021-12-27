@@ -572,8 +572,8 @@
     "Intelligence": 120,
     "Calendars": 101,
     "General Business": 65,
-    "General News & Opinion": 4,
-    "Business": 4
+    "Business": 4,
+    "General News & Opinion": 4
   },
   "24": {
     "Writing": 8537,
@@ -591,8 +591,8 @@
     "Calendars": 68,
     "Browsers": 41,
     "Health & Medicine": 38,
-    "Engineering & Technology": 33,
     "General News & Opinion": 33,
+    "Engineering & Technology": 33,
     "Music": 27,
     "Legal & Gov't": 7,
     "Marketing": 3
