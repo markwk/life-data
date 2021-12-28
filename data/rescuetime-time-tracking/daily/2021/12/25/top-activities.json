@@ -179,32 +179,32 @@
     "Rank": 23,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "nrl.northumbria.ac.uk",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 15,
-    "Number of People": 1,
     "Activity": "pure.roehampton.ac.uk",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
+    "Rank": 24,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "nrl.northumbria.ac.uk",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
     "Rank": 25,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "nectar.northampton.ac.uk",
-    "Category": "Uncategorized",
+    "Activity": "music.ishkur.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "music.ishkur.com",
-    "Category": "Search",
+    "Activity": "dfzljdn9uc3pi.cloudfront.net",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -219,7 +219,7 @@
     "Rank": 28,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "dfzljdn9uc3pi.cloudfront.net",
+    "Activity": "nectar.northampton.ac.uk",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "library.lol",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "library.lol",
-    "Category": "Uncategorized",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
@@ -259,17 +259,17 @@
     "Rank": 33,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "theconversation.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 34,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "theconversation.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 35,
@@ -283,16 +283,16 @@
     "Rank": 36,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
+    "Activity": "healthline.com",
+    "Category": "Presentation",
     "Productivity": 2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "healthline.com",
-    "Category": "Presentation",
+    "Activity": "live",
+    "Category": "Audio Editing",
     "Productivity": 2
   },
   {
@@ -315,20 +315,12 @@
     "Rank": 40,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "caueteixeira.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "discogs.com",
     "Category": "Music",
     "Productivity": -2
   },
   {
-    "Rank": 42,
+    "Rank": 41,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "allmusic.com",
@@ -336,7 +328,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 43,
+    "Rank": 42,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "allthingsgym.com",
@@ -344,15 +336,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 1,
+    "Rank": 43,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "cdc.gov",
-    "Category": "Search",
+    "Activity": "caueteixeira.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "scmarathon.org",
@@ -360,11 +352,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 45,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
     "Productivity": -2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "cdc.gov",
+    "Category": "Search",
+    "Productivity": 0
   }
 ]
