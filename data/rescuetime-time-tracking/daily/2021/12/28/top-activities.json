@@ -187,17 +187,17 @@
     "Rank": 24,
     "Time Spent (seconds)": 100,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "library.lol",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 100,
     "Number of People": 1,
-    "Activity": "library.lol",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 26,
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "instapaper.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "instapaper.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 41,
@@ -419,33 +419,33 @@
     "Rank": 53,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "oxford.universitypressscholarship.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
     "Activity": "science.org",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 55,
-    "Time Spent (seconds)": 9,
+    "Rank": 54,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "bhspitmonkey.github.io",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "oxford.universitypressscholarship.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 56,
+    "Rank": 55,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "email.ngpvan.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "bhspitmonkey.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 57,
@@ -459,7 +459,7 @@
     "Rank": 58,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "idmsa.apple.com",
+    "Activity": "31.42.184.140",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -467,7 +467,7 @@
     "Rank": 59,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "31.42.184.140",
+    "Activity": "idmsa.apple.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -507,17 +507,17 @@
     "Rank": 64,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "jarvis.ai",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "support.wealthfront.com",
+    "Category": "Business & Finance",
+    "Productivity": 1
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "support.wealthfront.com",
-    "Category": "Business & Finance",
-    "Productivity": 1
+    "Activity": "jarvis.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 66,
