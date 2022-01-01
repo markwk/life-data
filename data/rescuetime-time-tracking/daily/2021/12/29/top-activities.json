@@ -267,20 +267,12 @@
     "Rank": 34,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 35,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 36,
+    "Rank": 35,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "spotify",
@@ -288,12 +280,20 @@
     "Productivity": -2
   },
   {
-    "Rank": 37,
+    "Rank": 36,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 38,

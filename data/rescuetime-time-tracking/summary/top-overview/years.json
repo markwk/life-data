@@ -1,15 +1,16 @@
 {
   "2021": {
-    "Design & Composition": 880410,
-    "Business": 314836,
-    "Communication & Scheduling": 468023,
+    "Design & Composition": 888098,
+    "Business": 315526,
+    "Communication & Scheduling": 468306,
     "News & Opinion": 48615,
-    "Software Development": 405337,
-    "Utilities": 122375,
-    "Entertainment": 66192,
-    "Reference & Learning": 149640,
+    "Software Development": 405366,
+    "Utilities": 123122,
+    "Entertainment": 67634,
+    "Reference & Learning": 150185,
     "Shopping": 19490,
-    "Uncategorized": 117686,
+    "Uncategorized": 117896,
     "Social Networking": 17959
-  }
+  },
+  "2022": {}
 }

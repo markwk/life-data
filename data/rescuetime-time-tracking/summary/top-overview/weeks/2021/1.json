@@ -36,15 +36,25 @@
     "Reference & Learning": 66
   },
   "2021-12-30": {
-    "Design & Composition": 8872,
-    "Communication & Scheduling": 4988,
-    "Business": 1480,
-    "Utilities": 233,
+    "Design & Composition": 11433,
+    "Communication & Scheduling": 5190,
+    "Business": 1792,
+    "Reference & Learning": 682,
+    "Utilities": 373,
     "Software Development": 230,
-    "Reference & Learning": 211,
-    "Entertainment": 97,
+    "Entertainment": 103,
     "Social Networking": 75,
     "News & Opinion": 37,
     "Uncategorized": 5
+  },
+  "2021-12-31": {
+    "Design & Composition": 5127,
+    "Entertainment": 1436,
+    "Utilities": 607,
+    "Business": 378,
+    "Uncategorized": 210,
+    "Communication & Scheduling": 81,
+    "Reference & Learning": 74,
+    "Software Development": 29
   }
 }
