@@ -155,16 +155,16 @@
     "Rank": 20,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
-    "Activity": "rnceus.com",
-    "Category": "Uncategorized",
+    "Activity": "calibre",
+    "Category": "General Communication & Scheduling",
     "Productivity": 0
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 59,
     "Number of People": 1,
-    "Activity": "calibre",
-    "Category": "General Communication & Scheduling",
+    "Activity": "rnceus.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -267,20 +267,12 @@
     "Rank": 34,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 35,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
   },
   {
-    "Rank": 36,
+    "Rank": 35,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -288,12 +280,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 37,
+    "Rank": 36,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 38,
