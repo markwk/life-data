@@ -1,6 +1,6 @@
 {
   "1": {
-    "Design & Composition": 7152,
+    "Design & Composition": 7283,
     "Business": 560,
     "Entertainment": 559,
     "Communication & Scheduling": 408,
@@ -8,7 +8,14 @@
     "Software Development": 29,
     "Reference & Learning": 5
   },
-  "2": {},
+  "2": {
+    "Design & Composition": 827,
+    "Software Development": 643,
+    "Business": 449,
+    "Utilities": 420,
+    "Reference & Learning": 28,
+    "Communication & Scheduling": 8
+  },
   "3": {},
   "4": {},
   "5": {},

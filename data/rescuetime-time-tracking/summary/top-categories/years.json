@@ -62,15 +62,22 @@
     "Maps & Regional": 78
   },
   "2022": {
-    "Audio Editing": 7132,
+    "Audio Editing": 7263,
     "General Entertainment": 559,
-    "Intelligence": 552,
+    "Intelligence": 564,
     "Email": 408,
-    "General Utilities": 56,
-    "General Software Development": 29,
-    "Writing": 20,
+    "General Utilities": 356,
+    "General Software Development": 39,
+    "Writing": 846,
     "Project Management": 8,
-    "Search": 5,
-    "Browsers": 4
+    "Search": 33,
+    "Browsers": 96,
+    "Data Modeling & Analysis": 633,
+    "Marketing": 226,
+    "General Business": 108,
+    "Sales": 103,
+    "Internet Utilities": 28,
+    "General Communication & Scheduling": 8,
+    "Presentation": 1
   }
 }

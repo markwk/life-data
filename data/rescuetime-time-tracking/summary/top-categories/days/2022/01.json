@@ -1,6 +1,6 @@
 {
   "1": {
-    "Audio Editing": 7132,
+    "Audio Editing": 7263,
     "General Entertainment": 559,
     "Intelligence": 552,
     "Email": 408,
@@ -11,7 +11,21 @@
     "Search": 5,
     "Browsers": 4
   },
-  "2": {},
+  "2": {
+    "Writing": 826,
+    "Data Modeling & Analysis": 633,
+    "General Utilities": 300,
+    "Marketing": 226,
+    "General Business": 108,
+    "Sales": 103,
+    "Browsers": 92,
+    "Internet Utilities": 28,
+    "Search": 28,
+    "Intelligence": 12,
+    "General Software Development": 10,
+    "General Communication & Scheduling": 8,
+    "Presentation": 1
+  },
   "3": {},
   "4": {},
   "5": {},
