@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "reminders",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "reminders",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 0
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 36,
@@ -355,12 +355,20 @@
     "Rank": 45,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
+    "Activity": "memrise.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
     "Activity": "Zoom website",
     "Category": "Meetings",
     "Productivity": 1
   },
   {
-    "Rank": 46,
+    "Rank": 47,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "goodreads.com",
@@ -368,7 +376,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 47,
+    "Rank": 48,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "covid19.lacounty.gov",
@@ -376,7 +384,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 48,
+    "Rank": 49,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "archive utility",
@@ -384,19 +392,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 50,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "bhspitmonkey.github.io",
     "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 50,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "memrise.com",
-    "Category": "General Reference & Learning",
     "Productivity": 2
   }
 ]
