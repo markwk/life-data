@@ -315,17 +315,17 @@
     "Rank": 40,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "nypost.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "startuprunner.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "startuprunner.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "nypost.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 42,
@@ -483,17 +483,17 @@
     "Rank": 61,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "seekpng.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "biorxiv.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 62,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "biorxiv.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "seekpng.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 63,
@@ -507,25 +507,25 @@
     "Rank": 64,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "splice",
-    "Category": "Audio Editing",
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "openmd.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "splice",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "openmd.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 67,
@@ -555,25 +555,25 @@
     "Rank": 70,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "medicalnewsfeed.wordpress.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 71,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
-    "Rank": 72,
+    "Rank": 71,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "mail-attachment.googleusercontent.com",
     "Category": "Email",
     "Productivity": 0
+  },
+  {
+    "Rank": 72,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "medicalnewsfeed.wordpress.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 73,
@@ -587,16 +587,16 @@
     "Rank": 74,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
+    "Activity": "Wikipedia",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 75,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Wikipedia",
-    "Category": "General Reference & Learning",
+    "Activity": "archive utility",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {

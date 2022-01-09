@@ -7,25 +7,25 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1363,
+    "Time Spent (seconds)": 1506,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1348,
+    "Time Spent (seconds)": 1452,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1052,
+    "Time Spent (seconds)": 1067,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 730,
+    "Time Spent (seconds)": 1042,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -37,7 +37,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 381,
+    "Time Spent (seconds)": 383,
     "Number of People": 1,
     "Category": "General Business"
   },
@@ -49,57 +49,57 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 283,
+    "Time Spent (seconds)": 293,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 188,
+    "Time Spent (seconds)": 225,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 190,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 11,
+    "Rank": 12,
+    "Time Spent (seconds)": 168,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 164,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 140,
+    "Rank": 14,
+    "Time Spent (seconds)": 156,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 129,
-    "Number of People": 1,
-    "Category": "Intelligence"
-  },
-  {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 124,
     "Number of People": 1,
     "Category": "Marketing"
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 121,
-    "Number of People": 1,
-    "Category": "General Utilities"
-  },
-  {
     "Rank": 16,
-    "Time Spent (seconds)": 89,
+    "Time Spent (seconds)": 91,
     "Number of People": 1,
-    "Category": "General Software Development"
+    "Category": "Browsers"
   },
   {
     "Rank": 17,
-    "Time Spent (seconds)": 87,
+    "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "General Software Development"
   },
   {
     "Rank": 18,
