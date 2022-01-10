@@ -110,10 +110,11 @@
     "Systems Operations": 1
   },
   "2022-01-6": {
-    "Uncategorized": 5337,
     "Writing": 4210,
+    "Sales": 3332,
     "General Design & Composition": 3297,
     "Project Management": 2281,
+    "Uncategorized": 2005,
     "General Business": 1436,
     "Email": 1380,
     "Editing & IDEs": 1214,
@@ -146,10 +147,12 @@
     "Project Management": 1506,
     "Writing": 1452,
     "Meetings": 1067,
-    "Uncategorized": 1042,
     "Email": 579,
+    "Uncategorized": 422,
     "General Business": 383,
     "General Entertainment": 350,
+    "Audio Editing": 312,
+    "Sales": 308,
     "General News & Opinion": 293,
     "Intelligence": 225,
     "Instant Message": 190,
@@ -168,16 +171,20 @@
     "Calendars": 7
   },
   "2022-01-8": {
-    "Email": 1702,
-    "Project Management": 627,
-    "Uncategorized": 374,
-    "General Design & Composition": 322,
-    "General Utilities": 299,
-    "Writing": 99,
-    "General Business": 97,
-    "Intelligence": 42,
+    "Email": 2019,
+    "Project Management": 1464,
+    "General Utilities": 517,
+    "Video": 476,
+    "General Design & Composition": 402,
+    "Intelligence": 401,
+    "Uncategorized": 378,
+    "General Reference & Learning": 347,
+    "Writing": 279,
+    "General News & Opinion": 256,
+    "General Business": 188,
+    "Search": 93,
     "General Entertainment": 30,
-    "Browsers": 17,
-    "Search": 2
+    "Browsers": 30,
+    "Audio Editing": 27
   }
 }

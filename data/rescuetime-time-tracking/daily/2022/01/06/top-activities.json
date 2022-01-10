@@ -4,8 +4,8 @@
     "Time Spent (seconds)": 3332,
     "Number of People": 1,
     "Activity": "app.gocatalant.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Category": "Sales",
+    "Productivity": 2
   },
   {
     "Rank": 2,
@@ -323,17 +323,17 @@
     "Rank": 41,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
-    "Activity": "alfred preferences",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Google Presentations",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 42,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
-    "Activity": "Google Presentations",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "alfred preferences",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 43,
@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
-    "Activity": "test3.int3c.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "test3.int3c.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 53,
@@ -555,25 +555,25 @@
     "Rank": 70,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "devtools",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "php.net",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 71,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "php.net",
-    "Category": "Engineering & Technology",
+    "Activity": "review.firstround.com",
+    "Category": "Business & Finance",
     "Productivity": 1
   },
   {
     "Rank": 72,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "review.firstround.com",
-    "Category": "Business & Finance",
-    "Productivity": 1
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 73,
@@ -587,25 +587,25 @@
     "Rank": 74,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "id.atlassian.com",
-    "Category": "General Software Development",
+    "Activity": "TextEdit",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
     "Rank": 75,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "TextEdit",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "trumelabs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 76,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "trumelabs.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "id.atlassian.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 77,
