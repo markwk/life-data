@@ -171,17 +171,17 @@
     "Rank": 22,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 24,
@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "gandi.net",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "skyandtelescope.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "skyandtelescope.org",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 32,
