@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "variety.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "variety.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 32,
@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "thesaurus.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "thesaurus.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 53,
@@ -475,16 +475,16 @@
     "Rank": 60,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "serato dj lite",
-    "Category": "Music",
+    "Activity": "New York Times",
+    "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "New York Times",
-    "Category": "General News & Opinion",
+    "Activity": "serato dj lite",
+    "Category": "Music",
     "Productivity": -2
   },
   {
@@ -507,25 +507,25 @@
     "Rank": 64,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "bookmarks",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "beta.trainasone.com",
+    "Category": "Health & Medicine",
     "Productivity": 1
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "beta.trainasone.com",
-    "Category": "Health & Medicine",
-    "Productivity": 1
+    "Activity": "bookmarks",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 67,
