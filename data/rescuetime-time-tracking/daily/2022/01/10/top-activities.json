@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "cnn.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "stripo.email",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "stripo.email",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "cnn.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 48,
@@ -403,17 +403,17 @@
     "Rank": 51,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "thesaurus.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "thesaurus.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 53,
@@ -443,12 +443,20 @@
     "Rank": 56,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
+    "Activity": "businessinsider.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
     "Activity": "sproutsocial.com",
     "Category": "Professional Networking",
     "Productivity": 1
   },
   {
-    "Rank": 57,
+    "Rank": 58,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "iWork Numbers",
@@ -456,7 +464,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 58,
+    "Rank": 59,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "berenice.eomail1.com",
@@ -464,23 +472,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 59,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "businessinsider.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
     "Rank": 60,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "New York Times",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 61,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "serato dj lite",
@@ -488,15 +480,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 62,
-    "Time Spent (seconds)": 3,
+    "Rank": 61,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "enterprisersproject.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "New York Times",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
-    "Rank": 63,
+    "Rank": 62,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
@@ -504,7 +496,23 @@
     "Productivity": 0
   },
   {
+    "Rank": 63,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "enterprisersproject.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 64,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "bookmarks",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -512,20 +520,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 65,
+    "Rank": 66,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "beta.trainasone.com",
     "Category": "Health & Medicine",
     "Productivity": 1
-  },
-  {
-    "Rank": 66,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "bookmarks",
-    "Category": "General News & Opinion",
-    "Productivity": -2
   },
   {
     "Rank": 67,
