@@ -155,17 +155,17 @@
     "Rank": 20,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 32,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 22,
