@@ -156,8 +156,28 @@
     "Entertainment": 32,
     "Shopping": 22
   },
-  "15": {},
-  "16": {},
+  "15": {
+    "Design & Composition": 5330,
+    "Entertainment": 1547,
+    "Software Development": 763,
+    "Utilities": 468,
+    "Business": 459,
+    "Uncategorized": 343,
+    "Social Networking": 154,
+    "Communication & Scheduling": 68,
+    "Reference & Learning": 63,
+    "Shopping": 11
+  },
+  "16": {
+    "Design & Composition": 809,
+    "Uncategorized": 424,
+    "Entertainment": 389,
+    "Utilities": 173,
+    "Reference & Learning": 107,
+    "Software Development": 99,
+    "News & Opinion": 97,
+    "Business": 92
+  },
   "17": {},
   "18": {},
   "19": {},

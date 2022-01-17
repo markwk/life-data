@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 44,
@@ -371,17 +371,17 @@
     "Rank": 47,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "profitwell.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "profitwell.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 49,
@@ -427,7 +427,7 @@
     "Rank": 54,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "99signals.com",
+    "Activity": "logiko.hr",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -435,7 +435,7 @@
     "Rank": 55,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "logiko.hr",
+    "Activity": "99signals.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -443,12 +443,20 @@
     "Rank": 56,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
+    "Activity": "blogs.scientificamerican.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 57,
+    "Rank": 58,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "giphy.com",
@@ -456,28 +464,20 @@
     "Productivity": -2
   },
   {
-    "Rank": 58,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "blogs.scientificamerican.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
-  },
-  {
     "Rank": 59,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "shopify.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 60,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "smallbusinessrainmaker.com",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "shopify.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 61,
