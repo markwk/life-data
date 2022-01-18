@@ -267,28 +267,12 @@
     "Rank": 34,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "app.young.ai",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 35,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "young.ai",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 36,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "insidetracker.com",
     "Category": "Health & Medicine",
     "Productivity": 1
   },
   {
-    "Rank": 37,
+    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "dropbox.com",
@@ -296,7 +280,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 38,
+    "Rank": 36,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -304,39 +288,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 39,
-    "Time Spent (seconds)": 1,
+    "Rank": 37,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "splice.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 40,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "t.co",
-    "Category": "General Social Networking",
-    "Productivity": -2
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "deeplongevity.com",
+    "Activity": "app.young.ai",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 42,
-    "Time Spent (seconds)": 1,
+    "Rank": 38,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "nature.com",
-    "Category": "Search",
+    "Activity": "young.ai",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 43,
+    "Rank": 39,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "levelshealth.com",
@@ -344,10 +312,42 @@
     "Productivity": 0
   },
   {
-    "Rank": 44,
+    "Rank": 40,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "doi.org",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "splice.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "t.co",
+    "Category": "General Social Networking",
+    "Productivity": -2
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "deeplongevity.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "nature.com",
     "Category": "Search",
     "Productivity": 0
   }
