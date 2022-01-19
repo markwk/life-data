@@ -165,7 +165,17 @@
     "score_sleep_balance": 94,
     "score_temperature": 99
   },
-  "17": {},
+  "17": {
+    "score": 91,
+    "score_activity_balance": 76,
+    "score_hrv_balance": 73,
+    "score_previous_day": 95,
+    "score_previous_night": 95,
+    "score_recovery_index": 100,
+    "score_resting_hr": 99,
+    "score_sleep_balance": 95,
+    "score_temperature": 100
+  },
   "18": {},
   "19": {},
   "20": {},
