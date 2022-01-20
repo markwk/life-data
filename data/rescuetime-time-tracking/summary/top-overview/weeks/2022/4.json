@@ -24,18 +24,28 @@
     "News & Opinion": 33
   },
   "2022-01-18": {
-    "Design & Composition": 8448,
-    "Business": 2566,
-    "Communication & Scheduling": 2381,
-    "Uncategorized": 773,
-    "Software Development": 707,
-    "Reference & Learning": 599,
-    "Social Networking": 435,
-    "Utilities": 381,
-    "Entertainment": 35,
+    "Design & Composition": 12277,
+    "Business": 4144,
+    "Communication & Scheduling": 3500,
+    "Software Development": 3072,
+    "Reference & Learning": 889,
+    "Uncategorized": 848,
+    "Utilities": 650,
+    "Entertainment": 475,
+    "Social Networking": 458,
     "Shopping": 19
   },
-  "2022-01-19": {},
+  "2022-01-19": {
+    "Design & Composition": 5568,
+    "Business": 2606,
+    "Communication & Scheduling": 2439,
+    "Software Development": 1366,
+    "News & Opinion": 404,
+    "Utilities": 375,
+    "Entertainment": 257,
+    "Reference & Learning": 98,
+    "Uncategorized": 36
+  },
   "2022-01-20": {},
   "2022-01-21": {},
   "2022-01-22": {}
