@@ -155,7 +155,7 @@
     "Rank": 20,
     "Time Spent (seconds)": 172,
     "Number of People": 1,
-    "Activity": "themebubble.com",
+    "Activity": "everlywell.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -163,16 +163,16 @@
     "Rank": 21,
     "Time Spent (seconds)": 172,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "themebubble.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 172,
     "Number of People": 1,
-    "Activity": "everlywell.com",
-    "Category": "Uncategorized",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
@@ -259,12 +259,20 @@
     "Rank": 33,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
     "Activity": "track.toggl.com",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
     "Activity": "spotify",
@@ -272,27 +280,19 @@
     "Productivity": -2
   },
   {
-    "Rank": 35,
-    "Time Spent (seconds)": 79,
-    "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
-  },
-  {
     "Rank": 36,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
+    "Activity": "bookends",
+    "Category": "Search",
     "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "the archive",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "timesnownews.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
-    "Activity": "timesnownews.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 45,
@@ -387,17 +387,17 @@
     "Rank": 49,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "toggl.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "toggl.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 51,
