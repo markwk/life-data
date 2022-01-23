@@ -155,7 +155,7 @@
     "Rank": 20,
     "Time Spent (seconds)": 172,
     "Number of People": 1,
-    "Activity": "everlywell.com",
+    "Activity": "themebubble.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -163,16 +163,16 @@
     "Rank": 21,
     "Time Spent (seconds)": 172,
     "Number of People": 1,
-    "Activity": "themebubble.com",
-    "Category": "Uncategorized",
+    "Activity": "newtab",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 172,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
+    "Activity": "everlywell.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
@@ -259,12 +259,20 @@
     "Rank": 33,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
     "Activity": "calendly.com",
     "Category": "Calendars",
     "Productivity": 1
   },
   {
-    "Rank": 34,
+    "Rank": 35,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
     "Activity": "track.toggl.com",
@@ -272,27 +280,19 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
-    "Time Spent (seconds)": 79,
-    "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
     "Rank": 36,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
+    "Activity": "bookends",
+    "Category": "Search",
     "Productivity": 1
   },
   {
@@ -419,16 +419,16 @@
     "Rank": 53,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "lifeextension.com",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "lifeextension.com",
-    "Category": "General Reference & Learning",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
@@ -459,17 +459,17 @@
     "Rank": 58,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "my.waveapps.com",
-    "Category": "Accounting",
-    "Productivity": 2
+    "Activity": "theverge.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 59,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "theverge.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "my.waveapps.com",
+    "Category": "Accounting",
+    "Productivity": 2
   },
   {
     "Rank": 60,
