@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5981,
+    "Time Spent (seconds)": 6422,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 306,
+    "Time Spent (seconds)": 308,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -41,6 +41,14 @@
   },
   {
     "Rank": 6,
+    "Time Spent (seconds)": 213,
+    "Number of People": 1,
+    "Activity": "splice",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 204,
     "Number of People": 1,
     "Activity": "toggldesktop",
@@ -48,16 +56,8 @@
     "Productivity": 2
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 190,
-    "Number of People": 1,
-    "Activity": "splice",
-    "Category": "Audio Editing",
-    "Productivity": 2
-  },
-  {
     "Rank": 8,
-    "Time Spent (seconds)": 110,
+    "Time Spent (seconds)": 133,
     "Number of People": 1,
     "Activity": "todoist",
     "Category": "Project Management",
@@ -65,7 +65,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 62,
+    "Time Spent (seconds)": 77,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
@@ -201,6 +201,14 @@
   },
   {
     "Rank": 26,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -208,7 +216,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
+    "Rank": 28,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "iWork Numbers",
@@ -216,7 +224,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "coreservicesuiagent",
@@ -224,7 +232,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 29,
+    "Rank": 30,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "usernotificationcenter",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "google chrome",
@@ -232,7 +248,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 32,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "us2.admin.mailchimp.com",
@@ -240,7 +256,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 33,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "support.substack.com",
@@ -248,7 +264,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 32,
+    "Rank": 34,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "makeuseof.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 35,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "robby.keepposted.io",
@@ -256,23 +280,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 33,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 34,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "teaming.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 35,
+    "Rank": 36,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "form-publisher.com",
@@ -280,19 +288,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
+    "Rank": 37,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "archive utility",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "teaming.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
-  },
-  {
-    "Rank": 37,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "makeuseof.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
   }
 ]

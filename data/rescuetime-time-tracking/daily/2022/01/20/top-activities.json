@@ -139,25 +139,25 @@
     "Rank": 18,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 55,
-    "Number of People": 1,
     "Activity": "news.google.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 20,
+    "Rank": 19,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "business.facebook.com",
     "Category": "Marketing",
     "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 55,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 21,
