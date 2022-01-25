@@ -235,23 +235,23 @@
     "Rank": 30,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "teaming.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 31,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
     "Activity": "login.mailchimp.com",
     "Category": "Marketing",
     "Productivity": 2
   },
   {
-    "Rank": 32,
+    "Rank": 31,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "gong.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "teaming.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
