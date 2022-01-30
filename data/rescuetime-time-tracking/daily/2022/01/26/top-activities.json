@@ -475,25 +475,25 @@
     "Rank": 60,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "pubmed.ncbi.nlm.nih.gov",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 61,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "detomaso-lab.mcdb.ucsb.edu",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 62,
+    "Rank": 61,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "Zoom website",
     "Category": "Meetings",
     "Productivity": 1
+  },
+  {
+    "Rank": 62,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "pubmed.ncbi.nlm.nih.gov",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 63,
@@ -507,17 +507,17 @@
     "Rank": 64,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "history",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "New York Times",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "New York Times",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "history",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 66,
@@ -531,7 +531,7 @@
     "Rank": 67,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "stripe.com",
+    "Activity": "users",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -539,7 +539,7 @@
     "Rank": 68,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "users",
+    "Activity": "stripe.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
