@@ -688,8 +688,8 @@
     "Voice Chat": 32,
     "General Shopping": 29,
     "General Communication & Scheduling": 19,
-    "Engineering & Technology": 11,
     "Editing & IDEs": 11,
+    "Engineering & Technology": 11,
     "Customer Relations": 3
   },
   "28": {
@@ -704,7 +704,7 @@
     "General Business": 407,
     "Browsers": 377,
     "Uncategorized": 266,
-    "Intelligence": 189,
+    "Intelligence": 208,
     "General Reference & Learning": 186,
     "Instant Message": 151,
     "Calendars": 117,
