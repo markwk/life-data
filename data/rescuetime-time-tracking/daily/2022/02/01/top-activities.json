@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "advancedcustomfields.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "intercom.intercom-clicks.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "intercom.intercom-clicks.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "advancedcustomfields.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 38,
@@ -371,16 +371,16 @@
     "Rank": 47,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
