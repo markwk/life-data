@@ -291,25 +291,25 @@
     "Rank": 37,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "professional.mit.edu",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "professional.mit.edu",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 40,
@@ -339,16 +339,16 @@
     "Rank": 43,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "memrise.com",
+    "Activity": "app.memrise.com",
     "Category": "General Reference & Learning",
-    "Productivity": 2
+    "Productivity": 1
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "app.memrise.com",
+    "Activity": "memrise.com",
     "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Productivity": 2
   }
 ]

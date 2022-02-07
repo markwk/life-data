@@ -47,8 +47,22 @@
     "News & Opinion": 76,
     "Shopping": 4
   },
-  "5": {},
-  "6": {},
+  "5": {
+    "Design & Composition": 430,
+    "Shopping": 161,
+    "Reference & Learning": 27,
+    "Utilities": 6,
+    "Software Development": 3,
+    "Entertainment": 3
+  },
+  "6": {
+    "Design & Composition": 6028,
+    "Uncategorized": 158,
+    "Business": 122,
+    "Utilities": 83,
+    "Reference & Learning": 60,
+    "Entertainment": 3
+  },
   "7": {},
   "8": {},
   "9": {},

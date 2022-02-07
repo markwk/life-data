@@ -89,8 +89,8 @@
     "Writing": 636,
     "General Reference & Learning": 554,
     "Meetings": 341,
-    "Project Management": 338,
     "Professional Networking": 338,
+    "Project Management": 338,
     "Instant Message": 331,
     "General Business": 209,
     "General Entertainment": 208,
@@ -105,8 +105,24 @@
     "Calendars": 19,
     "General Shopping": 4
   },
-  "5": {},
-  "6": {},
+  "5": {
+    "Audio Editing": 430,
+    "General Shopping": 161,
+    "General Reference & Learning": 27,
+    "Browsers": 6,
+    "General Software Development": 3,
+    "General Entertainment": 3
+  },
+  "6": {
+    "Audio Editing": 6025,
+    "Uncategorized": 158,
+    "Intelligence": 122,
+    "General Utilities": 78,
+    "Search": 60,
+    "Browsers": 5,
+    "General Entertainment": 3,
+    "Writing": 3
+  },
   "7": {},
   "8": {},
   "9": {},
