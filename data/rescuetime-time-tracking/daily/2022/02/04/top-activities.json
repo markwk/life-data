@@ -243,17 +243,17 @@
     "Rank": 31,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 33,
@@ -291,17 +291,17 @@
     "Rank": 37,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
     "Rank": 39,
