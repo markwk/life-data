@@ -21,13 +21,19 @@
     "score": 92
   },
   "2022-02-9": {
-    "steps": 2420,
-    "total": 121,
-    "cal_active": 73,
-    "cal_total": 1410,
-    "score": 89
+    "steps": 7215,
+    "total": 282,
+    "cal_active": 223,
+    "cal_total": 1726,
+    "score": 91
   },
-  "2022-02-10": {},
+  "2022-02-10": {
+    "steps": 1028,
+    "total": 61,
+    "cal_active": 35,
+    "cal_total": 1371,
+    "score": 92
+  },
   "2022-02-11": {},
   "2022-02-12": {}
 }
