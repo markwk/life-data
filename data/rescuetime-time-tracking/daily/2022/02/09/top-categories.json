@@ -61,19 +61,19 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 395,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 12,
     "Time Spent (seconds)": 364,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
+    "Rank": 12,
+    "Time Spent (seconds)": 327,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
     "Rank": 13,
-    "Time Spent (seconds)": 251,
+    "Time Spent (seconds)": 319,
     "Number of People": 1,
     "Category": "General Reference & Learning"
   },
@@ -117,19 +117,19 @@
     "Rank": 20,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "General Shopping"
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Category": "Science & Technology"
+    "Category": "Instant Message"
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Category": "General Shopping"
+    "Category": "Science & Technology"
   },
   {
     "Rank": 23,

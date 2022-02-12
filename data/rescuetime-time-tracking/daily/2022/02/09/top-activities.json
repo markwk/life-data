@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 102,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "cnn.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 102,
     "Number of People": 1,
-    "Activity": "cnn.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 27,
@@ -260,8 +260,8 @@
     "Time Spent (seconds)": 68,
     "Number of People": 1,
     "Activity": "libgen.is",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 34,
@@ -291,16 +291,16 @@
     "Rank": 37,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Activity": "9to5google.com",
-    "Category": "Science & Technology",
+    "Activity": "messages",
+    "Category": "Instant Message",
     "Productivity": -1
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
+    "Activity": "9to5google.com",
+    "Category": "Science & Technology",
     "Productivity": -1
   },
   {
@@ -371,17 +371,17 @@
     "Rank": 47,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "sciencedirect.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "sciencedirect.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 49,
@@ -411,17 +411,17 @@
     "Rank": 52,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "library.lol",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "library.lol",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 54,
@@ -435,25 +435,25 @@
     "Rank": 55,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 56,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
+    "Activity": "bookends",
+    "Category": "Search",
     "Productivity": 1
   },
   {
     "Rank": 57,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
-    "Productivity": 1
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 58,
