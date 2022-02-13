@@ -195,25 +195,25 @@
     "Rank": 25,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
-    "Activity": "indianamichiganpower.com",
-    "Category": "Uncategorized",
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "istockphoto.com",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 27,
     "Time Spent (seconds)": 74,
     "Number of People": 1,
-    "Activity": "istockphoto.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "indianamichiganpower.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 28,
@@ -355,28 +355,20 @@
     "Rank": 45,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 46,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
     "Activity": "ysgsolar.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 47,
-    "Time Spent (seconds)": 2,
+    "Rank": 46,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "beatacademy.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
   },
   {
-    "Rank": 48,
+    "Rank": 47,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -384,7 +376,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "toggl.com",
@@ -392,12 +384,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 50,
+    "Rank": 49,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "sputniknews.com",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "beatacademy.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 51,
