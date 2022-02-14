@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5666,
+    "Time Spent (seconds)": 5841,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 295,
-    "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 222,
+    "Time Spent (seconds)": 919,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 302,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 4,
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 161,
+    "Time Spent (seconds)": 164,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 91,
+    "Time Spent (seconds)": 92,
     "Number of People": 1,
     "Activity": "splice.com",
     "Category": "Audio Editing",

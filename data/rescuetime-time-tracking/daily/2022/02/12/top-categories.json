@@ -1,27 +1,27 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5806,
+    "Time Spent (seconds)": 5982,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 295,
+    "Time Spent (seconds)": 919,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 302,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 224,
     "Number of People": 1,
     "Category": "Writing"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 222,
-    "Number of People": 1,
-    "Category": "General Entertainment"
   },
   {
     "Rank": 5,
@@ -31,7 +31,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 167,
+    "Time Spent (seconds)": 170,
     "Number of People": 1,
     "Category": "General Utilities"
   },
