@@ -195,32 +195,32 @@
     "Rank": 25,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 26,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 1,
+    "Rank": 26,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
-    "Rank": 28,
+    "Rank": 27,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "archive utility",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]
