@@ -475,17 +475,17 @@
     "Rank": 60,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "Mail",
+    "Category": "Email",
+    "Productivity": 0
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Mail",
-    "Category": "Email",
-    "Productivity": 0
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
     "Rank": 62,

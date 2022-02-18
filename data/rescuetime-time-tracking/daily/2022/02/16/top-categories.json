@@ -1,63 +1,63 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 9628,
+    "Time Spent (seconds)": 11521,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3615,
+    "Time Spent (seconds)": 3736,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 2967,
+    "Time Spent (seconds)": 3553,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2784,
+    "Time Spent (seconds)": 3290,
     "Number of People": 1,
     "Category": "Email"
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1581,
+    "Time Spent (seconds)": 2000,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1519,
+    "Time Spent (seconds)": 1792,
     "Number of People": 1,
     "Category": "Presentation"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 1104,
+    "Time Spent (seconds)": 1320,
     "Number of People": 1,
     "Category": "Data Modeling & Analysis"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 824,
+    "Time Spent (seconds)": 958,
     "Number of People": 1,
     "Category": "General Design & Composition"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 702,
+    "Time Spent (seconds)": 940,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Intelligence"
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 649,
+    "Time Spent (seconds)": 615,
     "Number of People": 1,
-    "Category": "Intelligence"
+    "Category": "Uncategorized"
   },
   {
     "Rank": 11,
@@ -67,66 +67,96 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 319,
+    "Time Spent (seconds)": 348,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 338,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 171,
-    "Number of People": 1,
-    "Category": "Search"
-  },
-  {
     "Rank": 14,
-    "Time Spent (seconds)": 170,
+    "Time Spent (seconds)": 313,
     "Number of People": 1,
     "Category": "Project Management"
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 155,
+    "Time Spent (seconds)": 279,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 250,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 234,
     "Number of People": 1,
     "Category": "General News & Opinion"
   },
   {
-    "Rank": 16,
-    "Time Spent (seconds)": 139,
+    "Rank": 18,
+    "Time Spent (seconds)": 179,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Travel & Outdoors"
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 135,
+    "Rank": 19,
+    "Time Spent (seconds)": 161,
     "Number of People": 1,
     "Category": "Calendars"
   },
   {
-    "Rank": 18,
+    "Rank": 20,
+    "Time Spent (seconds)": 136,
+    "Number of People": 1,
+    "Category": "Health & Medicine"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 131,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 19,
+    "Rank": 23,
     "Time Spent (seconds)": 83,
     "Number of People": 1,
-    "Category": "Engineering & Technology"
+    "Category": "Internet Utilities"
   },
   {
-    "Rank": 20,
+    "Rank": 24,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
-    "Rank": 21,
+    "Rank": 26,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Category": "Voice Chat"
   },
   {
-    "Rank": 22,
+    "Rank": 27,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Category": "General Social Networking"
