@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6725,
+    "Time Spent (seconds)": 6733,
     "Number of People": 1,
     "Activity": "myagingtests.com",
     "Category": "General Software Development",
@@ -9,55 +9,55 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1871,
-    "Number of People": 1,
-    "Activity": "figma.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 1855,
+    "Time Spent (seconds)": 2175,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
     "Productivity": 1
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 1379,
+    "Rank": 3,
+    "Time Spent (seconds)": 1954,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 1883,
+    "Number of People": 1,
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
     "Rank": 5,
-    "Time Spent (seconds)": 1370,
+    "Time Spent (seconds)": 1617,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1374,
     "Number of People": 1,
     "Activity": "Google Documents",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 641,
-    "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
     "Rank": 7,
-    "Time Spent (seconds)": 574,
+    "Time Spent (seconds)": 825,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
+    "Activity": "Google Forms",
     "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 525,
+    "Time Spent (seconds)": 750,
     "Number of People": 1,
     "Activity": "Google Spreadsheets",
     "Category": "General Business",
@@ -65,22 +65,78 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 514,
+    "Time Spent (seconds)": 742,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 697,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 574,
+    "Number of People": 1,
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 518,
     "Number of People": 1,
     "Activity": "biorxiv.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 439,
+    "Rank": 13,
+    "Time Spent (seconds)": 448,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 441,
     "Number of People": 1,
     "Activity": "meet.google.com",
     "Category": "Meetings",
     "Productivity": 1
   },
   {
-    "Rank": 11,
+    "Rank": 15,
+    "Time Spent (seconds)": 369,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 338,
+    "Number of People": 1,
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 322,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 310,
     "Number of People": 1,
     "Activity": "dashboard.stripe.com",
@@ -88,7 +144,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 12,
+    "Rank": 19,
     "Time Spent (seconds)": 274,
     "Number of People": 1,
     "Activity": "devtools",
@@ -96,23 +152,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 262,
+    "Rank": 20,
+    "Time Spent (seconds)": 243,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "melodics.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 241,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
     "Productivity": 2
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 242,
-    "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
-    "Rank": 15,
+    "Rank": 22,
     "Time Spent (seconds)": 239,
     "Number of People": 1,
     "Activity": "upwork.com",
@@ -120,7 +176,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 23,
     "Time Spent (seconds)": 220,
     "Number of People": 1,
     "Activity": "pages",
@@ -128,31 +184,39 @@
     "Productivity": 2
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 218,
-    "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
-    "Productivity": 2
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 196,
-    "Number of People": 1,
-    "Activity": "Google Forms",
-    "Category": "General Business",
-    "Productivity": 2
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 164,
+    "Rank": 24,
+    "Time Spent (seconds)": 185,
     "Number of People": 1,
     "Activity": "drive.google.com",
     "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 20,
+    "Rank": 25,
+    "Time Spent (seconds)": 175,
+    "Number of People": 1,
+    "Activity": "localhost:8888",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 172,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 159,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 28,
     "Time Spent (seconds)": 149,
     "Number of People": 1,
     "Activity": "istockphoto.com",
@@ -160,31 +224,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 127,
-    "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 22,
-    "Time Spent (seconds)": 125,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 23,
-    "Time Spent (seconds)": 119,
+    "Rank": 29,
+    "Time Spent (seconds)": 121,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 30,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Activity": "app.jasper.ai",
@@ -192,15 +240,31 @@
     "Productivity": 2
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 102,
+    "Rank": 31,
+    "Time Spent (seconds)": 110,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 32,
+    "Time Spent (seconds)": 106,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Activity": "track.toggl.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 98,
     "Number of People": 1,
     "Activity": "cloudconvert.com",
@@ -208,7 +272,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
+    "Rank": 35,
+    "Time Spent (seconds)": 98,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 93,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 37,
     "Time Spent (seconds)": 87,
     "Number of People": 1,
     "Activity": "paypal.com",
@@ -216,15 +296,31 @@
     "Productivity": 2
   },
   {
-    "Rank": 28,
-    "Time Spent (seconds)": 83,
+    "Rank": 38,
+    "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "track.toggl.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
-    "Rank": 29,
+    "Rank": 39,
+    "Time Spent (seconds)": 60,
+    "Number of People": 1,
+    "Activity": "beginnerguitarhq.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 57,
+    "Number of People": 1,
+    "Activity": "bookends",
+    "Category": "Search",
+    "Productivity": 1
+  },
+  {
+    "Rank": 41,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Activity": "checkout.stripe.com",
@@ -232,31 +328,39 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 47,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 31,
-    "Time Spent (seconds)": 38,
-    "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
-  },
-  {
-    "Rank": 32,
-    "Time Spent (seconds)": 33,
+    "Rank": 42,
+    "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Activity": "Preview",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 43,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "cnn.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 46,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "forum.figma.com",
@@ -264,7 +368,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 47,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 49,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "svgvector.com",
@@ -272,7 +392,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 50,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "business.paypal.com",
@@ -280,47 +400,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 36,
+    "Rank": 51,
     "Time Spent (seconds)": 24,
-    "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
-  },
-  {
-    "Rank": 37,
-    "Time Spent (seconds)": 22,
-    "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 38,
-    "Time Spent (seconds)": 21,
-    "Number of People": 1,
-    "Activity": "toggl.com",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 39,
-    "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "Google Presentations",
     "Category": "Presentation",
     "Productivity": 2
   },
   {
-    "Rank": 40,
-    "Time Spent (seconds)": 20,
+    "Rank": 52,
+    "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "toggl.com",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
-    "Rank": 41,
+    "Rank": 53,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
     "Activity": "wordpress.org",
@@ -328,7 +424,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 42,
+    "Rank": 54,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "freemidi.org",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "mididb.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 56,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "apps.apple.com",
@@ -336,7 +448,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 57,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
@@ -344,23 +456,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 7,
+    "Rank": 58,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "live",
+    "Activity": "splice.com",
     "Category": "Audio Editing",
     "Productivity": 2
   },
   {
-    "Rank": 45,
-    "Time Spent (seconds)": 7,
+    "Rank": 59,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "the archive",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "quicktime player",
+    "Category": "General Entertainment",
+    "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 60,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "chordchord.com",
@@ -368,23 +480,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 47,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "splice.com",
-    "Category": "Audio Editing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 48,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "app store",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 49,
+    "Rank": 61,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "stripe.com",
@@ -392,7 +488,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 50,
+    "Rank": 62,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "app store",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 63,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "hioscar.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 64,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "elementor.com",
@@ -400,7 +512,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 51,
+    "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -408,7 +520,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 52,
+    "Rank": 66,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "autoupdate",
