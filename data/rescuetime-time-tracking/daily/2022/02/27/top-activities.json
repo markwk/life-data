@@ -1,15 +1,15 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 50,
+    "Time Spent (seconds)": 136,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "VLC Media Player",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 48,
+    "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "Finder",
@@ -24,7 +32,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -32,7 +40,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 5,
+    "Rank": 6,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "google chrome",
@@ -40,7 +48,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "todoist",

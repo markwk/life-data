@@ -277,10 +277,22 @@
     "Reference & Learning": 7
   },
   "27": {
+    "Entertainment": 198,
     "Communication & Scheduling": 50,
-    "Entertainment": 48,
     "Utilities": 28,
     "Reference & Learning": 5,
     "Business": 3
+  },
+  "28": {
+    "Design & Composition": 7958,
+    "Communication & Scheduling": 4137,
+    "Business": 2665,
+    "Software Development": 1547,
+    "Utilities": 796,
+    "Reference & Learning": 604,
+    "News & Opinion": 349,
+    "Entertainment": 162,
+    "Social Networking": 87,
+    "Uncategorized": 62
   }
 }
