@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7394,
+    "Time Spent (seconds)": 7529,
     "Number of People": 1,
     "Activity": "figma.com",
     "Category": "General Design & Composition",
@@ -17,15 +17,15 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 1877,
+    "Time Spent (seconds)": 2275,
     "Number of People": 1,
-    "Activity": "marmonutility.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1639,
+    "Time Spent (seconds)": 1880,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
@@ -33,15 +33,15 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 881,
+    "Time Spent (seconds)": 1877,
     "Number of People": 1,
-    "Activity": "myagingtests.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "marmonutility.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 637,
+    "Time Spent (seconds)": 644,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
@@ -57,6 +57,14 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 594,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 524,
     "Number of People": 1,
     "Activity": "Zoom",
@@ -64,16 +72,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 492,
-    "Number of People": 1,
-    "Activity": "upwork.com",
-    "Category": "Project Management",
-    "Productivity": 2
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 300,
+    "Time Spent (seconds)": 350,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -81,7 +81,7 @@
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 205,
+    "Time Spent (seconds)": 248,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
@@ -97,7 +97,7 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 163,
+    "Time Spent (seconds)": 193,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -105,6 +105,14 @@
   },
   {
     "Rank": 14,
+    "Time Spent (seconds)": 180,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 151,
     "Number of People": 1,
     "Activity": "news.google.com",
@@ -112,7 +120,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 125,
     "Number of People": 1,
     "Activity": "messages",
@@ -120,7 +128,15 @@
     "Productivity": -1
   },
   {
-    "Rank": 16,
+    "Rank": 17,
+    "Time Spent (seconds)": 122,
+    "Number of People": 1,
+    "Activity": "giphy.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
     "Time Spent (seconds)": 117,
     "Number of People": 1,
     "Activity": "Google Spreadsheets",
@@ -128,7 +144,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 17,
+    "Rank": 19,
+    "Time Spent (seconds)": 114,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 109,
     "Number of People": 1,
     "Activity": "linkedin.com",
@@ -136,7 +160,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 21,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
     "Activity": "sublime text",
@@ -144,7 +168,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 19,
+    "Rank": 22,
     "Time Spent (seconds)": 102,
     "Number of People": 1,
     "Activity": "Preview",
@@ -152,7 +176,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 20,
+    "Rank": 23,
     "Time Spent (seconds)": 88,
     "Number of People": 1,
     "Activity": "eventbrite.com",
@@ -160,7 +184,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 24,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
     "Activity": "Google Forms",
@@ -168,15 +192,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
-    "Time Spent (seconds)": 59,
-    "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
-  },
-  {
-    "Rank": 23,
+    "Rank": 25,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "cloudconvert.com",
@@ -184,7 +200,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
     "Activity": "Google Documents",
@@ -192,15 +208,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 46,
+    "Rank": 27,
+    "Time Spent (seconds)": 49,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
+    "Activity": "Google Analytics",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 28,
     "Time Spent (seconds)": 46,
     "Number of People": 1,
     "Activity": "si.com",
@@ -208,7 +224,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 27,
+    "Rank": 29,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Activity": "intercom.com",
@@ -216,7 +232,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 28,
+    "Rank": 30,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
     "Activity": "spotify",
@@ -224,7 +240,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 29,
+    "Rank": 31,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
     "Activity": "design.tutsplus.com",
@@ -232,15 +256,31 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
+    "Rank": 33,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
+    "Activity": "eric.blog",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 31,
+    "Rank": 34,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "media0.giphy.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "devtools",
@@ -248,15 +288,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 32,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 33,
+    "Rank": 37,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "mbigbapnjcgaffohmbkdlecaccepngjd",
@@ -264,7 +296,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 38,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -272,15 +304,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 35,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "music",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
-    "Rank": 36,
+    "Rank": 39,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -288,7 +312,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 37,
+    "Rank": 40,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "music",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 41,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "upwork-usw2-prod-file-storage-wp1.s3.us-west-2.amazonaws.com",
@@ -296,7 +328,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 42,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "i.giphy.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "carawrrr.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "SecurityAgent",
