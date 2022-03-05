@@ -179,17 +179,17 @@
     "Rank": 23,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
-    "Activity": "dropbox.com",
-    "Category": "File Sharing",
-    "Productivity": 1
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 69,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "dropbox.com",
+    "Category": "File Sharing",
+    "Productivity": 1
   },
   {
     "Rank": 25,
@@ -307,12 +307,20 @@
     "Rank": 39,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
     "Activity": "giphy.com",
     "Category": "General Entertainment",
     "Productivity": -2
   },
   {
-    "Rank": 40,
+    "Rank": 41,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "login.mailchimp.com",
@@ -320,7 +328,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 41,
+    "Rank": 42,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -328,15 +336,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 42,
-    "Time Spent (seconds)": 3,
+    "Rank": 43,
+    "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "i.giphy.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
-    "Rank": 43,
+    "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -344,19 +352,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 44,
+    "Rank": 45,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "mailchimp.com",
     "Category": "Marketing",
     "Productivity": 2
-  },
-  {
-    "Rank": 45,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "i.giphy.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
   }
 ]

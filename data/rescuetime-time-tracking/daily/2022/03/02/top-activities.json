@@ -227,17 +227,17 @@
     "Rank": 29,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
-    "Activity": "intercom.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "intercom.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 31,
@@ -307,25 +307,25 @@
     "Rank": 39,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "upwork-usw2-prod-file-storage-wp1.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "music",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp1.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "music",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 42,
