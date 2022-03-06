@@ -28,12 +28,24 @@
     "score": 96
   },
   "2022-03-3": {
-    "steps": 2137,
-    "total": 106,
-    "cal_active": 94,
-    "cal_total": 1970,
-    "score": 95
+    "steps": 9008,
+    "total": 418,
+    "cal_active": 438,
+    "cal_total": 2637,
+    "score": 94
   },
-  "2022-03-4": {},
-  "2022-03-5": {}
+  "2022-03-4": {
+    "steps": 10081,
+    "total": 404,
+    "cal_active": 448,
+    "cal_total": 2584,
+    "score": 97
+  },
+  "2022-03-5": {
+    "steps": 59,
+    "total": 3,
+    "cal_active": 2,
+    "cal_total": 1768,
+    "score": 92
+  }
 }
