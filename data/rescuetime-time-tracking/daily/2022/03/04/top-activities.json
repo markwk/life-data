@@ -115,17 +115,17 @@
     "Rank": 15,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "business.facebook.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "sciencealert.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 16,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "sciencealert.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "business.facebook.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 17,
@@ -203,25 +203,25 @@
     "Rank": 26,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "subscription-management.paddle.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 27,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
     "Activity": "nypost.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 28,
+    "Rank": 27,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "subscription-management.paddle.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 29,
@@ -275,25 +275,25 @@
     "Rank": 35,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "Google Presentations",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "thelancet.com",
+    "Category": "Health & Medicine",
+    "Productivity": 1
   },
   {
     "Rank": 36,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "thelancet.com",
-    "Category": "Health & Medicine",
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "Google Presentations",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 38,
@@ -355,16 +355,16 @@
     "Rank": 45,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
+    "Activity": "indiebio.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 46,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "indiebio.co",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
   }
 ]
