@@ -195,25 +195,25 @@
     "Rank": 25,
     "Time Spent (seconds)": 129,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 129,
     "Number of People": 1,
-    "Activity": "the-sun.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 27,
     "Time Spent (seconds)": 129,
     "Number of People": 1,
-    "Activity": "the archive",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "the-sun.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 28,
@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 48,
