@@ -315,33 +315,33 @@
     "Rank": 40,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "crufts.org.uk",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
     "Activity": "iterm2",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 42,
-    "Time Spent (seconds)": 4,
+    "Rank": 41,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "crufts.org.uk",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 43,
+    "Rank": 42,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "stripe.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 44,
