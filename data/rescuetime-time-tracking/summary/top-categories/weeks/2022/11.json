@@ -124,19 +124,20 @@
   },
   "2022-03-11": {
     "Presentation": 4157,
-    "Writing": 3259,
+    "Writing": 3530,
     "Email": 2329,
+    "Audio Editing": 1906,
     "General Software Development": 1123,
     "Instant Message": 825,
+    "Intelligence": 609,
     "General Business": 394,
-    "Project Management": 336,
-    "Uncategorized": 317,
-    "Intelligence": 289,
+    "Project Management": 385,
+    "Uncategorized": 329,
+    "General Utilities": 317,
     "Meetings": 219,
+    "General Entertainment": 120,
     "Data Modeling & Analysis": 89,
     "Browsers": 87,
-    "General Utilities": 74,
-    "General Entertainment": 72,
     "Search": 60,
     "Marketing": 59,
     "General Design & Composition": 38,
@@ -148,5 +149,17 @@
     "Calendars": 4,
     "Systems Operations": 1
   },
-  "2022-03-12": {}
+  "2022-03-12": {
+    "Email": 1818,
+    "Data Modeling & Analysis": 238,
+    "General Software Development": 200,
+    "Presentation": 177,
+    "Uncategorized": 165,
+    "Marketing": 84,
+    "Browsers": 74,
+    "Intelligence": 19,
+    "General Utilities": 16,
+    "Project Management": 6,
+    "General Business": 1
+  }
 }

@@ -227,17 +227,17 @@
     "Rank": 29,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 31,
@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "bartender 4",
+    "Activity": "archive utility",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -291,7 +291,7 @@
     "Rank": 37,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "archive utility",
+    "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   }
