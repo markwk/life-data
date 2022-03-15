@@ -125,14 +125,26 @@
     "Utilities": 90
   },
   "13": {
-    "Business": 111,
-    "Uncategorized": 57,
-    "Communication & Scheduling": 35,
-    "Entertainment": 10,
-    "Design & Composition": 1,
-    "Utilities": 1
+    "Design & Composition": 948,
+    "Business": 833,
+    "Software Development": 815,
+    "Utilities": 405,
+    "Communication & Scheduling": 218,
+    "Entertainment": 152,
+    "Uncategorized": 61,
+    "Reference & Learning": 19
   },
-  "14": {},
+  "14": {
+    "Design & Composition": 13977,
+    "Communication & Scheduling": 2687,
+    "Software Development": 1069,
+    "Business": 978,
+    "Uncategorized": 815,
+    "Reference & Learning": 698,
+    "Utilities": 425,
+    "Entertainment": 73,
+    "News & Opinion": 30
+  },
   "15": {},
   "16": {},
   "17": {},
