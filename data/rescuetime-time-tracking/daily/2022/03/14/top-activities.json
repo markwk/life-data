@@ -307,16 +307,16 @@
     "Rank": 39,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
+    "Activity": "cloudconvert.com",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
-    "Activity": "cloudconvert.com",
-    "Category": "Internet Utilities",
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -403,28 +403,20 @@
     "Rank": 51,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "tewire.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 52,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
     "Activity": "wired.com",
     "Category": "Science & Technology",
     "Productivity": -1
   },
   {
-    "Rank": 53,
-    "Time Spent (seconds)": 6,
+    "Rank": 52,
+    "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "portals",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "tewire.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "mychonhealth.com",
@@ -432,15 +424,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 55,
-    "Time Spent (seconds)": 5,
+    "Rank": 54,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "inc.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "portals",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
-    "Rank": 56,
+    "Rank": 55,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "users",
@@ -448,12 +440,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 57,
+    "Rank": 56,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "cnbc.com",
     "Category": "Business",
     "Productivity": -1
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "inc.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 58,

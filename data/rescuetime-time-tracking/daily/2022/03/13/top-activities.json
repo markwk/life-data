@@ -243,12 +243,20 @@
     "Rank": 31,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
+    "Activity": "users",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
     "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "ally.com",
@@ -256,18 +264,10 @@
     "Productivity": 2
   },
   {
-    "Rank": 33,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "bookloverscon.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
     "Rank": 34,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "users",
+    "Activity": "bookloverscon.com",
     "Category": "General Software Development",
     "Productivity": 2
   }
