@@ -21,8 +21,28 @@
     "score_sleep_balance": 78,
     "score_temperature": 99
   },
-  "2022-03-15": {},
-  "2022-03-16": {},
+  "2022-03-15": {
+    "score": 81,
+    "score_activity_balance": 76,
+    "score_hrv_balance": 81,
+    "score_previous_day": 91,
+    "score_previous_night": 80,
+    "score_recovery_index": 75,
+    "score_resting_hr": 82,
+    "score_sleep_balance": 80,
+    "score_temperature": 95
+  },
+  "2022-03-16": {
+    "score": 72,
+    "score_activity_balance": 74,
+    "score_hrv_balance": 77,
+    "score_previous_day": 61,
+    "score_previous_night": 80,
+    "score_recovery_index": 51,
+    "score_resting_hr": 66,
+    "score_sleep_balance": 79,
+    "score_temperature": 100
+  },
   "2022-03-17": {},
   "2022-03-18": {},
   "2022-03-19": {}

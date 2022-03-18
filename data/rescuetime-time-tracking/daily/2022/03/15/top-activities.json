@@ -371,36 +371,20 @@
     "Rank": 47,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "usatoday.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 48,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "hs-4763806.s.hubspotemail.net",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 49,
-    "Time Spent (seconds)": 2,
+    "Rank": 48,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "New York Times",
+    "Activity": "usatoday.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 50,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "dribbble.com",
-    "Category": "Graphic Design",
-    "Productivity": 2
-  },
-  {
-    "Rank": 51,
+    "Rank": 49,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "facetime",
@@ -408,11 +392,27 @@
     "Productivity": 1
   },
   {
-    "Rank": 52,
+    "Rank": 50,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "aquaappearancehelper",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "New York Times",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "dribbble.com",
+    "Category": "Graphic Design",
+    "Productivity": 2
   }
 ]
