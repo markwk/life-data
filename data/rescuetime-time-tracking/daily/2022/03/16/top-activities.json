@@ -187,16 +187,16 @@
     "Rank": 24,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "app.gocatalant.com",
-    "Category": "Sales",
+    "Activity": "help.figma.com",
+    "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "help.figma.com",
-    "Category": "General Design & Composition",
+    "Activity": "app.gocatalant.com",
+    "Category": "Sales",
     "Productivity": 2
   },
   {
@@ -227,16 +227,16 @@
     "Rank": 29,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "airtable.com",
-    "Category": "Intelligence",
+    "Activity": "iterm2",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
+    "Activity": "airtable.com",
+    "Category": "Intelligence",
     "Productivity": 2
   }
 ]
