@@ -1,92 +1,158 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 526,
+    "Time Spent (seconds)": 2318,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1318,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1278,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 476,
+    "Rank": 4,
+    "Time Spent (seconds)": 1159,
     "Number of People": 1,
-    "Category": "Presentation"
+    "Category": "Uncategorized"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 204,
+    "Rank": 5,
+    "Time Spent (seconds)": 1096,
+    "Number of People": 1,
+    "Category": "Professional Networking"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 855,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 167,
-    "Number of People": 1,
-    "Category": "General Utilities"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 91,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 84,
-    "Number of People": 1,
-    "Category": "Intelligence"
-  },
-  {
     "Rank": 7,
-    "Time Spent (seconds)": 66,
+    "Time Spent (seconds)": 678,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 60,
+    "Time Spent (seconds)": 604,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 483,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 476,
+    "Number of People": 1,
+    "Category": "Presentation"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 330,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 284,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 157,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 144,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 137,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Category": "Internet Utilities"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 110,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 110,
+    "Number of People": 1,
+    "Category": "Data Modeling & Analysis"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 103,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 42,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 10,
+    "Rank": 20,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Category": "Voice Chat"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 12,
+    "Rank": 21,
+    "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Category": "Writing"
+    "Category": "Engineering & Technology"
   },
   {
-    "Rank": 12,
+    "Rank": 22,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Category": "Legal & Gov't"
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Category": "Maps & Regional"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Category": "General Shopping"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 4,
+    "Rank": 26,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "General Software Development"
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Category": "General Reference & Learning"
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Category": "Search"
+    "Category": "Editing & IDEs"
   }
 ]
