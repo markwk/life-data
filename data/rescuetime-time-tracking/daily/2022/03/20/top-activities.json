@@ -467,25 +467,25 @@
     "Rank": 59,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "bookends",
-    "Category": "Search",
-    "Productivity": 1
-  },
-  {
-    "Rank": 60,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
     "Activity": "messages",
     "Category": "Instant Message",
     "Productivity": -1
   },
   {
-    "Rank": 61,
+    "Rank": 60,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "cawaterquality.net",
     "Category": "Uncategorized",
     "Productivity": 0
+  },
+  {
+    "Rank": 61,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "bookends",
+    "Category": "Search",
+    "Productivity": 1
   },
   {
     "Rank": 62,
@@ -515,12 +515,28 @@
     "Rank": 65,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
+    "Activity": "sci-hub.se",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 66,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
+  },
+  {
+    "Rank": 67,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
     "Productivity": 2
   },
   {
-    "Rank": 66,
+    "Rank": 68,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "seagrassli.org",
@@ -528,28 +544,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 67,
+    "Rank": 69,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "frontiersin.org",
     "Category": "General Reference & Learning",
     "Productivity": 1
-  },
-  {
-    "Rank": 68,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "sci-hub.se",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 69,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
   },
   {
     "Rank": 70,
