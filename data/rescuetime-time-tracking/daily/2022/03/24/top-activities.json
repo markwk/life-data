@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6170,
+    "Time Spent (seconds)": 6202,
     "Number of People": 1,
     "Activity": "figma.com",
     "Category": "General Design & Composition",
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 646,
+    "Time Spent (seconds)": 651,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -57,7 +57,7 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 467,
+    "Time Spent (seconds)": 471,
     "Number of People": 1,
     "Activity": "supplier.viator.com",
     "Category": "Sales",
@@ -65,7 +65,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 456,
+    "Time Spent (seconds)": 459,
     "Number of People": 1,
     "Activity": "messages",
     "Category": "Instant Message",
@@ -105,6 +105,14 @@
   },
   {
     "Rank": 14,
+    "Time Spent (seconds)": 300,
+    "Number of People": 1,
+    "Activity": "mint.intuit.com",
+    "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 292,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -112,7 +120,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 15,
+    "Rank": 16,
     "Time Spent (seconds)": 288,
     "Number of People": 1,
     "Activity": "Google Calendar",
@@ -120,7 +128,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 282,
     "Number of People": 1,
     "Activity": "typora",
@@ -128,7 +136,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 17,
+    "Rank": 18,
+    "Time Spent (seconds)": 220,
+    "Number of People": 1,
+    "Activity": "fundrise.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 215,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 210,
     "Number of People": 1,
     "Activity": "gis.data.ca.gov",
@@ -136,7 +160,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 18,
+    "Rank": 21,
+    "Time Spent (seconds)": 207,
+    "Number of People": 1,
+    "Activity": "qgis",
+    "Category": "Maps & Regional",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 202,
     "Number of People": 1,
     "Activity": "cadoc.maps.arcgis.com",
@@ -144,15 +176,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
-    "Time Spent (seconds)": 198,
-    "Number of People": 1,
-    "Activity": "qgis",
-    "Category": "Maps & Regional",
-    "Productivity": 1
-  },
-  {
-    "Rank": 20,
+    "Rank": 23,
     "Time Spent (seconds)": 185,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -160,15 +184,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 184,
-    "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
-  },
-  {
-    "Rank": 22,
+    "Rank": 24,
     "Time Spent (seconds)": 156,
     "Number of People": 1,
     "Activity": "behindthename.com",
@@ -176,15 +192,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 23,
-    "Time Spent (seconds)": 139,
+    "Rank": 25,
+    "Time Spent (seconds)": 142,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
     "Productivity": 0
   },
   {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 129,
     "Number of People": 1,
     "Activity": "wildlife.ca.gov",
@@ -192,7 +208,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 25,
+    "Rank": 27,
     "Time Spent (seconds)": 113,
     "Number of People": 1,
     "Activity": "calibre",
@@ -200,7 +216,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 26,
+    "Rank": 28,
     "Time Spent (seconds)": 113,
     "Number of People": 1,
     "Activity": "maps.conservation.ca.gov",
@@ -208,15 +224,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 112,
-    "Number of People": 1,
-    "Activity": "docs.qgis.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Activity": "cdc.gov",
@@ -224,7 +232,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 30,
+    "Time Spent (seconds)": 112,
+    "Number of People": 1,
+    "Activity": "docs.qgis.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
     "Time Spent (seconds)": 103,
     "Number of People": 1,
     "Activity": "Google Documents",
@@ -232,7 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
+    "Rank": 32,
     "Time Spent (seconds)": 92,
     "Number of People": 1,
     "Activity": "latimes.com",
@@ -240,7 +256,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 31,
+    "Rank": 33,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
     "Activity": "libgen.is",
@@ -248,7 +264,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 32,
+    "Rank": 34,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
     "Time Spent (seconds)": 75,
     "Number of People": 1,
     "Activity": "nrm.dfg.ca.gov",
@@ -256,7 +280,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 33,
+    "Rank": 36,
+    "Time Spent (seconds)": 70,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 37,
     "Time Spent (seconds)": 62,
     "Number of People": 1,
     "Activity": "qgis.org",
@@ -264,7 +296,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 34,
+    "Rank": 38,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "sccwrp.shinyapps.io",
@@ -272,15 +304,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
-    "Time Spent (seconds)": 61,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 36,
+    "Rank": 39,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "bookends",
@@ -288,7 +312,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 37,
+    "Rank": 40,
     "Time Spent (seconds)": 56,
     "Number of People": 1,
     "Activity": "cslc.maps.arcgis.com",
@@ -296,7 +320,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 41,
     "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "map.dfg.ca.gov",
@@ -304,7 +328,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 39,
+    "Rank": 42,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Activity": "libgen.rocks",
@@ -312,7 +336,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 43,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Activity": "fhab.sfei.org",
@@ -320,7 +344,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 41,
+    "Rank": 44,
     "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "download.qgis.org",
@@ -328,7 +352,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 42,
+    "Rank": 45,
     "Time Spent (seconds)": 44,
     "Number of People": 1,
     "Activity": "libguides.csun.edu",
@@ -336,7 +360,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 46,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "data.ca.gov",
@@ -344,7 +368,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 44,
+    "Rank": 47,
+    "Time Spent (seconds)": 38,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 48,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "cdphdata.maps.arcgis.com",
@@ -352,7 +384,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 49,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
     "Activity": "portal.safecleanwaterla.org",
@@ -360,7 +392,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 50,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "stethoscope.js.org",
@@ -368,7 +400,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 47,
+    "Rank": 51,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Activity": "upwork.com",
@@ -376,7 +408,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 48,
+    "Rank": 52,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -384,7 +416,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 49,
+    "Rank": 53,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "web15.secureinternetbank.com",
+    "Category": "Business & Finance",
+    "Productivity": 1
+  },
+  {
+    "Rank": 54,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
     "Activity": "benjaminmetcalfe.maps.arcgis.com",
@@ -392,7 +432,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 50,
+    "Rank": 55,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "diskimages ui agent",
@@ -400,7 +440,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 51,
+    "Rank": 56,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "startupgrind.com",
@@ -408,15 +448,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 52,
-    "Time Spent (seconds)": 29,
-    "Number of People": 1,
-    "Activity": "waterboards.ca.gov",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 53,
+    "Rank": 57,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "egis-lacounty.hub.arcgis.com",
@@ -424,7 +456,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 54,
+    "Rank": 58,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "waterboards.ca.gov",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 59,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "portal.westcoastoceans.org",
@@ -432,7 +472,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 55,
+    "Rank": 60,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "users",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 61,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "water.openoakland.org",
@@ -440,7 +488,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 56,
+    "Rank": 62,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "safecleanwaterla.org",
@@ -448,7 +496,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 57,
+    "Rank": 63,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "libguides.humboldt.edu",
@@ -456,7 +504,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 58,
+    "Rank": 64,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
     "Activity": "ccamp.net",
@@ -464,7 +512,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 59,
+    "Rank": 65,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "epa.gov",
@@ -472,7 +520,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 60,
+    "Rank": 66,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "clockfoundation.org",
@@ -480,7 +528,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 61,
+    "Rank": 67,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "clockfoundation.us.auth0.com",
@@ -488,7 +536,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 62,
+    "Rank": 68,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "manhattanbeach.gov",
@@ -496,15 +544,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 63,
-    "Time Spent (seconds)": 12,
-    "Number of People": 1,
-    "Activity": "howtogeek.com",
-    "Category": "General News & Opinion",
-    "Productivity": 1
-  },
-  {
-    "Rank": 64,
+    "Rank": 69,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "id.gandi.net",
@@ -512,7 +552,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 65,
+    "Rank": 70,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "howtogeek.com",
+    "Category": "General News & Opinion",
+    "Productivity": 1
+  },
+  {
+    "Rank": 71,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "findanewway.ca.gov",
@@ -520,7 +568,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 66,
+    "Rank": 72,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "library.lol",
@@ -528,7 +576,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 67,
+    "Rank": 73,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "library.csun.edu",
@@ -536,7 +584,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 68,
+    "Rank": 74,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "coreservicesuiagent",
@@ -544,7 +592,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 69,
+    "Rank": 75,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "startupgrind.tech",
@@ -552,7 +600,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 70,
+    "Rank": 76,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "usernotificationcenter",
@@ -560,15 +608,23 @@
     "Productivity": 1
   },
   {
-    "Rank": 71,
-    "Time Spent (seconds)": 5,
+    "Rank": 77,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "gandi.net",
-    "Category": "General Utilities",
+    "Activity": "accounts.intuit.com",
+    "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 78,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "firstwestroads.bank",
+    "Category": "Uncategorized",
     "Productivity": 1
   },
   {
-    "Rank": 72,
+    "Rank": 79,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "archive utility",
@@ -576,7 +632,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 73,
+    "Rank": 80,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "TextEdit",
@@ -584,7 +640,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 74,
+    "Rank": 81,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 82,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "system information",
@@ -592,15 +656,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 75,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "ca.gov",
-    "Category": "Internet Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 76,
+    "Rank": 83,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "dot.ca.gov",
@@ -608,23 +664,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 77,
-    "Time Spent (seconds)": 2,
+    "Rank": 84,
+    "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "filelib.wildlife.ca.gov",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "ca.gov",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 78,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "amazon.com",
-    "Category": "General Shopping",
-    "Productivity": -2
-  },
-  {
-    "Rank": 79,
+    "Rank": 85,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "google chrome",
@@ -632,7 +680,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 80,
+    "Rank": 86,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "filelib.wildlife.ca.gov",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 87,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "amazon.com",
+    "Category": "General Shopping",
+    "Productivity": -2
+  },
+  {
+    "Rank": 88,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Wikipedia",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 89,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "31.42.184.140",
@@ -640,7 +712,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 81,
+    "Rank": 90,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -648,11 +720,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 82,
+    "Rank": 91,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "Wikipedia",
-    "Category": "General Reference & Learning",
+    "Activity": "fundrise-investors.s3.amazonaws.com",
+    "Category": "Internet Utilities",
     "Productivity": 1
   }
 ]
