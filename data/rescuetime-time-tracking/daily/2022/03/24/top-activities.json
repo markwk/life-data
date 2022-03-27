@@ -227,17 +227,17 @@
     "Rank": 29,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
-    "Activity": "cdc.gov",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "docs.qgis.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 30,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
-    "Activity": "docs.qgis.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "cdc.gov",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 31,
@@ -411,17 +411,17 @@
     "Rank": 52,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "iterm2",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "web15.secureinternetbank.com",
+    "Category": "Business & Finance",
+    "Productivity": 1
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 34,
     "Number of People": 1,
-    "Activity": "web15.secureinternetbank.com",
-    "Category": "Business & Finance",
-    "Productivity": 1
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 54,
@@ -451,17 +451,17 @@
     "Rank": 57,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "egis-lacounty.hub.arcgis.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "waterboards.ca.gov",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "waterboards.ca.gov",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "egis-lacounty.hub.arcgis.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 59,
@@ -547,16 +547,16 @@
     "Rank": 69,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "id.gandi.net",
-    "Category": "General Utilities",
+    "Activity": "howtogeek.com",
+    "Category": "General News & Opinion",
     "Productivity": 1
   },
   {
     "Rank": 70,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
-    "Activity": "howtogeek.com",
-    "Category": "General News & Opinion",
+    "Activity": "id.gandi.net",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -579,16 +579,16 @@
     "Rank": 73,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "library.csun.edu",
-    "Category": "General Reference & Learning",
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 74,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
+    "Activity": "library.csun.edu",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -627,7 +627,7 @@
     "Rank": 79,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "archive utility",
+    "Activity": "gandi.net",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -635,17 +635,17 @@
     "Rank": 80,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "TextEdit",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "archive utility",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 81,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "gandi.net",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "TextEdit",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 82,
@@ -659,28 +659,20 @@
     "Rank": 83,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "dot.ca.gov",
-    "Category": "Legal & Gov't",
+    "Activity": "ca.gov",
+    "Category": "Internet Utilities",
     "Productivity": 1
   },
   {
     "Rank": 84,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "ca.gov",
-    "Category": "Internet Utilities",
+    "Activity": "dot.ca.gov",
+    "Category": "Legal & Gov't",
     "Productivity": 1
   },
   {
     "Rank": 85,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 86,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "filelib.wildlife.ca.gov",
@@ -688,7 +680,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 87,
+    "Rank": 86,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "amazon.com",
@@ -696,23 +688,15 @@
     "Productivity": -2
   },
   {
+    "Rank": 87,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
     "Rank": 88,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "Wikipedia",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 89,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "31.42.184.140",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 90,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -720,11 +704,27 @@
     "Productivity": 1
   },
   {
-    "Rank": 91,
+    "Rank": 89,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "fundrise-investors.s3.amazonaws.com",
     "Category": "Internet Utilities",
     "Productivity": 1
+  },
+  {
+    "Rank": 90,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Wikipedia",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 91,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "31.42.184.140",
+    "Category": "General Software Development",
+    "Productivity": 2
   }
 ]
