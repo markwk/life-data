@@ -1,192 +1,216 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4435,
+    "Time Spent (seconds)": 4473,
     "Number of People": 1,
     "Category": "General Design & Composition"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1937,
-    "Number of People": 1,
-    "Category": "General Business"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 1486,
-    "Number of People": 1,
-    "Category": "Email"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 1441,
+    "Time Spent (seconds)": 2787,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
+    "Rank": 3,
+    "Time Spent (seconds)": 1949,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1797,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
     "Rank": 5,
-    "Time Spent (seconds)": 1051,
+    "Time Spent (seconds)": 1765,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1715,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1502,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1053,
     "Number of People": 1,
     "Category": "Marketing"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 905,
+    "Rank": 9,
+    "Time Spent (seconds)": 1026,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
-    "Rank": 7,
+    "Rank": 10,
     "Time Spent (seconds)": 781,
     "Number of People": 1,
     "Category": "Data Modeling & Analysis"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 643,
-    "Number of People": 1,
-    "Category": "Instant Message"
-  },
-  {
-    "Rank": 9,
-    "Time Spent (seconds)": 642,
-    "Number of People": 1,
-    "Category": "Meetings"
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 598,
-    "Number of People": 1,
-    "Category": "Presentation"
-  },
-  {
     "Rank": 11,
-    "Time Spent (seconds)": 531,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 12,
-    "Time Spent (seconds)": 489,
+    "Time Spent (seconds)": 730,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 405,
-    "Number of People": 1,
-    "Category": "Project Management"
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 339,
-    "Number of People": 1,
-    "Category": "General News & Opinion"
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 307,
+    "Rank": 12,
+    "Time Spent (seconds)": 723,
     "Number of People": 1,
     "Category": "Search"
   },
   {
+    "Rank": 13,
+    "Time Spent (seconds)": 710,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 644,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 599,
+    "Number of People": 1,
+    "Category": "Presentation"
+  },
+  {
     "Rank": 16,
-    "Time Spent (seconds)": 292,
+    "Time Spent (seconds)": 553,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 376,
+    "Number of People": 1,
+    "Category": "Sports"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 358,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 259,
+    "Rank": 19,
+    "Time Spent (seconds)": 348,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 241,
-    "Number of People": 1,
-    "Category": "General Reference & Learning"
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 206,
+    "Rank": 20,
+    "Time Spent (seconds)": 255,
     "Number of People": 1,
     "Category": "Browsers"
-  },
-  {
-    "Rank": 20,
-    "Time Spent (seconds)": 109,
-    "Number of People": 1,
-    "Category": "Health & Medicine"
   },
   {
     "Rank": 21,
     "Time Spent (seconds)": 109,
     "Number of People": 1,
-    "Category": "General Social Networking"
+    "Category": "Health & Medicine"
   },
   {
     "Rank": 22,
+    "Time Spent (seconds)": 109,
+    "Number of People": 1,
+    "Category": "General Social Networking"
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 69,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Category": "Calendars"
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 50,
     "Number of People": 1,
     "Category": "General Shopping"
   },
   {
-    "Rank": 23,
+    "Rank": 26,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Category": "Home & Garden"
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Category": "Voice Chat"
   },
   {
-    "Rank": 24,
+    "Rank": 28,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Category": "Music"
   },
   {
-    "Rank": 25,
+    "Rank": 29,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Category": "Internet Utilities"
   },
   {
-    "Rank": 26,
-    "Time Spent (seconds)": 17,
+    "Rank": 30,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Category": "Engineering & Technology"
+    "Category": "Professional Networking"
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Category": "Calendars"
-  },
-  {
-    "Rank": 28,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
-    "Category": "General Communication & Scheduling"
-  },
-  {
-    "Rank": 29,
+    "Rank": 31,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Category": "Legal & Gov't"
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 5,
+    "Rank": 32,
+    "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Category": "Editing & IDEs"
+    "Category": "General Communication & Scheduling"
   },
   {
-    "Rank": 31,
+    "Rank": 33,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Science & Technology"
+  },
+  {
+    "Rank": 34,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Category": "Food"
   },
   {
-    "Rank": 32,
+    "Rank": 35,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Category": "Editing & IDEs"
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Category": "Accounting"
