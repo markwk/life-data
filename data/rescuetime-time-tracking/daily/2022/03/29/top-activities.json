@@ -299,17 +299,17 @@
     "Rank": 38,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
   },
   {
     "Rank": 40,
@@ -395,17 +395,17 @@
     "Rank": 50,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "docker desktop",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "docker desktop",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 52,
@@ -451,20 +451,12 @@
     "Rank": 57,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "colorsync utility",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 58,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "facebook.com",
     "Category": "Marketing",
     "Productivity": 2
   },
   {
-    "Rank": 59,
+    "Rank": 58,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "flickr.com",
@@ -472,11 +464,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 60,
+    "Rank": 59,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
+    "Productivity": 1
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "colorsync utility",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
