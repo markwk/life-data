@@ -267,16 +267,16 @@
     "Rank": 34,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
+    "Activity": "Finder",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -331,25 +331,25 @@
     "Rank": 42,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "system information",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "the archive",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
+    "Activity": "system information",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "the archive",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 45,

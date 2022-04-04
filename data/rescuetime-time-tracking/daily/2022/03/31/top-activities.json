@@ -331,32 +331,32 @@
     "Rank": 42,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 43,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "wsj.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 1,
+    "Rank": 43,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "projects.fivethirtyeight.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
-    "Rank": 45,
+    "Rank": 44,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Zoom website",
     "Category": "Meetings",
     "Productivity": 1
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "projects.fivethirtyeight.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   }
 ]
