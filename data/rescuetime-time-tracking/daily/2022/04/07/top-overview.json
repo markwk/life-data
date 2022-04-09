@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 18912,
+    "Time Spent (seconds)": 20265,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 7696,
+    "Time Spent (seconds)": 7798,
     "Number of People": 1,
     "Category": "Utilities"
   },
@@ -19,27 +19,27 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 730,
+    "Time Spent (seconds)": 1155,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 731,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 715,
+    "Rank": 6,
+    "Time Spent (seconds)": 728,
     "Number of People": 1,
     "Category": "Reference & Learning"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 633,
+    "Rank": 7,
+    "Time Spent (seconds)": 696,
     "Number of People": 1,
     "Category": "Software Development"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 434,
-    "Number of People": 1,
-    "Category": "Business"
   },
   {
     "Rank": 8,
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 295,
+    "Time Spent (seconds)": 296,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
