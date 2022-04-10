@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 3452,
+    "Number of People": 1,
+    "Category": "Audio Editing"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 91,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 65,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Category": "Engineering & Technology"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  }
+]

@@ -58,14 +58,21 @@
     "Social Networking": 39
   },
   "2022-04-8": {
-    "Design & Composition": 9085,
-    "Communication & Scheduling": 3010,
-    "Business": 2391,
-    "Utilities": 874,
+    "Design & Composition": 11184,
+    "Communication & Scheduling": 3034,
+    "Business": 2761,
+    "Utilities": 899,
     "Uncategorized": 753,
-    "Software Development": 699,
-    "Entertainment": 697,
-    "Reference & Learning": 135
+    "Entertainment": 733,
+    "Software Development": 702,
+    "Reference & Learning": 167
   },
-  "2022-04-9": {}
+  "2022-04-9": {
+    "Design & Composition": 3454,
+    "Reference & Learning": 95,
+    "Utilities": 91,
+    "Business": 3,
+    "Software Development": 3,
+    "Entertainment": 1
+  }
 }
