@@ -259,17 +259,17 @@
     "Rank": 33,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
-    "Activity": "zapier.com",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
   },
   {
     "Rank": 34,
     "Time Spent (seconds)": 35,
     "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "zapier.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 35,
@@ -387,7 +387,7 @@
     "Rank": 49,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "drupal.org",
+    "Activity": "cf.int3c.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -395,7 +395,7 @@
     "Rank": 50,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "cf.int3c.com",
+    "Activity": "drupal.org",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -403,7 +403,7 @@
     "Rank": 51,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "mint.intuit.com",
+    "Activity": "secure.ally.com",
     "Category": "Accounting",
     "Productivity": 2
   },
@@ -411,7 +411,7 @@
     "Rank": 52,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "secure.ally.com",
+    "Activity": "mint.intuit.com",
     "Category": "Accounting",
     "Productivity": 2
   }
