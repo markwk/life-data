@@ -123,17 +123,17 @@
     "Rank": 16,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 17,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 18,
