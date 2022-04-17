@@ -146,17 +146,28 @@
     "News & Opinion": 39
   },
   "15": {
-    "Software Development": 6917,
-    "Communication & Scheduling": 4035,
-    "Business": 3274,
-    "Design & Composition": 2100,
-    "Uncategorized": 735,
-    "Utilities": 590,
-    "Entertainment": 81,
-    "Reference & Learning": 68,
-    "News & Opinion": 19
+    "Design & Composition": 10468,
+    "Software Development": 6962,
+    "Communication & Scheduling": 4083,
+    "Business": 3928,
+    "Reference & Learning": 1629,
+    "Utilities": 890,
+    "Uncategorized": 752,
+    "Entertainment": 112,
+    "News & Opinion": 50,
+    "Social Networking": 4
   },
-  "16": {},
+  "16": {
+    "Business": 2051,
+    "Design & Composition": 2047,
+    "Communication & Scheduling": 507,
+    "Software Development": 447,
+    "Reference & Learning": 247,
+    "Utilities": 140,
+    "Uncategorized": 38,
+    "Entertainment": 22,
+    "Shopping": 10
+  },
   "17": {},
   "18": {},
   "19": {},

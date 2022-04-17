@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "osxdaily.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "osxdaily.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 44,
@@ -387,17 +387,17 @@
     "Rank": 49,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "contently.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "mathewporter.co.uk",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 50,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "mathewporter.co.uk",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "contently.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 51,
@@ -435,36 +435,20 @@
     "Rank": 55,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 56,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
     "Activity": "tripadvisor.com",
     "Category": "Travel & Outdoors",
     "Productivity": -1
   },
   {
-    "Rank": 57,
-    "Time Spent (seconds)": 3,
+    "Rank": 56,
+    "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "auth.services.adobe.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 58,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
+    "Activity": "archive utility",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 59,
+    "Rank": 57,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "ar.al",
@@ -472,11 +456,27 @@
     "Productivity": 0
   },
   {
-    "Rank": 60,
+    "Rank": 58,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "Zoom website",
     "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 59,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "auth.services.adobe.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
