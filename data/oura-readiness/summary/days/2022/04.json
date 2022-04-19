@@ -143,8 +143,28 @@
     "score_temperature": 99
   },
   "14": {},
-  "15": {},
-  "16": {},
+  "15": {
+    "score": 62,
+    "score_activity_balance": 87,
+    "score_hrv_balance": 66,
+    "score_previous_day": 100,
+    "score_previous_night": 42,
+    "score_recovery_index": 22,
+    "score_resting_hr": 27,
+    "score_sleep_balance": 85,
+    "score_temperature": 100
+  },
+  "16": {
+    "score": 46,
+    "score_activity_balance": 82,
+    "score_hrv_balance": 29,
+    "score_previous_day": 86,
+    "score_previous_night": 92,
+    "score_recovery_index": 14,
+    "score_resting_hr": 1,
+    "score_sleep_balance": 92,
+    "score_temperature": 55
+  },
   "17": {},
   "18": {},
   "19": {},

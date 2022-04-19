@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 4609,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4080,
+    "Number of People": 1,
+    "Category": "Design & Composition"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 3396,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1890,
+    "Number of People": 1,
+    "Category": "Business"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 999,
+    "Number of People": 1,
+    "Category": "Utilities"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 666,
+    "Number of People": 1,
+    "Category": "News & Opinion"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 571,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 388,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 272,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 90,
+    "Number of People": 1,
+    "Category": "Social Networking"
+  }
+]
