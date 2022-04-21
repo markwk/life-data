@@ -1,1 +1,298 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 9907,
+    "Number of People": 1,
+    "Activity": "cf.int3c.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1395,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1301,
+    "Number of People": 1,
+    "Activity": "Google Presentations",
+    "Category": "Presentation",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1027,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 730,
+    "Number of People": 1,
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 445,
+    "Number of People": 1,
+    "Activity": "drupal.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 351,
+    "Number of People": 1,
+    "Activity": "Google Documents",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 317,
+    "Number of People": 1,
+    "Activity": "docs.drupalcommerce.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 281,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 251,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 217,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 188,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 158,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 133,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 118,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 108,
+    "Number of People": 1,
+    "Activity": "cf3.int3c.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 89,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Activity": "xpertidea.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 85,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 85,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 83,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 76,
+    "Number of People": 1,
+    "Activity": "app.intercom.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 62,
+    "Number of People": 1,
+    "Activity": "cyberduck",
+    "Category": "Internet Utilities",
+    "Productivity": 2
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 49,
+    "Number of People": 1,
+    "Activity": "upwork-usw2-prod-file-storage-wp2.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 40,
+    "Number of People": 1,
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "drupal.stackexchange.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "intercom.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "git.drupalcode.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "burst-digital.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  }
+]
