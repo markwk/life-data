@@ -147,16 +147,16 @@
     "Rank": 19,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
+    "Activity": "keeweb",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 20,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
@@ -267,17 +267,17 @@
     "Rank": 34,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "git.drupalcode.org",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "git.drupalcode.org",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 36,
