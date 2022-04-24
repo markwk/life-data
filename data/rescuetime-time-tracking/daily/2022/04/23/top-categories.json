@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 827,
+    "Number of People": 1,
+    "Category": "Audio Editing"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 135,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 68,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 53,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Category": "Browsers"
+  }
+]

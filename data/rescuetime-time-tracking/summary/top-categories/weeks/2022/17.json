@@ -120,8 +120,8 @@
     "General Reference & Learning": 28,
     "Voice Chat": 17,
     "Marketing": 11,
-    "General Design & Composition": 6,
     "General Communication & Scheduling": 6,
+    "General Design & Composition": 6,
     "Presentation": 4,
     "Internet Utilities": 1
   },
@@ -129,18 +129,18 @@
     "General Software Development": 4003,
     "Email": 3501,
     "Writing": 2282,
-    "Project Management": 1467,
+    "Project Management": 1694,
     "Instant Message": 870,
     "Editing & IDEs": 860,
     "General Shopping": 841,
-    "Intelligence": 581,
+    "General Utilities": 741,
+    "Intelligence": 647,
     "Presentation": 489,
-    "General Utilities": 478,
     "Audio Editing": 463,
     "General Business": 438,
     "Marketing": 422,
     "Calendars": 230,
-    "Browsers": 220,
+    "Browsers": 221,
     "Search": 207,
     "Internet Utilities": 168,
     "General Entertainment": 77,
@@ -153,5 +153,12 @@
     "General News & Opinion": 2,
     "Engineering & Technology": 1
   },
-  "2022-04-23": {}
+  "2022-04-23": {
+    "Audio Editing": 827,
+    "Intelligence": 135,
+    "General Utilities": 68,
+    "Instant Message": 53,
+    "Project Management": 6,
+    "Browsers": 1
+  }
 }

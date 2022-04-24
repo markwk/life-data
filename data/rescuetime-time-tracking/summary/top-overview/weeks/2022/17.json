@@ -61,13 +61,18 @@
     "Software Development": 4863,
     "Communication & Scheduling": 4620,
     "Design & Composition": 3310,
-    "Business": 2908,
-    "Utilities": 866,
+    "Business": 3201,
+    "Utilities": 1130,
     "Shopping": 841,
     "Reference & Learning": 258,
     "Entertainment": 77,
     "Uncategorized": 68,
     "News & Opinion": 6
   },
-  "2022-04-23": {}
+  "2022-04-23": {
+    "Design & Composition": 827,
+    "Business": 141,
+    "Utilities": 69,
+    "Communication & Scheduling": 53
+  }
 }
