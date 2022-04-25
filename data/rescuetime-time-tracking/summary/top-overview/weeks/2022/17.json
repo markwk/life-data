@@ -70,9 +70,12 @@
     "News & Opinion": 6
   },
   "2022-04-23": {
+    "Entertainment": 1257,
     "Design & Composition": 827,
-    "Business": 141,
-    "Utilities": 69,
-    "Communication & Scheduling": 53
+    "Business": 159,
+    "Utilities": 99,
+    "Communication & Scheduling": 53,
+    "Reference & Learning": 20,
+    "News & Opinion": 9
   }
 }

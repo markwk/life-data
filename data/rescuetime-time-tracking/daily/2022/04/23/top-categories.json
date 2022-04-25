@@ -1,38 +1,56 @@
 [
   {
     "Rank": 1,
+    "Time Spent (seconds)": 1257,
+    "Number of People": 1,
+    "Category": "Games"
+  },
+  {
+    "Rank": 2,
     "Time Spent (seconds)": 827,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
-    "Rank": 2,
-    "Time Spent (seconds)": 135,
+    "Rank": 3,
+    "Time Spent (seconds)": 153,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 68,
+    "Rank": 4,
+    "Time Spent (seconds)": 90,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 53,
     "Number of People": 1,
     "Category": "Instant Message"
   },
   {
-    "Rank": 5,
+    "Rank": 6,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Category": "Science & Technology"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Category": "Project Management"
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Category": "Browsers"
   }
 ]
