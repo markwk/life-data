@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "dialaride.as",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "dialaride.as",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 44,
@@ -363,7 +363,7 @@
     "Rank": 46,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "imore.com",
+    "Activity": "producthunt.com",
     "Category": "Science & Technology",
     "Productivity": -1
   },
@@ -371,17 +371,17 @@
     "Rank": 47,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "bookmarks",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "imore.com",
+    "Category": "Science & Technology",
+    "Productivity": -1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "producthunt.com",
-    "Category": "Science & Technology",
-    "Productivity": -1
+    "Activity": "bookmarks",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 49,
