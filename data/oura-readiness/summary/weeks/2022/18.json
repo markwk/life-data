@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2022-04-24",
-    "period_id": 2,
+{
+  "2022-04-24": {
     "score": 87,
     "score_activity_balance": 74,
     "score_hrv_balance": 60,
@@ -10,7 +8,11 @@
     "score_recovery_index": 100,
     "score_resting_hr": 87,
     "score_sleep_balance": 100,
-    "score_temperature": 100,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 100
+  },
+  "2022-04-25": {},
+  "2022-04-26": {},
+  "2022-04-27": {},
+  "2022-04-28": {},
+  "2022-04-29": {}
+}
