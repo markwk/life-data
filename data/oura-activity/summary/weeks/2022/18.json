@@ -28,11 +28,17 @@
     "score": 91
   },
   "2022-04-28": {
-    "steps": 2519,
-    "total": 147,
-    "cal_active": 123,
-    "cal_total": 2011,
-    "score": 87
+    "steps": 8677,
+    "total": 407,
+    "cal_active": 405,
+    "cal_total": 2549,
+    "score": 88
   },
-  "2022-04-29": {}
+  "2022-04-29": {
+    "steps": 2925,
+    "total": 89,
+    "cal_active": 126,
+    "cal_total": 1974,
+    "score": 85
+  }
 }
