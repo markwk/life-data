@@ -67,16 +67,16 @@
     "Rank": 9,
     "Time Spent (seconds)": 404,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "canalpals.com",
+    "Category": "Marketing",
     "Productivity": 2
   },
   {
     "Rank": 10,
     "Time Spent (seconds)": 404,
     "Number of People": 1,
-    "Activity": "canalpals.com",
-    "Category": "Marketing",
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -283,16 +283,16 @@
     "Rank": 36,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "cyberduck",
-    "Category": "Internet Utilities",
+    "Activity": "mandrillapp.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
-    "Activity": "mandrillapp.com",
-    "Category": "General Software Development",
+    "Activity": "cyberduck",
+    "Category": "Internet Utilities",
     "Productivity": 2
   },
   {
@@ -363,12 +363,20 @@
     "Rank": 46,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
     "Activity": "users",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 47,
+    "Rank": 48,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "facetime",
@@ -376,20 +384,12 @@
     "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 49,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "music",
     "Category": "General Entertainment",
     "Productivity": -2
-  },
-  {
-    "Rank": 49,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
   },
   {
     "Rank": 50,

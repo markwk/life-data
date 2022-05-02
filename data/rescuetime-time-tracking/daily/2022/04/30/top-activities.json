@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4163,
+    "Time Spent (seconds)": 4164,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 438,
+    "Time Spent (seconds)": 441,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 146,
+    "Time Spent (seconds)": 149,
     "Number of People": 1,
     "Activity": "iterm2",
     "Category": "General Software Development",
@@ -65,15 +65,15 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 7,
+    "Time Spent (seconds)": 35,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 3,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "clubdonatello.org",
     "Category": "Uncategorized",
@@ -81,6 +81,14 @@
   },
   {
     "Rank": 11,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "google chrome",
