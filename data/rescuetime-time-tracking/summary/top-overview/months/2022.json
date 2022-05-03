@@ -46,12 +46,21 @@
     "Utilities": 25425,
     "Uncategorized": 15961,
     "Reference & Learning": 14607,
-    "Entertainment": 10571,
+    "Entertainment": 10700,
     "News & Opinion": 4665,
     "Social Networking": 1345,
     "Shopping": 3272
   },
-  "5": {},
+  "5": {
+    "Design & Composition": 8667,
+    "Entertainment": 536,
+    "Utilities": 564,
+    "Business": 880,
+    "Uncategorized": 271,
+    "Communication & Scheduling": 184,
+    "Software Development": 34,
+    "Reference & Learning": 5
+  },
   "6": {},
   "7": {},
   "8": {},
