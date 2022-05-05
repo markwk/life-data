@@ -1,1 +1,128 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 5424,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4546,
+    "Number of People": 1,
+    "Category": "Presentation"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 3422,
+    "Number of People": 1,
+    "Category": "Meetings"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 2774,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1820,
+    "Number of People": 1,
+    "Category": "Project Management"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1118,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1023,
+    "Number of People": 1,
+    "Category": "General Design & Composition"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 744,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 629,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 441,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 422,
+    "Number of People": 1,
+    "Category": "Calendars"
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 401,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 394,
+    "Number of People": 1,
+    "Category": "Marketing"
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 388,
+    "Number of People": 1,
+    "Category": "Email"
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 369,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 247,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 230,
+    "Number of People": 1,
+    "Category": "Search"
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 176,
+    "Number of People": 1,
+    "Category": "General Reference & Learning"
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 127,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Category": "General News & Opinion"
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Category": "General Communication & Scheduling"
+  }
+]
