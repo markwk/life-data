@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5008,
+    "Time Spent (seconds)": 8336,
     "Number of People": 1,
     "Activity": "marmonutility.wpcomstaging.com",
     "Category": "Uncategorized",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1851,
+    "Time Spent (seconds)": 1858,
     "Number of People": 1,
     "Activity": "cf.int3c.com",
     "Category": "General Software Development",
@@ -41,46 +41,70 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1118,
-    "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 1023,
-    "Number of People": 1,
-    "Activity": "figma.com",
-    "Category": "General Design & Composition",
-    "Productivity": 2
-  },
-  {
-    "Rank": 8,
-    "Time Spent (seconds)": 678,
+    "Time Spent (seconds)": 1651,
     "Number of People": 1,
     "Activity": "marmonutility.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 629,
+    "Rank": 7,
+    "Time Spent (seconds)": 1135,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 1103,
+    "Number of People": 1,
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 508,
+    "Rank": 9,
+    "Time Spent (seconds)": 764,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
   },
   {
+    "Rank": 10,
+    "Time Spent (seconds)": 688,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
     "Rank": 11,
+    "Time Spent (seconds)": 647,
+    "Number of People": 1,
+    "Activity": "wordpress.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 503,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 494,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 445,
     "Number of People": 1,
     "Activity": "meet.google.com",
@@ -88,15 +112,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 422,
+    "Rank": 15,
+    "Time Spent (seconds)": 436,
     "Number of People": 1,
     "Activity": "Google Calendar",
     "Category": "Calendars",
     "Productivity": 1
   },
   {
-    "Rank": 13,
+    "Rank": 16,
     "Time Spent (seconds)": 394,
     "Number of People": 1,
     "Activity": "cf4.int3c.com",
@@ -104,7 +128,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 14,
+    "Rank": 17,
     "Time Spent (seconds)": 388,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -112,23 +136,39 @@
     "Productivity": 1
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 369,
+    "Rank": 18,
+    "Time Spent (seconds)": 372,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
     "Productivity": -2
   },
   {
-    "Rank": 16,
-    "Time Spent (seconds)": 359,
+    "Rank": 19,
+    "Time Spent (seconds)": 330,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
-    "Rank": 17,
+    "Rank": 20,
+    "Time Spent (seconds)": 293,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 290,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
     "Time Spent (seconds)": 236,
     "Number of People": 1,
     "Activity": "Google Documents",
@@ -136,23 +176,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 230,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 221,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 20,
+    "Rank": 23,
     "Time Spent (seconds)": 205,
     "Number of People": 1,
     "Activity": "otter.ai",
@@ -160,15 +184,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 21,
-    "Time Spent (seconds)": 161,
-    "Number of People": 1,
-    "Activity": "wordpress.com",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 22,
+    "Rank": 24,
     "Time Spent (seconds)": 133,
     "Number of People": 1,
     "Activity": "drive.google.com",
@@ -176,7 +192,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 23,
+    "Rank": 25,
     "Time Spent (seconds)": 127,
     "Number of People": 1,
     "Activity": "amazon.com",
@@ -184,7 +200,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 24,
+    "Rank": 26,
     "Time Spent (seconds)": 108,
     "Number of People": 1,
     "Activity": "wpdatatables.com",
@@ -192,7 +208,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 27,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Activity": "int3c.teamwork.com",
@@ -200,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 28,
     "Time Spent (seconds)": 91,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -208,15 +224,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 27,
-    "Time Spent (seconds)": 85,
-    "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 28,
+    "Rank": 29,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
     "Activity": "essential-addons.com",
@@ -224,7 +232,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 29,
+    "Rank": 30,
     "Time Spent (seconds)": 77,
     "Number of People": 1,
     "Activity": "wpbuffs.com",
@@ -232,7 +240,23 @@
     "Productivity": 0
   },
   {
-    "Rank": 30,
+    "Rank": 31,
+    "Time Spent (seconds)": 72,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 66,
+    "Number of People": 1,
+    "Activity": "wordpress.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 33,
     "Time Spent (seconds)": 63,
     "Number of People": 1,
     "Activity": "Google Forms",
@@ -240,7 +264,31 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 34,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Activity": "guidingtech.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 54,
+    "Number of People": 1,
+    "Activity": "wpbeginner.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
     "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "blog.hubspot.com",
@@ -248,15 +296,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 32,
-    "Time Spent (seconds)": 50,
+    "Rank": 38,
+    "Time Spent (seconds)": 52,
     "Number of People": 1,
-    "Activity": "bartender 4",
+    "Activity": "System Preferences",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 33,
+    "Rank": 39,
     "Time Spent (seconds)": 43,
     "Number of People": 1,
     "Activity": "veracityinsurance.com",
@@ -264,7 +312,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 34,
+    "Rank": 40,
     "Time Spent (seconds)": 39,
     "Number of People": 1,
     "Activity": "woocommerce.com",
@@ -272,7 +320,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 35,
+    "Rank": 41,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "cableprospector.com",
@@ -280,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
+    "Rank": 42,
     "Time Spent (seconds)": 36,
     "Number of People": 1,
     "Activity": "drupal.org",
@@ -288,7 +336,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 37,
+    "Rank": 43,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "webtoffee.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 44,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "keeweb",
@@ -296,7 +352,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 38,
+    "Rank": 45,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "docs.drupalcommerce.org",
@@ -304,7 +360,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 39,
+    "Rank": 46,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "google chrome",
@@ -312,7 +368,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 47,
+    "Time Spent (seconds)": 20,
+    "Number of People": 1,
+    "Activity": "electricityforum.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 48,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -320,15 +384,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 41,
-    "Time Spent (seconds)": 15,
+    "Rank": 49,
+    "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "elementor.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 42,
+    "Rank": 50,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "coverwallet.com",
@@ -336,7 +400,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 43,
+    "Rank": 51,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "iterm2",
@@ -344,15 +408,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "wordpress.org",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 45,
+    "Rank": 52,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "devtools",
@@ -360,7 +416,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 46,
+    "Rank": 53,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "teamwork.com",
@@ -368,7 +424,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 47,
+    "Rank": 54,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "archive utility",
@@ -376,7 +432,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 48,
+    "Rank": 55,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "linkednotesuiservice",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 56,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Zoom website",
@@ -384,7 +448,15 @@
     "Productivity": 1
   },
   {
-    "Rank": 49,
+    "Rank": 57,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "wpvivid.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 58,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "barn2.com",

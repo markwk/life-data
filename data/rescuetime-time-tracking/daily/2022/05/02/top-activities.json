@@ -155,24 +155,24 @@
     "Rank": 20,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 21,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
     "Activity": "youtube.com",
     "Category": "Video",
     "Productivity": -2
   },
   {
-    "Rank": 22,
+    "Rank": 21,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "tal-software.com",
     "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
     "Productivity": 0
   }
 ]
