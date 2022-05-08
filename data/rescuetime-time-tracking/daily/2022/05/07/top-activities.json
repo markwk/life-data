@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 3635,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 129,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 58,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "reverbmachine.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 30,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  }
+]

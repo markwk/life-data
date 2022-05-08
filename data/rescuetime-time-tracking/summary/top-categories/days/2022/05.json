@@ -71,8 +71,8 @@
     "Browsers": 316,
     "General Shopping": 127,
     "Engineering & Technology": 110,
-    "General News & Opinion": 54,
     "Video": 54,
+    "General News & Opinion": 54,
     "General Communication & Scheduling": 16
   },
   "5": {
@@ -129,7 +129,17 @@
     "General News & Opinion": 18,
     "General Communication & Scheduling": 13
   },
-  "7": {},
+  "7": {
+    "Audio Editing": 3635,
+    "Intelligence": 129,
+    "General Utilities": 58,
+    "Uncategorized": 51,
+    "General Entertainment": 30,
+    "Writing": 30,
+    "Search": 29,
+    "Instant Message": 8,
+    "Browsers": 1
+  },
   "8": {},
   "9": {},
   "10": {},
