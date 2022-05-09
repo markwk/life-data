@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3635,
+    "Time Spent (seconds)": 4087,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 129,
+    "Time Spent (seconds)": 132,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 58,
+    "Time Spent (seconds)": 63,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 51,
+    "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "reverbmachine.com",
     "Category": "Uncategorized",
@@ -35,17 +35,17 @@
     "Rank": 5,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 6,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 7,
@@ -57,6 +57,22 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "marmonutility.wpcomstaging.com",
+    "Category": "Uncategorized",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "messages",
@@ -64,11 +80,27 @@
     "Productivity": -1
   },
   {
-    "Rank": 9,
+    "Rank": 11,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 12,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "control center",
+    "Category": "General Utilities",
+    "Productivity": 1
   }
 ]

@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 6911,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 950,
+    "Number of People": 1,
+    "Activity": "soundcloud.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 307,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 270,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 241,
+    "Number of People": 1,
+    "Activity": "music",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 201,
+    "Number of People": 1,
+    "Activity": "quicktime player",
+    "Category": "General Entertainment",
+    "Productivity": 0
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 169,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 130,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Activity": "reverbmachine.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "pluginboutique.com",
+    "Category": "General Shopping",
+    "Productivity": -2
+  }
+]

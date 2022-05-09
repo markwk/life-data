@@ -67,15 +67,24 @@
     "News & Opinion": 18
   },
   "7": {
-    "Design & Composition": 3665,
-    "Business": 129,
-    "Utilities": 59,
-    "Uncategorized": 51,
+    "Design & Composition": 4117,
+    "Business": 132,
+    "Utilities": 88,
+    "Uncategorized": 86,
     "Entertainment": 30,
     "Reference & Learning": 29,
     "Communication & Scheduling": 8
   },
-  "8": {},
+  "8": {
+    "Design & Composition": 6911,
+    "Utilities": 1255,
+    "Entertainment": 611,
+    "Communication & Scheduling": 314,
+    "Business": 130,
+    "Uncategorized": 102,
+    "Software Development": 35,
+    "Shopping": 5
+  },
   "9": {},
   "10": {},
   "11": {},

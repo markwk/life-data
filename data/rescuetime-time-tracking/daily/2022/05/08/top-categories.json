@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 6911,
+    "Number of People": 1,
+    "Category": "Audio Editing"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 950,
+    "Number of People": 1,
+    "Category": "Internet Utilities"
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 611,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 307,
+    "Number of People": 1,
+    "Category": "Instant Message"
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 287,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 130,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Category": "Voice Chat"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Category": "General Shopping"
+  }
+]

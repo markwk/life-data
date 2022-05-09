@@ -120,8 +120,8 @@
     "Meetings": 296,
     "Email": 289,
     "Browsers": 270,
-    "Calendars": 130,
     "General Reference & Learning": 130,
+    "Calendars": 130,
     "Search": 71,
     "General Entertainment": 67,
     "Engineering & Technology": 46,
@@ -130,14 +130,14 @@
     "General Communication & Scheduling": 13
   },
   "2022-05-7": {
-    "Audio Editing": 3635,
-    "Intelligence": 129,
-    "General Utilities": 58,
-    "Uncategorized": 51,
-    "General Entertainment": 30,
+    "Audio Editing": 4087,
+    "Intelligence": 132,
+    "Uncategorized": 86,
+    "General Utilities": 66,
     "Writing": 30,
+    "General Entertainment": 30,
     "Search": 29,
-    "Instant Message": 8,
-    "Browsers": 1
+    "Browsers": 22,
+    "Instant Message": 8
   }
 }

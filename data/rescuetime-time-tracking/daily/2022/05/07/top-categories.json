@@ -1,39 +1,39 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3635,
+    "Time Spent (seconds)": 4087,
     "Number of People": 1,
     "Category": "Audio Editing"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 129,
+    "Time Spent (seconds)": 132,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 58,
+    "Time Spent (seconds)": 86,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Uncategorized"
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 51,
+    "Time Spent (seconds)": 66,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "General Utilities"
   },
   {
     "Rank": 5,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Category": "General Entertainment"
+    "Category": "Writing"
   },
   {
     "Rank": 6,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Category": "Writing"
+    "Category": "General Entertainment"
   },
   {
     "Rank": 7,
@@ -43,14 +43,14 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 8,
+    "Time Spent (seconds)": 22,
     "Number of People": 1,
-    "Category": "Instant Message"
+    "Category": "Browsers"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 1,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Category": "Browsers"
+    "Category": "Instant Message"
   }
 ]
