@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 86,
+    "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
@@ -37,6 +37,12 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Category": "Software Development"
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Category": "Communication & Scheduling"

@@ -1,48 +1,54 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 6911,
+    "Time Spent (seconds)": 8169,
     "Number of People": 1,
     "Category": "Design & Composition"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1255,
-    "Number of People": 1,
-    "Category": "Utilities"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 611,
-    "Number of People": 1,
-    "Category": "Entertainment"
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 314,
-    "Number of People": 1,
-    "Category": "Communication & Scheduling"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 130,
+    "Time Spent (seconds)": 2107,
     "Number of People": 1,
     "Category": "Business"
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 102,
+    "Rank": 3,
+    "Time Spent (seconds)": 1795,
     "Number of People": 1,
-    "Category": "Uncategorized"
+    "Category": "Utilities"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 35,
+    "Rank": 4,
+    "Time Spent (seconds)": 1211,
     "Number of People": 1,
     "Category": "Software Development"
   },
   {
+    "Rank": 5,
+    "Time Spent (seconds)": 691,
+    "Number of People": 1,
+    "Category": "Entertainment"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 341,
+    "Number of People": 1,
+    "Category": "Communication & Scheduling"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 112,
+    "Number of People": 1,
+    "Category": "Uncategorized"
+  },
+  {
     "Rank": 8,
+    "Time Spent (seconds)": 14,
+    "Number of People": 1,
+    "Category": "Reference & Learning"
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Category": "Shopping"

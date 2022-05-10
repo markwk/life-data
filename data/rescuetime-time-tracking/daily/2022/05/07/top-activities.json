@@ -35,17 +35,17 @@
     "Rank": 5,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 6,
     "Time Spent (seconds)": 30,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 7,
@@ -60,7 +60,7 @@
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "marmonutility.wpcomstaging.com",
-    "Category": "Uncategorized",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -91,16 +91,16 @@
     "Rank": 12,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "control center",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 13,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "control center",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   }
 ]

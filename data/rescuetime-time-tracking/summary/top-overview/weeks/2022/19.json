@@ -56,12 +56,12 @@
   },
   "2022-05-6": {
     "Business": 5777,
-    "Uncategorized": 4032,
+    "Software Development": 3927,
     "Design & Composition": 3811,
     "Communication & Scheduling": 1672,
     "Utilities": 762,
+    "Uncategorized": 494,
     "Shopping": 406,
-    "Software Development": 389,
     "Reference & Learning": 247,
     "Entertainment": 67,
     "News & Opinion": 18
@@ -70,9 +70,10 @@
     "Design & Composition": 4117,
     "Business": 132,
     "Utilities": 88,
-    "Uncategorized": 86,
+    "Uncategorized": 58,
     "Entertainment": 30,
     "Reference & Learning": 29,
+    "Software Development": 28,
     "Communication & Scheduling": 8
   }
 }
