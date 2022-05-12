@@ -23,18 +23,28 @@
     "Social Networking": 5
   },
   "2022-05-10": {
-    "Software Development": 8005,
-    "Business": 5006,
-    "Design & Composition": 4342,
-    "Communication & Scheduling": 2485,
-    "Utilities": 924,
-    "Reference & Learning": 409,
-    "Uncategorized": 280,
-    "News & Opinion": 208,
-    "Social Networking": 203,
+    "Software Development": 10382,
+    "Business": 6119,
+    "Design & Composition": 4437,
+    "Communication & Scheduling": 2791,
+    "Utilities": 1073,
+    "News & Opinion": 650,
+    "Reference & Learning": 421,
+    "Uncategorized": 393,
+    "Social Networking": 309,
     "Entertainment": 133
   },
-  "2022-05-11": {},
+  "2022-05-11": {
+    "Software Development": 7440,
+    "Business": 5920,
+    "Design & Composition": 5735,
+    "Communication & Scheduling": 1724,
+    "Utilities": 1123,
+    "News & Opinion": 197,
+    "Uncategorized": 183,
+    "Entertainment": 178,
+    "Reference & Learning": 151
+  },
   "2022-05-12": {},
   "2022-05-13": {},
   "2022-05-14": {}
