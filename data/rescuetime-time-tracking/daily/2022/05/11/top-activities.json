@@ -315,24 +315,24 @@
     "Rank": 40,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
-  },
-  {
-    "Rank": 41,
-    "Time Spent (seconds)": 15,
-    "Number of People": 1,
     "Activity": "koukia.ca",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 42,
+    "Rank": 41,
     "Time Spent (seconds)": 15,
     "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
     "Productivity": 2
   },
   {
@@ -411,20 +411,12 @@
     "Rank": 52,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 53,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "forums.macrumors.com",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 54,
+    "Rank": 53,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "wordpress.com",
@@ -432,12 +424,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 55,
+    "Rank": 54,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "blog.hubspot.com",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 56,

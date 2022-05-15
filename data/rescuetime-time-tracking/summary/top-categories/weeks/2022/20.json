@@ -121,8 +121,8 @@
     "General News & Opinion": 2
   },
   "2022-05-13": {
+    "Audio Editing": 2135,
     "General Software Development": 2037,
-    "Audio Editing": 1674,
     "Email": 889,
     "Instant Message": 821,
     "General Design & Composition": 760,
@@ -130,15 +130,33 @@
     "Uncategorized": 490,
     "Writing": 451,
     "General Entertainment": 325,
-    "General Utilities": 253,
+    "General Utilities": 308,
+    "Intelligence": 194,
     "General Reference & Learning": 193,
     "Calendars": 185,
-    "Intelligence": 161,
     "Video": 143,
     "Browsers": 102,
     "Search": 78,
     "General Business": 60,
     "Presentation": 42
   },
-  "2022-05-14": {}
+  "2022-05-14": {
+    "Audio Editing": 6373,
+    "Calendars": 4541,
+    "Video": 783,
+    "Sales": 426,
+    "Intelligence": 410,
+    "Instant Message": 311,
+    "General Utilities": 261,
+    "General Reference & Learning": 206,
+    "Browsers": 112,
+    "Uncategorized": 103,
+    "Search": 60,
+    "Email": 48,
+    "Marketing": 33,
+    "Internet Utilities": 28,
+    "Travel & Outdoors": 12,
+    "General Entertainment": 9,
+    "General Design & Composition": 5
+  }
 }

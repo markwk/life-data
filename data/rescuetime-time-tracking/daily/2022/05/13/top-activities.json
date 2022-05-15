@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1674,
+    "Time Spent (seconds)": 2135,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -73,6 +73,14 @@
   },
   {
     "Rank": 10,
+    "Time Spent (seconds)": 247,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
     "Time Spent (seconds)": 234,
     "Number of People": 1,
     "Activity": "app.pageproofer.com",
@@ -80,7 +88,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 12,
     "Time Spent (seconds)": 212,
     "Number of People": 1,
     "Activity": "quicktime player",
@@ -88,15 +96,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 12,
-    "Time Spent (seconds)": 192,
+    "Rank": 13,
+    "Time Spent (seconds)": 194,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
-    "Rank": 13,
+    "Rank": 14,
     "Time Spent (seconds)": 185,
     "Number of People": 1,
     "Activity": "Google Calendar",
@@ -104,19 +112,11 @@
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 15,
     "Time Spent (seconds)": 169,
     "Number of People": 1,
     "Activity": "v4616118864.ny11.us.aegir.cc",
     "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 161,
-    "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -195,16 +195,16 @@
     "Rank": 25,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
-    "Activity": "wordpress.com",
-    "Category": "General Software Development",
+    "Activity": "iWork Numbers",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 60,
     "Number of People": 1,
-    "Activity": "iWork Numbers",
-    "Category": "General Business",
+    "Activity": "wordpress.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
