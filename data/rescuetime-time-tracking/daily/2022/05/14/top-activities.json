@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 410,
+    "Time Spent (seconds)": 420,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -97,19 +97,19 @@
   },
   {
     "Rank": 13,
+    "Time Spent (seconds)": 86,
+    "Number of People": 1,
+    "Activity": "help.calendly.com",
+    "Category": "Calendars",
+    "Productivity": 0
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 84,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 14,
-    "Time Spent (seconds)": 79,
-    "Number of People": 1,
-    "Activity": "help.calendly.com",
-    "Category": "Calendars",
-    "Productivity": 0
   },
   {
     "Rank": 15,
