@@ -243,16 +243,16 @@
     "Rank": 31,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "my.sendinblue.com",
-    "Category": "General Business",
+    "Activity": "canalpals.com",
+    "Category": "Marketing",
     "Productivity": 2
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "canalpals.com",
-    "Category": "Marketing",
+    "Activity": "my.sendinblue.com",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
@@ -267,16 +267,16 @@
     "Rank": 34,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
-    "Activity": "git.drupalcode.org",
-    "Category": "General Software Development",
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
-    "Activity": "Google Spreadsheets",
-    "Category": "General Business",
+    "Activity": "git.drupalcode.org",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -475,16 +475,16 @@
     "Rank": 60,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "gist.github.com",
-    "Category": "General Software Development",
+    "Activity": "mail.canalpals.com",
+    "Category": "Marketing",
     "Productivity": 2
   },
   {
     "Rank": 61,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "mail.canalpals.com",
-    "Category": "Marketing",
+    "Activity": "gist.github.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {

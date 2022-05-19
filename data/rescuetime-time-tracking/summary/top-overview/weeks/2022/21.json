@@ -30,7 +30,17 @@
     "Entertainment": 237,
     "Social Networking": 27
   },
-  "2022-05-18": {},
+  "2022-05-18": {
+    "Software Development": 3243,
+    "Communication & Scheduling": 3106,
+    "Design & Composition": 2237,
+    "Business": 2112,
+    "Utilities": 956,
+    "Shopping": 542,
+    "Entertainment": 237,
+    "Reference & Learning": 171,
+    "Uncategorized": 144
+  },
   "2022-05-19": {},
   "2022-05-20": {},
   "2022-05-21": {}

@@ -171,16 +171,16 @@
     "Rank": 22,
     "Time Spent (seconds)": 106,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "myagingtests.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 106,
     "Number of People": 1,
-    "Activity": "myagingtests.com",
-    "Category": "General Software Development",
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
@@ -219,17 +219,17 @@
     "Rank": 28,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 70,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
-    "Productivity": 2
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 30,
@@ -371,17 +371,17 @@
     "Rank": 47,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "imgur.com",
-    "Category": "Photos",
-    "Productivity": -2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "imgur.com",
+    "Category": "Photos",
+    "Productivity": -2
   },
   {
     "Rank": 49,

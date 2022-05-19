@@ -187,16 +187,16 @@
     "Rank": 24,
     "Time Spent (seconds)": 96,
     "Number of People": 1,
-    "Activity": "figma.com",
-    "Category": "General Design & Composition",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 96,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
     "Productivity": 2
   },
   {
@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 73,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "zapier.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 73,
     "Number of People": 1,
-    "Activity": "zapier.com",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 32,
@@ -291,17 +291,17 @@
     "Rank": 37,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "upwork.com",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "fael-downloads-prod.focusrite.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 38,
     "Time Spent (seconds)": 37,
     "Number of People": 1,
-    "Activity": "fael-downloads-prod.focusrite.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "upwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 39,
@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "getapp.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "getapp.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 45,
@@ -411,17 +411,17 @@
     "Rank": 52,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "regpacks.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "splice",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "splice",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "regpacks.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 54,
