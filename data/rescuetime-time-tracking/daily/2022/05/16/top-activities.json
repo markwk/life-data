@@ -267,16 +267,16 @@
     "Rank": 34,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
-    "Activity": "Google Spreadsheets",
-    "Category": "General Business",
+    "Activity": "git.drupalcode.org",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
     "Rank": 35,
     "Time Spent (seconds)": 99,
     "Number of People": 1,
-    "Activity": "git.drupalcode.org",
-    "Category": "General Software Development",
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
-    "Activity": "w3schools.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "sendinblue.com",
+    "Category": "General Business",
+    "Productivity": 2
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 45,
     "Number of People": 1,
-    "Activity": "sendinblue.com",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "w3schools.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 48,
@@ -475,9 +475,9 @@
     "Rank": 60,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "mail.canalpals.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "delivery-tracker.extapps.homedepot.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 61,
@@ -491,9 +491,9 @@
     "Rank": 62,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "delivery-tracker.extapps.homedepot.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "mail.canalpals.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 63,
@@ -507,20 +507,12 @@
     "Rank": 64,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "id.gandi.net",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 65,
-    "Time Spent (seconds)": 8,
-    "Number of People": 1,
     "Activity": "myaccount.google.com",
     "Category": "Internet Utilities",
     "Productivity": 0
   },
   {
-    "Rank": 66,
+    "Rank": 65,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "gandi.net",
@@ -528,7 +520,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 67,
+    "Rank": 66,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "bounteous.com",
@@ -536,20 +528,28 @@
     "Productivity": 0
   },
   {
-    "Rank": 68,
-    "Time Spent (seconds)": 7,
+    "Rank": 67,
+    "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "opensenselabs.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "id.gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 69,
+    "Rank": 68,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "stackoverflow.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "opensenselabs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 70,
