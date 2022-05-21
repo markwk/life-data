@@ -43,16 +43,27 @@
     "News & Opinion": 24
   },
   "2022-05-19": {
+    "Business": 5259,
     "Software Development": 4395,
-    "Business": 4276,
-    "Communication & Scheduling": 2287,
-    "Utilities": 1252,
-    "Reference & Learning": 1001,
+    "Communication & Scheduling": 2331,
+    "Utilities": 1409,
+    "Reference & Learning": 1020,
+    "News & Opinion": 484,
+    "Design & Composition": 416,
     "Uncategorized": 414,
-    "News & Opinion": 320,
-    "Design & Composition": 71,
     "Entertainment": 41
   },
-  "2022-05-20": {},
+  "2022-05-20": {
+    "Software Development": 3874,
+    "Business": 2880,
+    "Communication & Scheduling": 2187,
+    "Design & Composition": 858,
+    "Utilities": 409,
+    "Shopping": 312,
+    "Uncategorized": 208,
+    "Reference & Learning": 173,
+    "Entertainment": 94,
+    "News & Opinion": 2
+  },
   "2022-05-21": {}
 }
