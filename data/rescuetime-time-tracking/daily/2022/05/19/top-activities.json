@@ -83,16 +83,16 @@
     "Rank": 11,
     "Time Spent (seconds)": 345,
     "Number of People": 1,
-    "Activity": "secure.ally.com",
-    "Category": "Accounting",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 345,
     "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
+    "Activity": "secure.ally.com",
+    "Category": "Accounting",
     "Productivity": 2
   },
   {
@@ -355,17 +355,17 @@
     "Rank": 45,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "airbnb.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": 0
   },
   {
     "Rank": 46,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "airbnb.com",
-    "Category": "Travel & Outdoors",
-    "Productivity": 0
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 47,
