@@ -219,8 +219,25 @@
     "News & Opinion": 2
   },
   "21": {},
-  "22": {},
-  "23": {},
+  "22": {
+    "Business": 212,
+    "Utilities": 146,
+    "Design & Composition": 52,
+    "Software Development": 7,
+    "Shopping": 2
+  },
+  "23": {
+    "Software Development": 8621,
+    "Communication & Scheduling": 6338,
+    "Design & Composition": 4877,
+    "Business": 2686,
+    "Utilities": 1265,
+    "Reference & Learning": 526,
+    "Uncategorized": 519,
+    "Entertainment": 446,
+    "Social Networking": 267,
+    "News & Opinion": 204
+  },
   "24": {},
   "25": {},
   "26": {},
