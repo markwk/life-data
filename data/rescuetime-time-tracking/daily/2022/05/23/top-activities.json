@@ -163,17 +163,17 @@
     "Rank": 21,
     "Time Spent (seconds)": 330,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 22,
     "Time Spent (seconds)": 330,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 23,
@@ -347,17 +347,17 @@
     "Rank": 44,
     "Time Spent (seconds)": 78,
     "Number of People": 1,
-    "Activity": "elementor.com",
-    "Category": "Design & Planning",
-    "Productivity": 2
+    "Activity": "bvker.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 45,
     "Time Spent (seconds)": 78,
     "Number of People": 1,
-    "Activity": "bvker.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "elementor.com",
+    "Category": "Design & Planning",
+    "Productivity": 2
   },
   {
     "Rank": 46,
@@ -371,25 +371,25 @@
     "Rank": 47,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
-    "Activity": "Google Documents",
-    "Category": "Writing",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 48,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
-    "Activity": "tomsguide.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "Google Documents",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 49,
     "Time Spent (seconds)": 66,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "tomsguide.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 50,
@@ -491,17 +491,17 @@
     "Rank": 62,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "hypeddit.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "wpforms.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 63,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "wpforms.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "hypeddit.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 64,
@@ -587,7 +587,7 @@
     "Rank": 74,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "plugin-alliance.com",
+    "Activity": "bmwperformancecenter.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -595,7 +595,7 @@
     "Rank": 75,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "bmwperformancecenter.com",
+    "Activity": "plugin-alliance.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -603,25 +603,25 @@
     "Rank": 76,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "history",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "sciencedirect.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
   },
   {
     "Rank": 77,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "axelerant.com",
-    "Category": "Uncategorized",
+    "Activity": "history",
+    "Category": "Browsers",
     "Productivity": 0
   },
   {
     "Rank": 78,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "sciencedirect.com",
-    "Category": "Engineering & Technology",
-    "Productivity": 1
+    "Activity": "axelerant.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 79,
@@ -643,12 +643,20 @@
     "Rank": 81,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
+    "Activity": "ally.com",
+    "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 82,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
     "Activity": "my.elementor.com",
     "Category": "Design & Planning",
     "Productivity": 2
   },
   {
-    "Rank": 82,
+    "Rank": 83,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "accounts.intuit.com",
@@ -656,28 +664,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 83,
-    "Time Spent (seconds)": 10,
-    "Number of People": 1,
-    "Activity": "ally.com",
-    "Category": "Accounting",
-    "Productivity": 2
-  },
-  {
     "Rank": 84,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "its.uiowa.edu",
-    "Category": "Email",
-    "Productivity": 0
-  },
-  {
-    "Rank": 85,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "mychonhealth.com",
     "Category": "Editing & IDEs",
     "Productivity": 2
+  },
+  {
+    "Rank": 85,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "its.uiowa.edu",
+    "Category": "Email",
+    "Productivity": 0
   },
   {
     "Rank": 86,
@@ -723,23 +723,23 @@
     "Rank": 91,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "aquaappearancehelper",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 92,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "archive utility",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 93,
+    "Rank": 92,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "jasper.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 93,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "aquaappearancehelper",
     "Category": "Uncategorized",
     "Productivity": 0
   },
