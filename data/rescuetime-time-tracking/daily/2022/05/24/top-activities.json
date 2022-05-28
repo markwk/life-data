@@ -539,20 +539,12 @@
     "Rank": 68,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "finance.yahoo.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
-  },
-  {
-    "Rank": 69,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
     "Activity": "toggl.com",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 70,
+    "Rank": 69,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "facebook.com",
@@ -560,15 +552,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 71,
-    "Time Spent (seconds)": 7,
+    "Rank": 70,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "haikuists.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "finance.yahoo.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
-    "Rank": 72,
+    "Rank": 71,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "login.mailchimp.com",
@@ -576,10 +568,18 @@
     "Productivity": 2
   },
   {
-    "Rank": 73,
+    "Rank": 72,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "new-tab-page",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 73,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "haikuists.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -611,7 +611,7 @@
     "Rank": 77,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "whats-new",
+    "Activity": "forms.gle",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -619,16 +619,16 @@
     "Rank": 78,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "forms.gle",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "archive utility",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 79,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "archive utility",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "whats-new",
+    "Category": "Uncategorized",
+    "Productivity": 0
   }
 ]
