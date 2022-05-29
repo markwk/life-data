@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 7136,
+    "Time Spent (seconds)": 7137,
     "Number of People": 1,
     "Category": "Meetings"
   },
@@ -19,7 +19,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 944,
+    "Time Spent (seconds)": 1066,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -37,31 +37,31 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 564,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 524,
     "Number of People": 1,
     "Category": "Email"
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 439,
     "Number of People": 1,
     "Category": "Quality Assurance"
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 390,
-    "Number of People": 1,
-    "Category": "Intelligence"
-  },
-  {
     "Rank": 10,
-    "Time Spent (seconds)": 358,
+    "Time Spent (seconds)": 362,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 189,
+    "Time Spent (seconds)": 338,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -103,7 +103,7 @@
   },
   {
     "Rank": 18,
-    "Time Spent (seconds)": 58,
+    "Time Spent (seconds)": 59,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
