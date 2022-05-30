@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3415,
+    "Time Spent (seconds)": 5717,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -41,7 +41,7 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 800,
+    "Time Spent (seconds)": 813,
     "Number of People": 1,
     "Activity": "messages",
     "Category": "Instant Message",
@@ -57,6 +57,14 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 574,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 525,
     "Number of People": 1,
     "Activity": "cf.int3c.com",
@@ -64,15 +72,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 362,
+    "Rank": 10,
+    "Time Spent (seconds)": 390,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "thepatchbay.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 337,
     "Number of People": 1,
     "Activity": "Google Calendar",
@@ -80,16 +88,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 278,
-    "Number of People": 1,
-    "Activity": "Preview",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
     "Rank": 12,
-    "Time Spent (seconds)": 267,
+    "Time Spent (seconds)": 307,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
@@ -97,14 +97,30 @@
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 265,
+    "Time Spent (seconds)": 284,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 275,
     "Number of People": 1,
     "Activity": "Gmail",
     "Category": "Email",
     "Productivity": 1
   },
   {
-    "Rank": 14,
+    "Rank": 15,
+    "Time Spent (seconds)": 269,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 232,
     "Number of People": 1,
     "Activity": "labs.spitfireaudio.com",
@@ -112,7 +128,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 15,
+    "Rank": 17,
+    "Time Spent (seconds)": 224,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 211,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 211,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
     "Time Spent (seconds)": 180,
     "Number of People": 1,
     "Activity": "splice.com",
@@ -120,7 +160,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 16,
+    "Rank": 21,
     "Time Spent (seconds)": 175,
     "Number of People": 1,
     "Activity": "cf9.int3c.com",
@@ -128,7 +168,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 17,
+    "Rank": 22,
     "Time Spent (seconds)": 174,
     "Number of People": 1,
     "Activity": "cf9-cleanup.int3c.com",
@@ -136,23 +176,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 18,
-    "Time Spent (seconds)": 165,
-    "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 133,
-    "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
-  },
-  {
-    "Rank": 20,
+    "Rank": 23,
     "Time Spent (seconds)": 113,
     "Number of People": 1,
     "Activity": "app.pageproofer.com",
@@ -160,7 +184,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 21,
+    "Rank": 24,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Activity": "cf-migtest.int3c.com",
@@ -168,15 +192,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 22,
-    "Time Spent (seconds)": 106,
+    "Rank": 25,
+    "Time Spent (seconds)": 103,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
-    "Rank": 23,
+    "Rank": 26,
     "Time Spent (seconds)": 97,
     "Number of People": 1,
     "Activity": "supplier.viator.com",
@@ -184,7 +208,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 24,
+    "Rank": 27,
     "Time Spent (seconds)": 82,
     "Number of People": 1,
     "Activity": "spitfire audio",
@@ -192,15 +216,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
-    "Time Spent (seconds)": 71,
+    "Rank": 28,
+    "Time Spent (seconds)": 80,
     "Number of People": 1,
     "Activity": "typora",
     "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 29,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "splice",
@@ -208,7 +232,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 27,
+    "Rank": 30,
     "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Activity": "spotify",
@@ -216,31 +240,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 28,
-    "Time Spent (seconds)": 51,
-    "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 29,
-    "Time Spent (seconds)": 50,
+    "Rank": 31,
+    "Time Spent (seconds)": 52,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 30,
-    "Time Spent (seconds)": 42,
-    "Number of People": 1,
-    "Activity": "cf-migtest2.int3c.com",
-    "Category": "Marketing",
-    "Productivity": 2
-  },
-  {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
     "Activity": "spitfireaudio.com",
@@ -248,7 +256,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 32,
+    "Rank": 33,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "cf-migtest2.int3c.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 39,
+    "Number of People": 1,
+    "Activity": "expedia.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": -2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "paypal.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "marmonutility.wpcomstaging.com",
@@ -256,7 +288,23 @@
     "Productivity": 2
   },
   {
-    "Rank": 33,
+    "Rank": 37,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "bernii.github.io",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "airbnb.com",
+    "Category": "Travel & Outdoors",
+    "Productivity": 0
+  },
+  {
+    "Rank": 39,
     "Time Spent (seconds)": 23,
     "Number of People": 1,
     "Activity": "cf-dev.int3c.com",
@@ -264,7 +312,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 34,
+    "Rank": 40,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -272,7 +320,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 35,
+    "Rank": 41,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "ujam.com",
@@ -280,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 36,
+    "Rank": 42,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "upwork-usw2-prod-file-storage-wp1.s3.us-west-2.amazonaws.com",
@@ -288,7 +336,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 37,
+    "Rank": 43,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
     "Activity": "dreadbox-fx.com",
@@ -296,7 +344,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 38,
+    "Rank": 44,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "facetime",
@@ -304,7 +352,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 39,
+    "Rank": 45,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "bartender 4",
@@ -312,7 +360,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 40,
+    "Rank": 46,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "customer.novationmusic.com",
@@ -320,7 +368,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 41,
+    "Rank": 47,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "upwork-usw2-prod-file-storage-wp4.s3.us-west-2.amazonaws.com",
@@ -328,15 +376,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 42,
+    "Rank": 48,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "meet.google.com",
-    "Category": "Meetings",
-    "Productivity": 1
+    "Activity": "VLC Media Player",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
-    "Rank": 43,
+    "Rank": 49,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "drupal.org",
@@ -344,7 +392,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 44,
+    "Rank": 50,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 51,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "drushcommands.com",
@@ -352,7 +408,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 45,
+    "Rank": 52,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
@@ -360,7 +416,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 46,
+    "Rank": 53,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "SecurityAgent",
@@ -368,7 +424,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 47,
+    "Rank": 54,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 55,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "coreservicesuiagent",
@@ -376,11 +440,19 @@
     "Productivity": 1
   },
   {
-    "Rank": 48,
-    "Time Spent (seconds)": 2,
+    "Rank": 56,
+    "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "devtools",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "the unarchiver",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "goo.gl",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   }
 ]
