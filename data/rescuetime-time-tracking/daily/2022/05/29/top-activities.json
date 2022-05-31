@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 11591,
+    "Time Spent (seconds)": 11595,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -9,6 +9,14 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 1205,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 553,
     "Number of People": 1,
     "Activity": "Gmail",
@@ -16,24 +24,16 @@
     "Productivity": 1
   },
   {
-    "Rank": 3,
-    "Time Spent (seconds)": 377,
+    "Rank": 4,
+    "Time Spent (seconds)": 524,
     "Number of People": 1,
-    "Activity": "splice.com",
-    "Category": "Audio Editing",
+    "Activity": "Google Forms",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
-    "Rank": 4,
-    "Time Spent (seconds)": 331,
-    "Number of People": 1,
-    "Activity": "spitfire audio",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 5,
-    "Time Spent (seconds)": 265,
+    "Time Spent (seconds)": 419,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
@@ -41,14 +41,38 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 230,
+    "Time Spent (seconds)": 377,
+    "Number of People": 1,
+    "Activity": "splice.com",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 363,
+    "Number of People": 1,
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 336,
+    "Number of People": 1,
+    "Activity": "spitfire audio",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 269,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 7,
+    "Rank": 10,
     "Time Spent (seconds)": 221,
     "Number of People": 1,
     "Activity": "labs.spitfireaudio.com",
@@ -56,7 +80,31 @@
     "Productivity": 0
   },
   {
-    "Rank": 8,
+    "Rank": 11,
+    "Time Spent (seconds)": 188,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 142,
+    "Number of People": 1,
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 133,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 14,
     "Time Spent (seconds)": 94,
     "Number of People": 1,
     "Activity": "spitfireaudio.com",
@@ -64,15 +112,39 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
-    "Time Spent (seconds)": 67,
+    "Rank": 15,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Activity": "ads.google.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 69,
     "Number of People": 1,
     "Activity": "quicktime player",
     "Category": "General Entertainment",
     "Productivity": 0
   },
   {
-    "Rank": 10,
+    "Rank": 17,
+    "Time Spent (seconds)": 59,
+    "Number of People": 1,
+    "Activity": "sublime text",
+    "Category": "Editing & IDEs",
+    "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 43,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 41,
     "Number of People": 1,
     "Activity": "reveal-sound.com",
@@ -80,7 +152,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 20,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 21,
     "Time Spent (seconds)": 27,
     "Number of People": 1,
     "Activity": "splice",
@@ -88,7 +168,15 @@
     "Productivity": 2
   },
   {
-    "Rank": 12,
+    "Rank": 22,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 23,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "xln cloud sync",
@@ -96,31 +184,47 @@
     "Productivity": 0
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 18,
+    "Rank": 24,
+    "Time Spent (seconds)": 15,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
-    "Rank": 14,
-    "Time Spent (seconds)": 14,
+    "Rank": 25,
+    "Time Spent (seconds)": 13,
     "Number of People": 1,
-    "Activity": "sublime text",
-    "Category": "Editing & IDEs",
+    "Activity": "System Preferences",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "epochconverter.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 15,
-    "Time Spent (seconds)": 13,
+    "Rank": 27,
+    "Time Spent (seconds)": 9,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
-    "Rank": 16,
+    "Rank": 28,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 29,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "SecurityAgent",
@@ -128,51 +232,51 @@
     "Productivity": 2
   },
   {
-    "Rank": 17,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 18,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "System Preferences",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 19,
-    "Time Spent (seconds)": 2,
+    "Rank": 30,
+    "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "settings",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 20,
-    "Time Spent (seconds)": 2,
+    "Rank": 31,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "thepatchbay.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 21,
+    "Rank": 33,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "week-number.net",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "spiremusic.net",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 22,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
   }
 ]
