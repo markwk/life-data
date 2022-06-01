@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 551,
+    "Number of People": 1,
+    "Activity": "bookings.canalpals.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 192,
+    "Number of People": 1,
+    "Activity": "dashboard.stripe.com",
+    "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 170,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 137,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 72,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 24,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 21,
+    "Number of People": 1,
+    "Activity": "canalpals.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "contacts",
+    "Category": "Customer Relations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "marmonutility.wpcomstaging.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
+  }
+]

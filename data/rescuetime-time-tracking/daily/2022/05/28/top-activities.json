@@ -139,17 +139,17 @@
     "Rank": 18,
     "Time Spent (seconds)": 211,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
-    "Productivity": 2
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 19,
     "Time Spent (seconds)": 211,
     "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
   },
   {
     "Rank": 20,
@@ -251,17 +251,17 @@
     "Rank": 32,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
-    "Activity": "cf-migtest2.int3c.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "spitfireaudio.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 33,
     "Time Spent (seconds)": 42,
     "Number of People": 1,
-    "Activity": "spitfireaudio.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "cf-migtest2.int3c.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 34,
@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "bernii.github.io",
+    "Activity": "marmonutility.wpcomstaging.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -291,7 +291,7 @@
     "Rank": 37,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "marmonutility.wpcomstaging.com",
+    "Activity": "bernii.github.io",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -403,20 +403,28 @@
     "Rank": 51,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 52,
-    "Time Spent (seconds)": 3,
-    "Number of People": 1,
     "Activity": "drushcommands.com",
     "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
+    "Rank": 52,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 53,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "SecurityAgent",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 54,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "devtools",
@@ -424,20 +432,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 54,
+    "Rank": 55,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
     "Activity": "coreservicesuiagent",
     "Category": "General Utilities",
     "Productivity": 1
-  },
-  {
-    "Rank": 55,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
-    "Activity": "SecurityAgent",
-    "Category": "Systems Operations",
-    "Productivity": 2
   },
   {
     "Rank": 56,
