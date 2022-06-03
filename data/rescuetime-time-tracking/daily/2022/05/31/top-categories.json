@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 572,
+    "Time Spent (seconds)": 610,
     "Number of People": 1,
     "Category": "Marketing"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 192,
+    "Time Spent (seconds)": 193,
     "Number of People": 1,
     "Category": "Accounting"
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 170,
+    "Time Spent (seconds)": 174,
     "Number of People": 1,
     "Category": "Calendars"
   },
@@ -31,38 +31,62 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 31,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Category": "Writing"
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
-    "Rank": 7,
-    "Time Spent (seconds)": 29,
+    "Rank": 8,
+    "Time Spent (seconds)": 35,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 9,
+    "Rank": 9,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Category": "General Software Development"
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Category": "Email"
   },
   {
-    "Rank": 9,
+    "Rank": 12,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Category": "General Utilities"
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Category": "Customer Relations"
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 6,
+    "Rank": 14,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "General Business"
   },
   {
-    "Rank": 11,
-    "Time Spent (seconds)": 3,
+    "Rank": 15,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Category": "General Software Development"
+    "Category": "General Design & Composition"
   }
 ]
