@@ -256,13 +256,19 @@
   "6": {
     "Instant Message": 188,
     "Sales": 69,
-    "Browsers": 65,
+    "Browsers": 82,
     "Writing": 23,
-    "Project Management": 14,
+    "Project Management": 28,
     "Marketing": 8,
-    "General Utilities": 6,
+    "General Utilities": 169,
     "General Software Development": 4,
-    "Calendars": 1
+    "Calendars": 1,
+    "Audio Editing": 4323,
+    "General Entertainment": 263,
+    "Intelligence": 45,
+    "Uncategorized": 12,
+    "Video": 31,
+    "Search": 7
   },
   "7": {},
   "8": {},
