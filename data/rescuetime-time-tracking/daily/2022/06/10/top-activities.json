@@ -1,1 +1,458 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1983,
+    "Number of People": 1,
+    "Activity": "figma.com",
+    "Category": "General Design & Composition",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1938,
+    "Number of People": 1,
+    "Activity": "meet.google.com",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1577,
+    "Number of People": 1,
+    "Activity": "cf.int3c.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1300,
+    "Number of People": 1,
+    "Activity": "o2l8nzfpy4h.ny12.us.aegir.cc",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1283,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 1259,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 1120,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 813,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 748,
+    "Number of People": 1,
+    "Activity": "Zoom",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 515,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 295,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 279,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 274,
+    "Number of People": 1,
+    "Activity": "int3c.teamwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 247,
+    "Number of People": 1,
+    "Activity": "app.pageproofer.com",
+    "Category": "Quality Assurance",
+    "Productivity": 2
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 247,
+    "Number of People": 1,
+    "Activity": "cf-dev.dev.int3c.com",
+    "Category": "Uncategorized",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 246,
+    "Number of People": 1,
+    "Activity": "agendaflect.datadrivenyou.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 232,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 218,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 207,
+    "Number of People": 1,
+    "Activity": "cyberduck",
+    "Category": "Internet Utilities",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 187,
+    "Number of People": 1,
+    "Activity": "tracker.myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 167,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 158,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 135,
+    "Number of People": 1,
+    "Activity": "marmonutility.wpcomstaging.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 134,
+    "Number of People": 1,
+    "Activity": "cf.o2l8nzfpy4h.ny12.us.aegir.cc",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 99,
+    "Number of People": 1,
+    "Activity": "learn.omega8.cc",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 95,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 87,
+    "Number of People": 1,
+    "Activity": "bitbucket.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 56,
+    "Number of People": 1,
+    "Activity": "docs.aegirproject.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 51,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 50,
+    "Number of People": 1,
+    "Activity": "community.aegirproject.org",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 44,
+    "Number of People": 1,
+    "Activity": "admin.gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 43,
+    "Number of People": 1,
+    "Activity": "support.atlassian.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 37,
+    "Number of People": 1,
+    "Activity": "tracker-dev.myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "v4616118864.ny11.us.aegir.cc",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 31,
+    "Number of People": 1,
+    "Activity": "digitalocean.com",
+    "Category": "Systems Operations",
+    "Productivity": 2
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 27,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 19,
+    "Number of People": 1,
+    "Activity": "linuxize.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 18,
+    "Number of People": 1,
+    "Activity": "educative.io",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 15,
+    "Number of People": 1,
+    "Activity": "myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "gitter.im",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "atlassian.net",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
+    "Activity": "cf-dev.int3c.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "id.atlassian.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 9,
+    "Number of People": 1,
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 8,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "id.gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "tidepool.org",
+    "Category": "Health & Medicine",
+    "Productivity": 1
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "gandi.net",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 3,
+    "Number of People": 1,
+    "Activity": "splice",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  }
+]

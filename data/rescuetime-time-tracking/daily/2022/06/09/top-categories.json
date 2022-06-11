@@ -1,13 +1,13 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 8606,
+    "Time Spent (seconds)": 9538,
     "Number of People": 1,
     "Category": "General Software Development"
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2703,
+    "Time Spent (seconds)": 3075,
     "Number of People": 1,
     "Category": "Project Management"
   },
@@ -19,31 +19,31 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 2354,
-    "Number of People": 1,
-    "Category": "General Business"
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 2222,
+    "Time Spent (seconds)": 2651,
     "Number of People": 1,
     "Category": "Email"
   },
   {
+    "Rank": 5,
+    "Time Spent (seconds)": 2377,
+    "Number of People": 1,
+    "Category": "General Business"
+  },
+  {
     "Rank": 6,
-    "Time Spent (seconds)": 930,
+    "Time Spent (seconds)": 931,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 811,
+    "Time Spent (seconds)": 819,
     "Number of People": 1,
     "Category": "Meetings"
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 797,
+    "Time Spent (seconds)": 809,
     "Number of People": 1,
     "Category": "Instant Message"
   },
@@ -55,25 +55,25 @@
   },
   {
     "Rank": 10,
-    "Time Spent (seconds)": 493,
+    "Time Spent (seconds)": 497,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
     "Rank": 11,
-    "Time Spent (seconds)": 365,
+    "Time Spent (seconds)": 374,
     "Number of People": 1,
     "Category": "General Utilities"
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 317,
+    "Time Spent (seconds)": 356,
     "Number of People": 1,
     "Category": "Browsers"
   },
   {
     "Rank": 13,
-    "Time Spent (seconds)": 281,
+    "Time Spent (seconds)": 346,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -85,15 +85,15 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 205,
+    "Time Spent (seconds)": 257,
     "Number of People": 1,
-    "Category": "Sales"
+    "Category": "Intelligence"
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 200,
+    "Time Spent (seconds)": 205,
     "Number of People": 1,
-    "Category": "Intelligence"
+    "Category": "Sales"
   },
   {
     "Rank": 17,
