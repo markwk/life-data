@@ -419,25 +419,25 @@
     "Rank": 53,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
-    "Productivity": 1
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 16,
-    "Number of People": 1,
     "Activity": "upwork-usw2-prod-file-storage-wp2.s3.us-west-2.amazonaws.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 55,
+    "Rank": 54,
     "Time Spent (seconds)": 16,
     "Number of People": 1,
     "Activity": "cf-dev.int3c.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   },
   {
     "Rank": 56,
@@ -459,25 +459,25 @@
     "Rank": 58,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 59,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
     "Activity": "accounts.google.com",
     "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
-    "Rank": 60,
+    "Rank": 59,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "theatlantic.com",
     "Category": "General News & Opinion",
     "Productivity": -2
+  },
+  {
+    "Rank": 60,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "upwork-usw2-prod-file-storage-wp3.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 61,
@@ -515,17 +515,17 @@
     "Rank": 65,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Google Docs",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 66,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "Google Docs",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 67,
@@ -555,24 +555,24 @@
     "Rank": 70,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "s3.amazonaws.com",
-    "Category": "Internet Utilities",
-    "Productivity": 1
+    "Activity": "admin.google.com",
+    "Category": "Administration",
+    "Productivity": 2
   },
   {
     "Rank": 71,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "ai-la.slack.com",
-    "Category": "Instant Message",
-    "Productivity": -1
+    "Activity": "s3.amazonaws.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 72,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "admin.google.com",
-    "Category": "Administration",
-    "Productivity": 2
+    "Activity": "ai-la.slack.com",
+    "Category": "Instant Message",
+    "Productivity": -1
   }
 ]

@@ -115,16 +115,16 @@
     "Rank": 15,
     "Time Spent (seconds)": 247,
     "Number of People": 1,
-    "Activity": "app.pageproofer.com",
-    "Category": "Quality Assurance",
+    "Activity": "cf-dev.dev.int3c.com",
+    "Category": "Uncategorized",
     "Productivity": 2
   },
   {
     "Rank": 16,
     "Time Spent (seconds)": 247,
     "Number of People": 1,
-    "Activity": "cf-dev.dev.int3c.com",
-    "Category": "Uncategorized",
+    "Activity": "app.pageproofer.com",
+    "Category": "Quality Assurance",
     "Productivity": 2
   },
   {
@@ -275,7 +275,7 @@
     "Rank": 35,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
-    "Activity": "Github",
+    "Activity": "v4616118864.ny11.us.aegir.cc",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 33,
     "Number of People": 1,
-    "Activity": "v4616118864.ny11.us.aegir.cc",
+    "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -339,12 +339,20 @@
     "Rank": 43,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
+    "Activity": "atlassian.net",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 13,
+    "Number of People": 1,
     "Activity": "cf-dev.int3c.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 44,
+    "Rank": 45,
     "Time Spent (seconds)": 13,
     "Number of People": 1,
     "Activity": "gitter.im",
@@ -352,18 +360,10 @@
     "Productivity": -1
   },
   {
-    "Rank": 45,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Activity": "atlassian.net",
-    "Category": "General Business",
-    "Productivity": 2
-  },
-  {
     "Rank": 46,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "devtools",
+    "Activity": "id.atlassian.com",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -371,7 +371,7 @@
     "Rank": 47,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "id.atlassian.com",
+    "Activity": "devtools",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -419,16 +419,16 @@
     "Rank": 53,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "gandi.net",
-    "Category": "General Utilities",
+    "Activity": "Zoom website",
+    "Category": "Meetings",
     "Productivity": 1
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "Zoom website",
-    "Category": "Meetings",
+    "Activity": "gandi.net",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {

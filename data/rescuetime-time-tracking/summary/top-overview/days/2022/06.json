@@ -81,8 +81,27 @@
     "Reference & Learning": 361,
     "Entertainment": 241
   },
-  "11": {},
-  "12": {},
+  "11": {
+    "Design & Composition": 4217,
+    "Entertainment": 1170,
+    "Utilities": 396,
+    "Shopping": 135,
+    "Reference & Learning": 96,
+    "Business": 15,
+    "Uncategorized": 11
+  },
+  "12": {
+    "Entertainment": 1263,
+    "Software Development": 1183,
+    "Communication & Scheduling": 955,
+    "Design & Composition": 925,
+    "Uncategorized": 646,
+    "Business": 574,
+    "Utilities": 408,
+    "Reference & Learning": 194,
+    "News & Opinion": 44,
+    "Shopping": 27
+  },
   "13": {},
   "14": {},
   "15": {},
