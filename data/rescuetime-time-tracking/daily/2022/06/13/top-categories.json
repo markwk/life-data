@@ -7,7 +7,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 3464,
+    "Time Spent (seconds)": 3470,
     "Number of People": 1,
     "Category": "Meetings"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 2246,
+    "Time Spent (seconds)": 2258,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -43,13 +43,13 @@
   },
   {
     "Rank": 8,
-    "Time Spent (seconds)": 985,
+    "Time Spent (seconds)": 988,
     "Number of People": 1,
     "Category": "Writing"
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 860,
+    "Time Spent (seconds)": 889,
     "Number of People": 1,
     "Category": "Email"
   },
@@ -85,21 +85,21 @@
   },
   {
     "Rank": 15,
+    "Time Spent (seconds)": 332,
+    "Number of People": 1,
+    "Category": "Intelligence"
+  },
+  {
+    "Rank": 16,
     "Time Spent (seconds)": 315,
     "Number of People": 1,
     "Category": "Editing & IDEs"
   },
   {
-    "Rank": 16,
+    "Rank": 17,
     "Time Spent (seconds)": 219,
     "Number of People": 1,
     "Category": "Professional Networking"
-  },
-  {
-    "Rank": 17,
-    "Time Spent (seconds)": 215,
-    "Number of People": 1,
-    "Category": "Intelligence"
   },
   {
     "Rank": 18,

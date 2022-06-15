@@ -1,7 +1,5 @@
-[
-  {
-    "summary_date": "2022-06-12",
-    "period_id": 0,
+{
+  "2022-06-12": {
     "score": 79,
     "score_activity_balance": 95,
     "score_hrv_balance": 71,
@@ -10,7 +8,12 @@
     "score_recovery_index": 43,
     "score_resting_hr": 100,
     "score_sleep_balance": 74,
-    "score_temperature": 94,
-    "rest_mode_state": 0
-  }
-]
+    "score_temperature": 94
+  },
+  "2022-06-13": {},
+  "2022-06-14": {},
+  "2022-06-15": {},
+  "2022-06-16": {},
+  "2022-06-17": {},
+  "2022-06-18": {}
+}
