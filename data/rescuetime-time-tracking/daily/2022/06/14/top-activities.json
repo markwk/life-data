@@ -339,17 +339,17 @@
     "Rank": 43,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "eiriksm.dev",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "mandrillapp.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 44,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "mandrillapp.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "eiriksm.dev",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 45,
@@ -395,32 +395,32 @@
     "Rank": 50,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "googleoptimize.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "us1.admin.mailchimp.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 51,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "google-analytics.com",
-    "Category": "General Software Development",
+    "Activity": "toggl.com",
+    "Category": "Intelligence",
     "Productivity": 2
   },
   {
     "Rank": 52,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "us1.admin.mailchimp.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "googleoptimize.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 53,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "toggl.com",
-    "Category": "Intelligence",
+    "Activity": "google-analytics.com",
+    "Category": "General Software Development",
     "Productivity": 2
   }
 ]
