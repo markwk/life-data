@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 2117,
+    "Time Spent (seconds)": 2153,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -17,6 +17,14 @@
   },
   {
     "Rank": 3,
+    "Time Spent (seconds)": 162,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 4,
     "Time Spent (seconds)": 22,
     "Number of People": 1,
     "Activity": "messages",
@@ -24,7 +32,7 @@
     "Productivity": -1
   },
   {
-    "Rank": 4,
+    "Rank": 5,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "xln cloud sync",
@@ -32,7 +40,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 5,
+    "Rank": 6,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 7,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
     "Activity": "facetime",
@@ -40,24 +56,8 @@
     "Productivity": 1
   },
   {
-    "Rank": 6,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
     "Rank": 8,
-    "Time Spent (seconds)": 4,
+    "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "todoist",
     "Category": "Project Management",

@@ -160,13 +160,23 @@
   },
   "18": {
     "Entertainment": 5962,
-    "Design & Composition": 2117,
+    "Design & Composition": 2153,
+    "Utilities": 178,
     "Communication & Scheduling": 36,
     "Uncategorized": 20,
-    "Utilities": 11,
-    "Business": 4
+    "Business": 10
   },
-  "19": {},
+  "19": {
+    "Design & Composition": 2416,
+    "Entertainment": 1312,
+    "Communication & Scheduling": 638,
+    "Business": 486,
+    "Utilities": 442,
+    "Reference & Learning": 292,
+    "Shopping": 183,
+    "Uncategorized": 65,
+    "Software Development": 9
+  },
   "20": {},
   "21": {},
   "22": {},
