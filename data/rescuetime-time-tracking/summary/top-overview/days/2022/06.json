@@ -190,7 +190,18 @@
     "Uncategorized": 65,
     "News & Opinion": 22
   },
-  "21": {},
+  "21": {
+    "Software Development": 4695,
+    "Communication & Scheduling": 1888,
+    "Business": 1827,
+    "Design & Composition": 1534,
+    "Utilities": 934,
+    "News & Opinion": 787,
+    "Entertainment": 448,
+    "Reference & Learning": 306,
+    "Uncategorized": 221,
+    "Social Networking": 128
+  },
   "22": {},
   "23": {},
   "24": {},
