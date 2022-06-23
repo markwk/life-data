@@ -83,17 +83,17 @@
     "Rank": 11,
     "Time Spent (seconds)": 278,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
   },
   {
     "Rank": 12,
     "Time Spent (seconds)": 278,
     "Number of People": 1,
-    "Activity": "Gmail",
-    "Category": "Email",
-    "Productivity": 1
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
   },
   {
     "Rank": 13,

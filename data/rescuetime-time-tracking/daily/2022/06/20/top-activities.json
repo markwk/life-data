@@ -235,17 +235,17 @@
     "Rank": 30,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "google.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 31,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 32,
@@ -283,17 +283,17 @@
     "Rank": 36,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "history",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
     "Rank": 37,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
+    "Activity": "history",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 38,
@@ -379,20 +379,12 @@
     "Rank": 48,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "a.co",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 49,
-    "Time Spent (seconds)": 1,
-    "Number of People": 1,
-    "Activity": "typora",
-    "Category": "Writing",
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
     "Productivity": 2
   },
   {
-    "Rank": 50,
+    "Rank": 49,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "rescuetime.com",
@@ -400,11 +392,19 @@
     "Productivity": 2
   },
   {
+    "Rank": 50,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "a.co",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
     "Rank": 51,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   }
 ]
