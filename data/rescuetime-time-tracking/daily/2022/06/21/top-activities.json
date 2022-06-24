@@ -147,17 +147,17 @@
     "Rank": 19,
     "Time Spent (seconds)": 292,
     "Number of People": 1,
-    "Activity": "google chrome",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 20,
     "Time Spent (seconds)": 292,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 21,
@@ -195,17 +195,17 @@
     "Rank": 25,
     "Time Spent (seconds)": 168,
     "Number of People": 1,
-    "Activity": "bleacherreport.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "marmonutility.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 168,
     "Number of People": 1,
-    "Activity": "marmonutility.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "bleacherreport.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 27,
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "valhalladsp.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "medium.com",
+    "Category": "Writing",
+    "Productivity": 2
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 85,
     "Number of People": 1,
-    "Activity": "medium.com",
-    "Category": "Writing",
-    "Productivity": 2
+    "Activity": "valhalladsp.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 41,
@@ -419,25 +419,25 @@
     "Rank": 53,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
     "Activity": "docs.platform.sh",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 55,
+    "Rank": 54,
     "Time Spent (seconds)": 25,
     "Number of People": 1,
     "Activity": "theverge.com",
     "Category": "Science & Technology",
     "Productivity": -1
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 56,
