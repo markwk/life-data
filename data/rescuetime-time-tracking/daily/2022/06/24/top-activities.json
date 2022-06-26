@@ -1,19 +1,19 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3405,
-    "Number of People": 1,
-    "Activity": "sonic pi",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 2,
-    "Time Spent (seconds)": 2771,
+    "Time Spent (seconds)": 5851,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
     "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 4079,
+    "Number of People": 1,
+    "Activity": "sonic pi",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 3,
@@ -25,7 +25,7 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 1844,
+    "Time Spent (seconds)": 2111,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -105,19 +105,19 @@
   },
   {
     "Rank": 14,
+    "Time Spent (seconds)": 209,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 201,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
-  },
-  {
-    "Rank": 15,
-    "Time Spent (seconds)": 195,
-    "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
   },
   {
     "Rank": 16,
@@ -185,6 +185,14 @@
   },
   {
     "Rank": 24,
+    "Time Spent (seconds)": 114,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 25,
     "Time Spent (seconds)": 112,
     "Number of People": 1,
     "Activity": "in-thread.sonic-pi.net",
@@ -192,7 +200,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 25,
+    "Rank": 26,
+    "Time Spent (seconds)": 103,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 27,
     "Time Spent (seconds)": 101,
     "Number of People": 1,
     "Activity": "bookings.canalpals.com",
@@ -200,7 +216,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 26,
+    "Rank": 28,
     "Time Spent (seconds)": 93,
     "Number of People": 1,
     "Activity": "optimize.google.com",
@@ -208,7 +224,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 27,
+    "Rank": 29,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
     "Activity": "Preview",
@@ -216,15 +232,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 28,
-    "Time Spent (seconds)": 70,
-    "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 29,
+    "Rank": 30,
     "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Activity": "dashboard.stripe.com",
@@ -232,7 +240,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 30,
+    "Rank": 31,
     "Time Spent (seconds)": 64,
     "Number of People": 1,
     "Activity": "supplier.viator.com",
@@ -240,7 +248,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 31,
+    "Rank": 32,
     "Time Spent (seconds)": 61,
     "Number of People": 1,
     "Activity": "news.google.com",
@@ -248,7 +256,7 @@
     "Productivity": -2
   },
   {
-    "Rank": 32,
+    "Rank": 33,
     "Time Spent (seconds)": 57,
     "Number of People": 1,
     "Activity": "rescuetime.com",
@@ -256,7 +264,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 33,
+    "Rank": 34,
     "Time Spent (seconds)": 49,
     "Number of People": 1,
     "Activity": "youtube.com",
@@ -264,7 +272,15 @@
     "Productivity": -2
   },
   {
-    "Rank": 34,
+    "Rank": 35,
+    "Time Spent (seconds)": 47,
+    "Number of People": 1,
+    "Activity": "splice",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 36,
     "Time Spent (seconds)": 38,
     "Number of People": 1,
     "Activity": "devtools",
@@ -272,7 +288,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 35,
+    "Rank": 37,
     "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Activity": "tracker.myagingtests.com",
@@ -280,7 +296,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 36,
+    "Rank": 38,
     "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "int3c.teamwork.com",
@@ -288,7 +304,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 37,
+    "Rank": 39,
     "Time Spent (seconds)": 20,
     "Number of People": 1,
     "Activity": "iWork Numbers",
@@ -296,7 +312,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 38,
+    "Rank": 40,
     "Time Spent (seconds)": 18,
     "Number of People": 1,
     "Activity": "researchgate.net",
@@ -304,7 +320,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 39,
+    "Rank": 41,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "sourcefoundry.org",
@@ -312,7 +328,7 @@
     "Productivity": 0
   },
   {
-    "Rank": 40,
+    "Rank": 42,
     "Time Spent (seconds)": 9,
     "Number of People": 1,
     "Activity": "overtone.github.io",
@@ -320,7 +336,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 41,
+    "Rank": 43,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
     "Activity": "system information",
@@ -328,7 +344,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 42,
+    "Rank": 44,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "accounts.google.com",
@@ -336,7 +352,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 43,
+    "Rank": 45,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "dropbox.com",
@@ -344,7 +360,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 44,
+    "Rank": 46,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -352,15 +368,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 45,
-    "Time Spent (seconds)": 5,
-    "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 46,
+    "Rank": 47,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
     "Activity": "labs.tadigital.com",
@@ -368,7 +376,15 @@
     "Productivity": 0
   },
   {
-    "Rank": 47,
+    "Rank": 48,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 49,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
     "Activity": "gist.github.com",

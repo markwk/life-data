@@ -1,21 +1,21 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 5272,
+    "Time Spent (seconds)": 6117,
+    "Number of People": 1,
+    "Category": "Design & Composition"
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 5946,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 2,
+    "Rank": 3,
     "Time Spent (seconds)": 3031,
     "Number of People": 1,
     "Category": "Business"
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 2887,
-    "Number of People": 1,
-    "Category": "Design & Composition"
   },
   {
     "Rank": 4,
@@ -31,13 +31,13 @@
   },
   {
     "Rank": 6,
-    "Time Spent (seconds)": 1893,
+    "Time Spent (seconds)": 2160,
     "Number of People": 1,
     "Category": "Entertainment"
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 633,
+    "Time Spent (seconds)": 691,
     "Number of People": 1,
     "Category": "Utilities"
   },
