@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 3420,
+    "Time Spent (seconds)": 6335,
     "Number of People": 1,
     "Activity": "sonic pi",
     "Category": "Uncategorized",
@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1512,
+    "Time Spent (seconds)": 1526,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -17,7 +17,7 @@
   },
   {
     "Rank": 3,
-    "Time Spent (seconds)": 368,
+    "Time Spent (seconds)": 821,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -25,22 +25,94 @@
   },
   {
     "Rank": 4,
-    "Time Spent (seconds)": 24,
+    "Time Spent (seconds)": 240,
+    "Number of People": 1,
+    "Activity": "gist.github.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 188,
+    "Number of People": 1,
+    "Activity": "ethanhein.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 155,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 125,
+    "Number of People": 1,
+    "Activity": "apps.musedlab.org",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 95,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 54,
     "Number of People": 1,
     "Activity": "toggldesktop",
     "Category": "Intelligence",
     "Productivity": 2
   },
   {
-    "Rank": 5,
-    "Time Spent (seconds)": 15,
+    "Rank": 10,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "soundcloud.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "ethanhein.bandcamp.com",
+    "Category": "Music",
+    "Productivity": -2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 34,
+    "Number of People": 1,
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 30,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 6,
+    "Rank": 14,
+    "Time Spent (seconds)": 17,
+    "Number of People": 1,
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
+  },
+  {
+    "Rank": 15,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "messages",
@@ -48,11 +120,43 @@
     "Productivity": -1
   },
   {
-    "Rank": 7,
+    "Rank": 16,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "history",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 17,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
     "Productivity": 2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
+    "Activity": "gist.githubusercontent.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 2,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   }
 ]

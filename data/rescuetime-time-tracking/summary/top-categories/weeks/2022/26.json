@@ -161,11 +161,19 @@
     "File Sharing": 7
   },
   "2022-06-25": {
-    "Uncategorized": 3420,
-    "General Entertainment": 1512,
-    "Audio Editing": 368,
-    "Intelligence": 34,
-    "General Utilities": 15,
+    "Uncategorized": 6648,
+    "General Entertainment": 1526,
+    "Audio Editing": 821,
+    "General Software Development": 247,
+    "Project Management": 155,
+    "General Reference & Learning": 97,
+    "Intelligence": 64,
+    "Internet Utilities": 52,
+    "Music": 34,
+    "General Business": 34,
+    "General Utilities": 30,
+    "Browsers": 18,
+    "Video": 17,
     "Instant Message": 12
   }
 }
