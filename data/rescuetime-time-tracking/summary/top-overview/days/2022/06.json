@@ -258,7 +258,18 @@
     "Business": 76,
     "Reference & Learning": 52
   },
-  "27": {},
+  "27": {
+    "Design & Composition": 7383,
+    "Software Development": 4985,
+    "Communication & Scheduling": 2758,
+    "Business": 2105,
+    "Utilities": 1845,
+    "Entertainment": 533,
+    "Uncategorized": 247,
+    "Reference & Learning": 193,
+    "Shopping": 39,
+    "News & Opinion": 20
+  },
   "28": {},
   "29": {}
 }
