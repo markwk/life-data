@@ -10,17 +10,28 @@
     "Reference & Learning": 52
   },
   "2022-06-27": {
-    "Design & Composition": 7383,
+    "Design & Composition": 7475,
     "Software Development": 4985,
-    "Communication & Scheduling": 2758,
-    "Business": 2105,
-    "Utilities": 1845,
+    "Business": 3632,
+    "Communication & Scheduling": 3249,
+    "Utilities": 2022,
     "Entertainment": 533,
+    "Reference & Learning": 252,
     "Uncategorized": 247,
-    "Reference & Learning": 193,
     "Shopping": 39,
     "News & Opinion": 20
   },
-  "2022-06-28": {},
+  "2022-06-28": {
+    "Business": 5403,
+    "Communication & Scheduling": 4886,
+    "Design & Composition": 4056,
+    "Software Development": 3215,
+    "Utilities": 699,
+    "News & Opinion": 669,
+    "Uncategorized": 576,
+    "Shopping": 158,
+    "Entertainment": 148,
+    "Reference & Learning": 104
+  },
   "2022-06-29": {}
 }
