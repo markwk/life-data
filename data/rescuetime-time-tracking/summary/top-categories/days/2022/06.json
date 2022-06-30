@@ -613,5 +613,32 @@
     "Calendars": 28,
     "Voice Chat": 3
   },
-  "29": {}
+  "29": {
+    "General Software Development": 3777,
+    "General Business": 3187,
+    "Audio Editing": 2409,
+    "Project Management": 1791,
+    "Email": 1740,
+    "Editing & IDEs": 1083,
+    "Writing": 1016,
+    "General Design & Composition": 1009,
+    "General Entertainment": 789,
+    "General Utilities": 585,
+    "Calendars": 573,
+    "Instant Message": 555,
+    "Uncategorized": 284,
+    "Intelligence": 280,
+    "Browsers": 242,
+    "General News & Opinion": 169,
+    "Quality Assurance": 120,
+    "General Reference & Learning": 104,
+    "Engineering & Technology": 81,
+    "Search": 58,
+    "Sports": 34,
+    "Presentation": 26,
+    "Voice Chat": 22,
+    "File Sharing": 9,
+    "General Communication & Scheduling": 3,
+    "Maps & Regional": 2
+  }
 }

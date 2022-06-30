@@ -282,5 +282,15 @@
     "Entertainment": 148,
     "Reference & Learning": 104
   },
-  "29": {}
+  "29": {
+    "Business": 5258,
+    "Software Development": 4980,
+    "Design & Composition": 4460,
+    "Communication & Scheduling": 2893,
+    "Utilities": 836,
+    "Entertainment": 789,
+    "Uncategorized": 284,
+    "Reference & Learning": 245,
+    "News & Opinion": 203
+  }
 }
