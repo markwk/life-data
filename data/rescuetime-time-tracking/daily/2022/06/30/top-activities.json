@@ -179,33 +179,33 @@
     "Rank": 23,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "deseret.com",
-    "Category": "Uncategorized",
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
     "Productivity": 0
   },
   {
     "Rank": 24,
     "Time Spent (seconds)": 107,
     "Number of People": 1,
-    "Activity": "linkedin.com",
-    "Category": "Professional Networking",
+    "Activity": "deseret.com",
+    "Category": "Uncategorized",
     "Productivity": 0
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 87,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "optimize.google.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 26,
     "Time Spent (seconds)": 87,
     "Number of People": 1,
-    "Activity": "optimize.google.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 27,
@@ -355,16 +355,16 @@
     "Rank": 45,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
     "Productivity": 1
   },
   {
     "Rank": 46,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
@@ -419,17 +419,17 @@
     "Rank": 53,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp1.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "tracker-dev.myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 54,
     "Time Spent (seconds)": 5,
     "Number of People": 1,
-    "Activity": "tracker-dev.myagingtests.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "upwork-usw2-prod-file-storage-wp1.s3.us-west-2.amazonaws.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 55,
@@ -443,16 +443,16 @@
     "Rank": 56,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "rescuetime.com",
-    "Category": "Intelligence",
+    "Activity": "play.google.com",
+    "Category": "Systems Operations",
     "Productivity": 2
   },
   {
     "Rank": 57,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "play.google.com",
-    "Category": "Systems Operations",
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
     "Productivity": 2
   }
 ]
