@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 289,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  }
+]

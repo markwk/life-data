@@ -26,7 +26,7 @@
   },
   "2": {
     "Audio Editing": 1935,
-    "General Entertainment": 1625,
+    "General Entertainment": 1869,
     "Writing": 1003,
     "General Utilities": 832,
     "Email": 517,
@@ -49,7 +49,10 @@
     "Professional Networking": 9,
     "Meetings": 2
   },
-  "3": {},
+  "3": {
+    "General Entertainment": 289,
+    "General Software Development": 10
+  },
   "4": {},
   "5": {},
   "6": {},

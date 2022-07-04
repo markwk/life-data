@@ -9,7 +9,7 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 1292,
+    "Time Spent (seconds)": 1536,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -299,16 +299,16 @@
     "Rank": 38,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "coreservicesuiagent",
-    "Category": "General Utilities",
+    "Activity": "marketplace.zoom.us",
+    "Category": "Meetings",
     "Productivity": 1
   },
   {
     "Rank": 39,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "marketplace.zoom.us",
-    "Category": "Meetings",
+    "Activity": "coreservicesuiagent",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {

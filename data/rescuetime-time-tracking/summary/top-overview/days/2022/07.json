@@ -10,7 +10,7 @@
   },
   "2": {
     "Design & Composition": 3042,
-    "Entertainment": 1625,
+    "Entertainment": 1869,
     "Communication & Scheduling": 962,
     "Utilities": 869,
     "Business": 330,
@@ -20,7 +20,10 @@
     "Shopping": 51,
     "Social Networking": 9
   },
-  "3": {},
+  "3": {
+    "Entertainment": 289,
+    "Software Development": 10
+  },
   "4": {},
   "5": {},
   "6": {},
