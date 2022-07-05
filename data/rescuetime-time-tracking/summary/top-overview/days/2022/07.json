@@ -21,10 +21,21 @@
     "Social Networking": 9
   },
   "3": {
-    "Entertainment": 289,
+    "Entertainment": 638,
     "Software Development": 10
   },
-  "4": {},
+  "4": {
+    "Entertainment": 7474,
+    "Business": 2398,
+    "Communication & Scheduling": 1290,
+    "Software Development": 1035,
+    "Design & Composition": 955,
+    "Utilities": 463,
+    "Reference & Learning": 172,
+    "News & Opinion": 121,
+    "Uncategorized": 105,
+    "Shopping": 22
+  },
   "5": {},
   "6": {},
   "7": {},

@@ -50,10 +50,31 @@
     "Meetings": 2
   },
   "3": {
-    "General Entertainment": 289,
+    "General Entertainment": 638,
     "General Software Development": 10
   },
-  "4": {},
+  "4": {
+    "General Entertainment": 7474,
+    "Project Management": 1930,
+    "Email": 1248,
+    "General Software Development": 1035,
+    "Audio Editing": 499,
+    "General Utilities": 376,
+    "Writing": 326,
+    "Intelligence": 215,
+    "General Business": 147,
+    "General Design & Composition": 130,
+    "General News & Opinion": 121,
+    "Marketing": 106,
+    "Uncategorized": 105,
+    "Search": 90,
+    "General Reference & Learning": 82,
+    "Browsers": 79,
+    "General Communication & Scheduling": 28,
+    "Electronics": 22,
+    "Calendars": 14,
+    "File Sharing": 8
+  },
   "5": {},
   "6": {},
   "7": {},
