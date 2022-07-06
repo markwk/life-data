@@ -4,7 +4,7 @@
     "Software Development": 10
   },
   "2022-07-4": {
-    "Entertainment": 7474,
+    "Entertainment": 8239,
     "Business": 2398,
     "Communication & Scheduling": 1290,
     "Software Development": 1035,
@@ -15,7 +15,17 @@
     "Uncategorized": 105,
     "Shopping": 22
   },
-  "2022-07-5": {},
+  "2022-07-5": {
+    "Communication & Scheduling": 4560,
+    "Social Networking": 1367,
+    "Software Development": 1144,
+    "Business": 1085,
+    "Design & Composition": 918,
+    "Reference & Learning": 746,
+    "News & Opinion": 227,
+    "Utilities": 215,
+    "Uncategorized": 74
+  },
   "2022-07-6": {},
   "2022-07-7": {},
   "2022-07-8": {},
