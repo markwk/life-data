@@ -171,16 +171,16 @@
     "Rank": 22,
     "Time Spent (seconds)": 84,
     "Number of People": 1,
-    "Activity": "todoist",
-    "Category": "Project Management",
+    "Activity": "markwk.com",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
     "Rank": 23,
     "Time Spent (seconds)": 84,
     "Number of People": 1,
-    "Activity": "markwk.com",
-    "Category": "Writing",
+    "Activity": "todoist",
+    "Category": "Project Management",
     "Productivity": 2
   },
   {
@@ -427,7 +427,7 @@
     "Rank": 54,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "jasper.ai",
+    "Activity": "upwork-usw2-prod-file-storage-wp2.s3.us-west-2.amazonaws.com",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -435,17 +435,17 @@
     "Rank": 55,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "stripe.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "jasper.ai",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 56,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "upwork-usw2-prod-file-storage-wp2.s3.us-west-2.amazonaws.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "stripe.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 57,
