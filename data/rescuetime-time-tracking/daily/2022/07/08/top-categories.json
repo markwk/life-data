@@ -25,21 +25,21 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 525,
+    "Time Spent (seconds)": 675,
+    "Number of People": 1,
+    "Category": "General Entertainment"
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 621,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 6,
+    "Rank": 7,
     "Time Spent (seconds)": 411,
     "Number of People": 1,
     "Category": "General News & Opinion"
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 375,
-    "Number of People": 1,
-    "Category": "General Entertainment"
   },
   {
     "Rank": 8,
@@ -49,7 +49,7 @@
   },
   {
     "Rank": 9,
-    "Time Spent (seconds)": 187,
+    "Time Spent (seconds)": 240,
     "Number of People": 1,
     "Category": "Search"
   },
@@ -67,27 +67,27 @@
   },
   {
     "Rank": 12,
+    "Time Spent (seconds)": 144,
+    "Number of People": 1,
+    "Category": "Browsers"
+  },
+  {
+    "Rank": 13,
     "Time Spent (seconds)": 143,
     "Number of People": 1,
     "Category": "Sports"
   },
   {
-    "Rank": 13,
-    "Time Spent (seconds)": 142,
-    "Number of People": 1,
-    "Category": "Browsers"
-  },
-  {
     "Rank": 14,
-    "Time Spent (seconds)": 124,
+    "Time Spent (seconds)": 131,
     "Number of People": 1,
-    "Category": "Writing"
+    "Category": "General Utilities"
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 117,
+    "Time Spent (seconds)": 124,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "Writing"
   },
   {
     "Rank": 16,
@@ -115,7 +115,7 @@
   },
   {
     "Rank": 20,
-    "Time Spent (seconds)": 28,
+    "Time Spent (seconds)": 29,
     "Number of People": 1,
     "Category": "Calendars"
   },
