@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 1840,
+    "Time Spent (seconds)": 1883,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
@@ -9,6 +9,14 @@
   },
   {
     "Rank": 2,
+    "Time Spent (seconds)": 1462,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 3,
     "Time Spent (seconds)": 375,
     "Number of People": 1,
     "Activity": "Github",
@@ -16,20 +24,12 @@
     "Productivity": 2
   },
   {
-    "Rank": 3,
+    "Rank": 4,
     "Time Spent (seconds)": 367,
     "Number of People": 1,
     "Activity": "calendly.com",
     "Category": "Calendars",
     "Productivity": 1
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 223,
-    "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
   },
   {
     "Rank": 5,
@@ -49,6 +49,14 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 163,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 154,
     "Number of People": 1,
     "Activity": "mmontag.github.io",
@@ -56,7 +64,7 @@
     "Productivity": 2
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 144,
     "Number of People": 1,
     "Activity": "sequencer64.com",
@@ -64,20 +72,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 140,
     "Number of People": 1,
     "Activity": "google.com",
     "Category": "Search",
     "Productivity": 0
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 138,
-    "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
-    "Productivity": 2
   },
   {
     "Rank": 11,
@@ -89,7 +89,7 @@
   },
   {
     "Rank": 12,
-    "Time Spent (seconds)": 115,
+    "Time Spent (seconds)": 117,
     "Number of People": 1,
     "Activity": "chordie.com",
     "Category": "Music",
@@ -113,7 +113,7 @@
   },
   {
     "Rank": 15,
-    "Time Spent (seconds)": 74,
+    "Time Spent (seconds)": 85,
     "Number of People": 1,
     "Activity": "app store",
     "Category": "General Shopping",
@@ -137,6 +137,14 @@
   },
   {
     "Rank": 18,
+    "Time Spent (seconds)": 61,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 19,
     "Time Spent (seconds)": 58,
     "Number of People": 1,
     "Activity": "blog.bitsrc.io",
@@ -144,20 +152,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 19,
+    "Rank": 20,
     "Time Spent (seconds)": 55,
     "Number of People": 1,
     "Activity": "supplier.viator.com",
     "Category": "Sales",
     "Productivity": 2
-  },
-  {
-    "Rank": 20,
-    "Time Spent (seconds)": 53,
-    "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
   },
   {
     "Rank": 21,
@@ -275,7 +275,7 @@
     "Rank": 35,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "tonejs.github.io",
+    "Activity": "iterm2",
     "Category": "General Software Development",
     "Productivity": 2
   },
@@ -283,7 +283,7 @@
     "Rank": 36,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
-    "Activity": "iterm2",
+    "Activity": "tonejs.github.io",
     "Category": "General Software Development",
     "Productivity": 2
   },

@@ -43,11 +43,11 @@
     "Entertainment": 10362,
     "Communication & Scheduling": 5659,
     "Business": 3495,
+    "Software Development": 2743,
     "Design & Composition": 2246,
-    "Uncategorized": 2202,
-    "Software Development": 1126,
     "Utilities": 653,
     "Social Networking": 616,
+    "Uncategorized": 585,
     "Reference & Learning": 198,
     "News & Opinion": 15
   },
@@ -64,14 +64,14 @@
     "Shopping": 1
   },
   "2022-07-9": {
-    "Design & Composition": 1881,
+    "Design & Composition": 1924,
+    "Entertainment": 1760,
     "Communication & Scheduling": 803,
     "Software Development": 597,
-    "Entertainment": 519,
     "Reference & Learning": 350,
     "Uncategorized": 336,
-    "Business": 193,
-    "Utilities": 176,
-    "Shopping": 112
+    "Business": 218,
+    "Utilities": 184,
+    "Shopping": 123
   }
 }
