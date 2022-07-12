@@ -105,7 +105,15 @@
     "Reference & Learning": 11,
     "Shopping": 4
   },
-  "11": {},
+  "11": {
+    "Communication & Scheduling": 5461,
+    "Business": 1170,
+    "Software Development": 482,
+    "Utilities": 155,
+    "Reference & Learning": 95,
+    "Uncategorized": 22,
+    "News & Opinion": 3
+  },
   "12": {},
   "13": {},
   "14": {},
