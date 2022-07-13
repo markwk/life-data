@@ -11,14 +11,24 @@
   },
   "2022-07-11": {
     "Communication & Scheduling": 5461,
-    "Business": 1170,
+    "Business": 1306,
     "Software Development": 482,
-    "Utilities": 155,
+    "Utilities": 156,
     "Reference & Learning": 95,
     "Uncategorized": 22,
     "News & Opinion": 3
   },
-  "2022-07-12": {},
+  "2022-07-12": {
+    "Communication & Scheduling": 4966,
+    "Software Development": 2601,
+    "Design & Composition": 1927,
+    "Business": 1444,
+    "Utilities": 539,
+    "Uncategorized": 165,
+    "News & Opinion": 117,
+    "Reference & Learning": 49,
+    "Entertainment": 37
+  },
   "2022-07-13": {},
   "2022-07-14": {},
   "2022-07-15": {},
