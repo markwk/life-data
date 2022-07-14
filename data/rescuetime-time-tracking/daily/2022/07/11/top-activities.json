@@ -219,17 +219,17 @@
     "Rank": 28,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "news.google.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 30,
