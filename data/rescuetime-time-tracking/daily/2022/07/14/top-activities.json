@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 25,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  }
+]

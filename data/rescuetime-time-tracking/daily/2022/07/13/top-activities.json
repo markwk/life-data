@@ -291,32 +291,32 @@
     "Rank": 37,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
-  },
-  {
-    "Rank": 38,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "marmonutility-wpcomstaging-com.translate.goog",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 39,
-    "Time Spent (seconds)": 1,
+    "Rank": 38,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Google Spreadsheets",
-    "Category": "General Business",
-    "Productivity": 2
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
   },
   {
-    "Rank": 40,
+    "Rank": 39,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "Mail",
     "Category": "Email",
     "Productivity": 0
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
   }
 ]

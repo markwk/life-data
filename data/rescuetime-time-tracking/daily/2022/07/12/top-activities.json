@@ -299,28 +299,20 @@
     "Rank": 38,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "activtrak.zoom.us",
-    "Category": "Meetings",
-    "Productivity": 1
-  },
-  {
-    "Rank": 39,
-    "Time Spent (seconds)": 2,
-    "Number of People": 1,
     "Activity": "Github",
     "Category": "General Software Development",
     "Productivity": 2
   },
   {
-    "Rank": 40,
-    "Time Spent (seconds)": 1,
+    "Rank": 39,
+    "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "Zoom website",
+    "Activity": "activtrak.zoom.us",
     "Category": "Meetings",
     "Productivity": 1
   },
   {
-    "Rank": 41,
+    "Rank": 40,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "opensenselabs.com",
@@ -328,11 +320,19 @@
     "Productivity": 0
   },
   {
-    "Rank": 42,
+    "Rank": 41,
     "Time Spent (seconds)": 1,
     "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
     "Productivity": 2
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
   }
 ]
