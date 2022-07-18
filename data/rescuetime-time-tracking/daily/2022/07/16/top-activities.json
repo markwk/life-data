@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 237,
+    "Time Spent (seconds)": 1367,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -9,19 +9,19 @@
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 225,
-    "Number of People": 1,
-    "Activity": "Finder",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 132,
+    "Time Spent (seconds)": 275,
     "Number of People": 1,
     "Activity": "live",
     "Category": "Audio Editing",
     "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 240,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
   },
   {
     "Rank": 4,

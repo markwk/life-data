@@ -44,6 +44,16 @@
     "score_temperature": 70
   },
   "2022-07-14": {},
-  "2022-07-15": {},
+  "2022-07-15": {
+    "score": 78,
+    "score_activity_balance": 98,
+    "score_hrv_balance": 39,
+    "score_previous_day": 100,
+    "score_previous_night": 98,
+    "score_recovery_index": 75,
+    "score_resting_hr": 66,
+    "score_sleep_balance": 80,
+    "score_temperature": 99
+  },
   "2022-07-16": {}
 }

@@ -142,12 +142,19 @@
   },
   "15": {},
   "16": {
-    "Entertainment": 237,
-    "Utilities": 225,
-    "Design & Composition": 132,
+    "Entertainment": 1367,
+    "Design & Composition": 275,
+    "Utilities": 240,
     "Communication & Scheduling": 10
   },
-  "17": {},
+  "17": {
+    "Business": 269,
+    "Communication & Scheduling": 46,
+    "Entertainment": 44,
+    "Utilities": 39,
+    "Reference & Learning": 9,
+    "Design & Composition": 7
+  },
   "18": {},
   "19": {},
   "20": {},
