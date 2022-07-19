@@ -1,90 +1,234 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 266,
+    "Time Spent (seconds)": 630,
     "Number of People": 1,
-    "Activity": "dashboard.stripe.com",
-    "Category": "Accounting",
-    "Productivity": 2
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 0
   },
   {
     "Rank": 2,
-    "Time Spent (seconds)": 44,
+    "Time Spent (seconds)": 540,
     "Number of People": 1,
-    "Activity": "spotify",
-    "Category": "General Entertainment",
-    "Productivity": -2
-  },
-  {
-    "Rank": 3,
-    "Time Spent (seconds)": 33,
-    "Number of People": 1,
-    "Activity": "messages",
-    "Category": "Instant Message",
-    "Productivity": -1
-  },
-  {
-    "Rank": 4,
-    "Time Spent (seconds)": 25,
-    "Number of People": 1,
-    "Activity": "keeweb",
-    "Category": "General Utilities",
-    "Productivity": 1
-  },
-  {
-    "Rank": 5,
-    "Time Spent (seconds)": 13,
-    "Number of People": 1,
-    "Activity": "calendly.com",
-    "Category": "Calendars",
-    "Productivity": 1
-  },
-  {
-    "Rank": 6,
-    "Time Spent (seconds)": 9,
-    "Number of People": 1,
-    "Activity": "en.wikipedia.org",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
-  },
-  {
-    "Rank": 7,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
+    "Activity": "typora",
+    "Category": "Writing",
     "Productivity": 2
   },
   {
-    "Rank": 8,
-    "Time Spent (seconds)": 5,
+    "Rank": 3,
+    "Time Spent (seconds)": 290,
     "Number of People": 1,
     "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
+    "Rank": 4,
+    "Time Spent (seconds)": 284,
+    "Number of People": 1,
+    "Activity": "todoist",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 270,
+    "Number of People": 1,
+    "Activity": "dashboard.stripe.com",
+    "Category": "Accounting",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 239,
+    "Number of People": 1,
+    "Activity": "Google Forms",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 224,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 201,
+    "Number of People": 1,
+    "Activity": "thestreet.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
     "Rank": 9,
-    "Time Spent (seconds)": 5,
+    "Time Spent (seconds)": 175,
+    "Number of People": 1,
+    "Activity": "news.google.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 133,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 111,
+    "Number of People": 1,
+    "Activity": "sports.yahoo.com",
+    "Category": "Sports",
+    "Productivity": -1
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 104,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 10,
-    "Time Spent (seconds)": 4,
+    "Rank": 14,
+    "Time Spent (seconds)": 98,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 79,
+    "Number of People": 1,
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 75,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 62,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 42,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "eventbrite.com",
+    "Category": "Calendars",
+    "Productivity": 0
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 35,
+    "Number of People": 1,
+    "Activity": "theregister.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 33,
+    "Number of People": 1,
+    "Activity": "venicecanalsassociation.org",
+    "Category": "Uncategorized",
+    "Productivity": 1
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 28,
     "Number of People": 1,
     "Activity": "newtab",
     "Category": "Browsers",
     "Productivity": 0
   },
   {
-    "Rank": 11,
+    "Rank": 23,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "calendly.com",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 29,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "toggldesktop",
-    "Category": "Intelligence",
+    "Activity": "marmonutility.wpcomstaging.com",
+    "Category": "General Software Development",
     "Productivity": 2
   }
 ]
