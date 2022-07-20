@@ -1,1 +1,466 @@
-[]
+[
+  {
+    "Rank": 1,
+    "Time Spent (seconds)": 1860,
+    "Number of People": 1,
+    "Activity": "zapier.com",
+    "Category": "Internet Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 2,
+    "Time Spent (seconds)": 1409,
+    "Number of People": 1,
+    "Activity": "typora",
+    "Category": "Writing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 3,
+    "Time Spent (seconds)": 1274,
+    "Number of People": 1,
+    "Activity": "Gmail",
+    "Category": "Email",
+    "Productivity": 1
+  },
+  {
+    "Rank": 4,
+    "Time Spent (seconds)": 1192,
+    "Number of People": 1,
+    "Activity": "sandbox-mk.ttwice.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 5,
+    "Time Spent (seconds)": 1126,
+    "Number of People": 1,
+    "Activity": "upwork.com",
+    "Category": "Project Management",
+    "Productivity": 2
+  },
+  {
+    "Rank": 6,
+    "Time Spent (seconds)": 661,
+    "Number of People": 1,
+    "Activity": "drupal.org",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 7,
+    "Time Spent (seconds)": 527,
+    "Number of People": 1,
+    "Activity": "sandbox.ttwice.io",
+    "Category": "Uncategorized",
+    "Productivity": 2
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 441,
+    "Number of People": 1,
+    "Activity": "marketplace.zoom.us",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 9,
+    "Time Spent (seconds)": 439,
+    "Number of People": 1,
+    "Activity": "cartrover.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 10,
+    "Time Spent (seconds)": 422,
+    "Number of People": 1,
+    "Activity": "google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 11,
+    "Time Spent (seconds)": 369,
+    "Number of People": 1,
+    "Activity": "shiphero.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 12,
+    "Time Spent (seconds)": 364,
+    "Number of People": 1,
+    "Activity": "help.saltbox.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 13,
+    "Time Spent (seconds)": 314,
+    "Number of People": 1,
+    "Activity": "app.sendinblue.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 14,
+    "Time Spent (seconds)": 297,
+    "Number of People": 1,
+    "Activity": "Zoom",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 15,
+    "Time Spent (seconds)": 292,
+    "Number of People": 1,
+    "Activity": "my.sendinblue.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 16,
+    "Time Spent (seconds)": 291,
+    "Number of People": 1,
+    "Activity": "hollywoodbowl.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 17,
+    "Time Spent (seconds)": 286,
+    "Number of People": 1,
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 18,
+    "Time Spent (seconds)": 263,
+    "Number of People": 1,
+    "Activity": "keeweb",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 19,
+    "Time Spent (seconds)": 263,
+    "Number of People": 1,
+    "Activity": "tracker.myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 20,
+    "Time Spent (seconds)": 262,
+    "Number of People": 1,
+    "Activity": "developers.google.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 21,
+    "Time Spent (seconds)": 225,
+    "Number of People": 1,
+    "Activity": "spotify",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 22,
+    "Time Spent (seconds)": 220,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 23,
+    "Time Spent (seconds)": 208,
+    "Number of People": 1,
+    "Activity": "developer.shiphero.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 24,
+    "Time Spent (seconds)": 192,
+    "Number of People": 1,
+    "Activity": "iterm2",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 184,
+    "Number of People": 1,
+    "Activity": "drive.google.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 26,
+    "Time Spent (seconds)": 165,
+    "Number of People": 1,
+    "Activity": "atendesigngroup.com",
+    "Category": "Engineering & Technology",
+    "Productivity": 1
+  },
+  {
+    "Rank": 27,
+    "Time Spent (seconds)": 164,
+    "Number of People": 1,
+    "Activity": "bookings.canalpals.com",
+    "Category": "Marketing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 28,
+    "Time Spent (seconds)": 145,
+    "Number of People": 1,
+    "Activity": "account.sendinblue.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 29,
+    "Time Spent (seconds)": 133,
+    "Number of People": 1,
+    "Activity": "songkick.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 30,
+    "Time Spent (seconds)": 129,
+    "Number of People": 1,
+    "Activity": "app-smtp.sendinblue.com",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 31,
+    "Time Spent (seconds)": 124,
+    "Number of People": 1,
+    "Activity": "workspace.google.com",
+    "Category": "Search",
+    "Productivity": 0
+  },
+  {
+    "Rank": 32,
+    "Time Spent (seconds)": 122,
+    "Number of People": 1,
+    "Activity": "google chrome",
+    "Category": "Browsers",
+    "Productivity": 0
+  },
+  {
+    "Rank": 33,
+    "Time Spent (seconds)": 119,
+    "Number of People": 1,
+    "Activity": "toggldesktop",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 34,
+    "Time Spent (seconds)": 116,
+    "Number of People": 1,
+    "Activity": "sendinblue.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 35,
+    "Time Spent (seconds)": 113,
+    "Number of People": 1,
+    "Activity": "v4616118864.ny11.us.aegir.cc",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 36,
+    "Time Spent (seconds)": 102,
+    "Number of People": 1,
+    "Activity": "devforum.zoom.us",
+    "Category": "Meetings",
+    "Productivity": 1
+  },
+  {
+    "Rank": 37,
+    "Time Spent (seconds)": 91,
+    "Number of People": 1,
+    "Activity": "messages",
+    "Category": "Instant Message",
+    "Productivity": -1
+  },
+  {
+    "Rank": 38,
+    "Time Spent (seconds)": 89,
+    "Number of People": 1,
+    "Activity": "Github",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 39,
+    "Time Spent (seconds)": 88,
+    "Number of People": 1,
+    "Activity": "my.hollywoodbowl.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
+    "Rank": 40,
+    "Time Spent (seconds)": 82,
+    "Number of People": 1,
+    "Activity": "codimth.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 41,
+    "Time Spent (seconds)": 77,
+    "Number of People": 1,
+    "Activity": "linkedin.com",
+    "Category": "Professional Networking",
+    "Productivity": 0
+  },
+  {
+    "Rank": 42,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "rescuetime.com",
+    "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 43,
+    "Time Spent (seconds)": 52,
+    "Number of People": 1,
+    "Activity": "Finder",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 44,
+    "Time Spent (seconds)": 45,
+    "Number of People": 1,
+    "Activity": "ttwice.io",
+    "Category": "Uncategorized",
+    "Productivity": 2
+  },
+  {
+    "Rank": 45,
+    "Time Spent (seconds)": 41,
+    "Number of People": 1,
+    "Activity": "Google Presentations",
+    "Category": "Presentation",
+    "Productivity": 2
+  },
+  {
+    "Rank": 46,
+    "Time Spent (seconds)": 36,
+    "Number of People": 1,
+    "Activity": "ringcentral.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 0
+  },
+  {
+    "Rank": 47,
+    "Time Spent (seconds)": 32,
+    "Number of People": 1,
+    "Activity": "tix.axs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 48,
+    "Time Spent (seconds)": 29,
+    "Number of People": 1,
+    "Activity": "en.wikipedia.org",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 49,
+    "Time Spent (seconds)": 28,
+    "Number of People": 1,
+    "Activity": "stitchdata.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 22,
+    "Number of People": 1,
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
+  },
+  {
+    "Rank": 51,
+    "Time Spent (seconds)": 16,
+    "Number of People": 1,
+    "Activity": "drupalpartners.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 52,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "Preview",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "sandbox.dev.ttwice.io",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 54,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
+    "Productivity": 1
+  },
+  {
+    "Rank": 55,
+    "Time Spent (seconds)": 5,
+    "Number of People": 1,
+    "Activity": "axs.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 56,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
+    "Activity": "devtools",
+    "Category": "General Software Development",
+    "Productivity": 2
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "onboarding.sendinblue.com",
+    "Category": "General Business",
+    "Productivity": 2
+  },
+  {
+    "Rank": 58,
+    "Time Spent (seconds)": 1,
+    "Number of People": 1,
+    "Activity": "Zoom website",
+    "Category": "Meetings",
+    "Productivity": 1
+  }
+]
