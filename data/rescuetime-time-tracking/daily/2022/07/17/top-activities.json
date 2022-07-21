@@ -179,24 +179,24 @@
     "Rank": 23,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
-    "Activity": "datastudio.google.com",
-    "Category": "Data Modeling & Analysis",
-    "Productivity": 2
-  },
-  {
-    "Rank": 24,
-    "Time Spent (seconds)": 26,
-    "Number of People": 1,
     "Activity": "keeweb",
     "Category": "General Utilities",
     "Productivity": 1
   },
   {
-    "Rank": 25,
+    "Rank": 24,
     "Time Spent (seconds)": 26,
     "Number of People": 1,
     "Activity": "rescuetime.com",
     "Category": "Intelligence",
+    "Productivity": 2
+  },
+  {
+    "Rank": 25,
+    "Time Spent (seconds)": 26,
+    "Number of People": 1,
+    "Activity": "datastudio.google.com",
+    "Category": "Data Modeling & Analysis",
     "Productivity": 2
   },
   {

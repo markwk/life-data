@@ -315,17 +315,17 @@
     "Rank": 40,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Activity": "itsfoss.com",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "Safari",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 41,
     "Time Spent (seconds)": 89,
     "Number of People": 1,
-    "Activity": "Safari",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "itsfoss.com",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 42,
@@ -451,25 +451,25 @@
     "Rank": 57,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "vecteezy.com",
-    "Category": "Search",
-    "Productivity": 0
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
+    "Productivity": 1
   },
   {
     "Rank": 58,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "cnbc.com",
-    "Category": "Business",
-    "Productivity": -1
+    "Activity": "vecteezy.com",
+    "Category": "Search",
+    "Productivity": 0
   },
   {
     "Rank": 59,
     "Time Spent (seconds)": 14,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
-    "Productivity": 1
+    "Activity": "cnbc.com",
+    "Category": "Business",
+    "Productivity": -1
   },
   {
     "Rank": 60,
@@ -539,12 +539,20 @@
     "Rank": 68,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
+    "Activity": "economictimes.indiatimes.com",
+    "Category": "General News & Opinion",
+    "Productivity": -2
+  },
+  {
+    "Rank": 69,
+    "Time Spent (seconds)": 4,
+    "Number of People": 1,
     "Activity": "grid.news",
     "Category": "Uncategorized",
     "Productivity": 0
   },
   {
-    "Rank": 69,
+    "Rank": 70,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "en.wikipedia.org",
@@ -552,7 +560,7 @@
     "Productivity": 1
   },
   {
-    "Rank": 70,
+    "Rank": 71,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "themarginalian.org",
@@ -560,20 +568,12 @@
     "Productivity": 0
   },
   {
-    "Rank": 71,
+    "Rank": 72,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
     "Activity": "hedgehogreview.com",
     "Category": "Uncategorized",
     "Productivity": 0
-  },
-  {
-    "Rank": 72,
-    "Time Spent (seconds)": 4,
-    "Number of People": 1,
-    "Activity": "economictimes.indiatimes.com",
-    "Category": "General News & Opinion",
-    "Productivity": -2
   },
   {
     "Rank": 73,
