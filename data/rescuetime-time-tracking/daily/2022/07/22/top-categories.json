@@ -25,7 +25,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1348,
+    "Time Spent (seconds)": 1552,
     "Number of People": 1,
     "Category": "General Entertainment"
   },
@@ -37,33 +37,33 @@
   },
   {
     "Rank": 7,
+    "Time Spent (seconds)": 487,
+    "Number of People": 1,
+    "Category": "Audio Editing"
+  },
+  {
+    "Rank": 8,
     "Time Spent (seconds)": 468,
     "Number of People": 1,
     "Category": "Intelligence"
   },
   {
-    "Rank": 8,
+    "Rank": 9,
     "Time Spent (seconds)": 422,
     "Number of People": 1,
     "Category": "General Business"
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 383,
     "Number of People": 1,
     "Category": "Uncategorized"
   },
   {
-    "Rank": 10,
+    "Rank": 11,
     "Time Spent (seconds)": 342,
     "Number of People": 1,
     "Category": "General Software Development"
-  },
-  {
-    "Rank": 11,
-    "Time Spent (seconds)": 310,
-    "Number of People": 1,
-    "Category": "Audio Editing"
   },
   {
     "Rank": 12,
@@ -91,7 +91,7 @@
   },
   {
     "Rank": 16,
-    "Time Spent (seconds)": 161,
+    "Time Spent (seconds)": 163,
     "Number of People": 1,
     "Category": "Browsers"
   },
@@ -99,13 +99,13 @@
     "Rank": 17,
     "Time Spent (seconds)": 76,
     "Number of People": 1,
-    "Category": "General Utilities"
+    "Category": "General Reference & Learning"
   },
   {
     "Rank": 18,
     "Time Spent (seconds)": 76,
     "Number of People": 1,
-    "Category": "General Reference & Learning"
+    "Category": "General Utilities"
   },
   {
     "Rank": 19,

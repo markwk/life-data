@@ -128,22 +128,28 @@
     "Email": 3463,
     "Meetings": 2220,
     "Instant Message": 1571,
-    "General Entertainment": 1348,
+    "General Entertainment": 1552,
     "Project Management": 725,
+    "Audio Editing": 487,
     "Intelligence": 468,
     "General Business": 422,
     "Uncategorized": 383,
     "General Software Development": 342,
-    "Audio Editing": 310,
     "Calendars": 277,
     "Professional Networking": 262,
     "Search": 204,
     "Marketing": 175,
-    "Browsers": 161,
-    "General Utilities": 76,
+    "Browsers": 163,
     "General Reference & Learning": 76,
+    "General Utilities": 76,
     "General News & Opinion": 53,
     "General Shopping": 21
   },
-  "2022-07-23": {}
+  "2022-07-23": {
+    "General Entertainment": 1134,
+    "Sales": 37,
+    "General Utilities": 35,
+    "General Reference & Learning": 21,
+    "Browsers": 2
+  }
 }

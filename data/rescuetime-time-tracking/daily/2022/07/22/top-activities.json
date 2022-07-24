@@ -33,7 +33,7 @@
   },
   {
     "Rank": 5,
-    "Time Spent (seconds)": 1348,
+    "Time Spent (seconds)": 1552,
     "Number of People": 1,
     "Activity": "spotify",
     "Category": "General Entertainment",
@@ -57,6 +57,14 @@
   },
   {
     "Rank": 8,
+    "Time Spent (seconds)": 487,
+    "Number of People": 1,
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
+  },
+  {
+    "Rank": 9,
     "Time Spent (seconds)": 447,
     "Number of People": 1,
     "Activity": "toggldesktop",
@@ -64,19 +72,11 @@
     "Productivity": 2
   },
   {
-    "Rank": 9,
+    "Rank": 10,
     "Time Spent (seconds)": 336,
     "Number of People": 1,
     "Activity": "sandbox.ttwice.io",
     "Category": "Uncategorized",
-    "Productivity": 2
-  },
-  {
-    "Rank": 10,
-    "Time Spent (seconds)": 310,
-    "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
     "Productivity": 2
   },
   {
@@ -177,7 +177,7 @@
   },
   {
     "Rank": 23,
-    "Time Spent (seconds)": 46,
+    "Time Spent (seconds)": 48,
     "Number of People": 1,
     "Activity": "google chrome",
     "Category": "Browsers",
@@ -243,7 +243,7 @@
     "Rank": 31,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "sandbox2.ttwice.io",
+    "Activity": "library.lol",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -251,7 +251,7 @@
     "Rank": 32,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "library.lol",
+    "Activity": "sandbox2.ttwice.io",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "gatech.edu",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "postman",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
-    "Activity": "postman",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "gatech.edu",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 44,
