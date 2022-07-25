@@ -219,12 +219,19 @@
     "Shopping": 21
   },
   "23": {
-    "Entertainment": 1134,
-    "Utilities": 37,
+    "Entertainment": 2885,
+    "Utilities": 43,
     "Business": 37,
+    "Design & Composition": 35,
     "Reference & Learning": 21
   },
-  "24": {},
+  "24": {
+    "Design & Composition": 3405,
+    "Entertainment": 77,
+    "Utilities": 65,
+    "Business": 48,
+    "Communication & Scheduling": 35
+  },
   "25": {},
   "26": {},
   "27": {},

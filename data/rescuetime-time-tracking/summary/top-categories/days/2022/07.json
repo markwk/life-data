@@ -443,19 +443,27 @@
     "Search": 204,
     "Marketing": 175,
     "Browsers": 163,
-    "General Reference & Learning": 76,
     "General Utilities": 76,
+    "General Reference & Learning": 76,
     "General News & Opinion": 53,
     "General Shopping": 21
   },
   "23": {
-    "General Entertainment": 1134,
+    "General Entertainment": 2885,
+    "General Utilities": 41,
     "Sales": 37,
-    "General Utilities": 35,
+    "Audio Editing": 35,
     "General Reference & Learning": 21,
     "Browsers": 2
   },
-  "24": {},
+  "24": {
+    "Audio Editing": 3405,
+    "General Entertainment": 77,
+    "General Utilities": 65,
+    "Intelligence": 45,
+    "Instant Message": 35,
+    "Sales": 3
+  },
   "25": {},
   "26": {},
   "27": {},
