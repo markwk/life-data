@@ -76,7 +76,7 @@
     "Time Spent (seconds)": 336,
     "Number of People": 1,
     "Activity": "sandbox.ttwice.io",
-    "Category": "Uncategorized",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -203,7 +203,7 @@
     "Rank": 26,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
-    "Activity": "bartender 4",
+    "Activity": "Finder",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -211,7 +211,7 @@
     "Rank": 27,
     "Time Spent (seconds)": 31,
     "Number of People": 1,
-    "Activity": "Finder",
+    "Activity": "bartender 4",
     "Category": "General Utilities",
     "Productivity": 1
   },
@@ -243,7 +243,7 @@
     "Rank": 31,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "sandbox2.ttwice.io",
+    "Activity": "library.lol",
     "Category": "Uncategorized",
     "Productivity": 0
   },
@@ -251,9 +251,9 @@
     "Rank": 32,
     "Time Spent (seconds)": 19,
     "Number of People": 1,
-    "Activity": "library.lol",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "sandbox2.ttwice.io",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 33,
