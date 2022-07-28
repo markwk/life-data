@@ -187,17 +187,17 @@
     "Rank": 24,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "libgen.is",
-    "Category": "General Reference & Learning",
-    "Productivity": 1
+    "Activity": "ads.google.com",
+    "Category": "Marketing",
+    "Productivity": 2
   },
   {
     "Rank": 25,
     "Time Spent (seconds)": 24,
     "Number of People": 1,
-    "Activity": "ads.google.com",
-    "Category": "Marketing",
-    "Productivity": 2
+    "Activity": "libgen.is",
+    "Category": "General Reference & Learning",
+    "Productivity": 1
   },
   {
     "Rank": 26,
@@ -219,16 +219,16 @@
     "Rank": 28,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "accounts.google.com",
-    "Category": "General Communication & Scheduling",
+    "Activity": "bartender 4",
+    "Category": "General Utilities",
     "Productivity": 1
   },
   {
     "Rank": 29,
     "Time Spent (seconds)": 8,
     "Number of People": 1,
-    "Activity": "bartender 4",
-    "Category": "General Utilities",
+    "Activity": "accounts.google.com",
+    "Category": "General Communication & Scheduling",
     "Productivity": 1
   },
   {
@@ -243,17 +243,17 @@
     "Rank": 31,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "newtab",
-    "Category": "Browsers",
-    "Productivity": 0
+    "Activity": "supplier.viator.com",
+    "Category": "Sales",
+    "Productivity": 2
   },
   {
     "Rank": 32,
     "Time Spent (seconds)": 3,
     "Number of People": 1,
-    "Activity": "supplier.viator.com",
-    "Category": "Sales",
-    "Productivity": 2
+    "Activity": "newtab",
+    "Category": "Browsers",
+    "Productivity": 0
   },
   {
     "Rank": 33,
