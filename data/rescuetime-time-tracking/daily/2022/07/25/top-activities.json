@@ -92,8 +92,8 @@
     "Time Spent (seconds)": 383,
     "Number of People": 1,
     "Activity": "tracker.interveneimmune.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 13,
@@ -260,8 +260,8 @@
     "Time Spent (seconds)": 67,
     "Number of People": 1,
     "Activity": "interveneimmune.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 34,
@@ -307,17 +307,17 @@
     "Rank": 39,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
-    "Activity": "cenogenics.net",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "genius.com",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
     "Rank": 40,
     "Time Spent (seconds)": 47,
     "Number of People": 1,
-    "Activity": "genius.com",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "cenogenics.net",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 41,
@@ -387,12 +387,20 @@
     "Rank": 49,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
+    "Activity": "physican-demo.myagingests.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
+  },
+  {
+    "Rank": 50,
+    "Time Spent (seconds)": 7,
+    "Number of People": 1,
     "Activity": "New York Times",
     "Category": "General News & Opinion",
     "Productivity": -2
   },
   {
-    "Rank": 50,
+    "Rank": 51,
     "Time Spent (seconds)": 7,
     "Number of People": 1,
     "Activity": "the archive",
@@ -400,28 +408,20 @@
     "Productivity": 2
   },
   {
-    "Rank": 51,
-    "Time Spent (seconds)": 7,
-    "Number of People": 1,
-    "Activity": "physican-demo.myagingests.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
     "Rank": 52,
-    "Time Spent (seconds)": 6,
-    "Number of People": 1,
-    "Activity": "cenegenics.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
-  },
-  {
-    "Rank": 53,
     "Time Spent (seconds)": 6,
     "Number of People": 1,
     "Activity": "clockfoundation.myagingtests.com",
     "Category": "General Software Development",
     "Productivity": 2
+  },
+  {
+    "Rank": 53,
+    "Time Spent (seconds)": 6,
+    "Number of People": 1,
+    "Activity": "cenegenics.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 54,
@@ -435,17 +435,17 @@
     "Rank": 55,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "physican-demo.myagingtests.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "youtube.com",
+    "Category": "Video",
+    "Productivity": -2
   },
   {
     "Rank": 56,
     "Time Spent (seconds)": 2,
     "Number of People": 1,
-    "Activity": "youtube.com",
-    "Category": "Video",
-    "Productivity": -2
+    "Activity": "physican-demo.myagingtests.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 57,

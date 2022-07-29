@@ -1,7 +1,7 @@
 [
   {
     "Rank": 1,
-    "Time Spent (seconds)": 4123,
+    "Time Spent (seconds)": 4573,
     "Number of People": 1,
     "Category": "Software Development"
   },
@@ -37,15 +37,15 @@
   },
   {
     "Rank": 7,
-    "Time Spent (seconds)": 654,
-    "Number of People": 1,
-    "Category": "Uncategorized"
-  },
-  {
-    "Rank": 8,
     "Time Spent (seconds)": 577,
     "Number of People": 1,
     "Category": "Utilities"
+  },
+  {
+    "Rank": 8,
+    "Time Spent (seconds)": 204,
+    "Number of People": 1,
+    "Category": "Uncategorized"
   },
   {
     "Rank": 9,

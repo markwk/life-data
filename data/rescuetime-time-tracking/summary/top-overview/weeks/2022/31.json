@@ -11,39 +11,48 @@
     "Uncategorized": 4
   },
   "2022-07-25": {
-    "Software Development": 4123,
+    "Software Development": 4573,
     "Communication & Scheduling": 3803,
     "Business": 3786,
     "Design & Composition": 3609,
     "Reference & Learning": 1151,
     "News & Opinion": 745,
-    "Uncategorized": 654,
     "Utilities": 577,
+    "Uncategorized": 204,
     "Entertainment": 129
   },
   "2022-07-26": {
-    "Software Development": 10378,
+    "Software Development": 10694,
     "Design & Composition": 6493,
     "Business": 4515,
     "Communication & Scheduling": 3359,
     "News & Opinion": 643,
     "Utilities": 625,
-    "Uncategorized": 569,
     "Reference & Learning": 498,
+    "Uncategorized": 253,
     "Entertainment": 217
   },
   "2022-07-27": {
-    "Design & Composition": 7336,
-    "Software Development": 6066,
-    "Business": 4229,
-    "Communication & Scheduling": 3298,
-    "Uncategorized": 1399,
-    "Utilities": 1013,
+    "Design & Composition": 8457,
+    "Software Development": 7620,
+    "Business": 4721,
+    "Communication & Scheduling": 4112,
+    "Entertainment": 1586,
+    "Utilities": 1115,
     "News & Opinion": 643,
-    "Entertainment": 544,
-    "Reference & Learning": 453
+    "Reference & Learning": 476,
+    "Uncategorized": 13
   },
-  "2022-07-28": {},
+  "2022-07-28": {
+    "Communication & Scheduling": 5709,
+    "Business": 4704,
+    "Design & Composition": 3942,
+    "Software Development": 3864,
+    "Utilities": 2220,
+    "Uncategorized": 442,
+    "Entertainment": 409,
+    "Reference & Learning": 91
+  },
   "2022-07-29": {},
   "2022-07-30": {}
 }
