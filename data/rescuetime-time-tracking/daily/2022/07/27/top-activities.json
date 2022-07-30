@@ -259,16 +259,16 @@
     "Rank": 33,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
-    "Activity": "myagingtests.com",
-    "Category": "General Software Development",
+    "Activity": "Google Spreadsheets",
+    "Category": "General Business",
     "Productivity": 2
   },
   {
     "Rank": 34,
     "Time Spent (seconds)": 79,
     "Number of People": 1,
-    "Activity": "Google Spreadsheets",
-    "Category": "General Business",
+    "Activity": "myagingtests.com",
+    "Category": "General Software Development",
     "Productivity": 2
   },
   {
@@ -331,17 +331,17 @@
     "Rank": 42,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "live",
-    "Category": "Audio Editing",
-    "Productivity": 2
+    "Activity": "la.eater.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
   },
   {
     "Rank": 43,
     "Time Spent (seconds)": 40,
     "Number of People": 1,
-    "Activity": "la.eater.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "live",
+    "Category": "Audio Editing",
+    "Productivity": 2
   },
   {
     "Rank": 44,
@@ -363,17 +363,17 @@
     "Rank": 46,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "lipsum.com",
-    "Category": "Presentation",
-    "Productivity": 2
+    "Activity": "planning.lacity.org",
+    "Category": "General News & Opinion",
+    "Productivity": -2
   },
   {
     "Rank": 47,
     "Time Spent (seconds)": 21,
     "Number of People": 1,
-    "Activity": "planning.lacity.org",
-    "Category": "General News & Opinion",
-    "Productivity": -2
+    "Activity": "lipsum.com",
+    "Category": "Presentation",
+    "Productivity": 2
   },
   {
     "Rank": 48,
@@ -387,28 +387,20 @@
     "Rank": 49,
     "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "v4616118864.ny11.us.aegir.cc",
-    "Category": "General Software Development",
-    "Productivity": 2
-  },
-  {
-    "Rank": 50,
-    "Time Spent (seconds)": 17,
-    "Number of People": 1,
     "Activity": "w3schools.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
   },
   {
-    "Rank": 51,
-    "Time Spent (seconds)": 12,
+    "Rank": 50,
+    "Time Spent (seconds)": 17,
     "Number of People": 1,
-    "Activity": "tvline.com",
-    "Category": "General Entertainment",
-    "Productivity": -2
+    "Activity": "v4616118864.ny11.us.aegir.cc",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
-    "Rank": 52,
+    "Rank": 51,
     "Time Spent (seconds)": 12,
     "Number of People": 1,
     "Activity": "git.drupalcode.org",
@@ -416,23 +408,15 @@
     "Productivity": 2
   },
   {
+    "Rank": 52,
+    "Time Spent (seconds)": 12,
+    "Number of People": 1,
+    "Activity": "tvline.com",
+    "Category": "General Entertainment",
+    "Productivity": -2
+  },
+  {
     "Rank": 53,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "facetime",
-    "Category": "Voice Chat",
-    "Productivity": 1
-  },
-  {
-    "Rank": 54,
-    "Time Spent (seconds)": 11,
-    "Number of People": 1,
-    "Activity": "Google Calendar",
-    "Category": "Calendars",
-    "Productivity": 1
-  },
-  {
-    "Rank": 55,
     "Time Spent (seconds)": 11,
     "Number of People": 1,
     "Activity": "shutterstock.com",
@@ -440,20 +424,36 @@
     "Productivity": 2
   },
   {
-    "Rank": 56,
-    "Time Spent (seconds)": 10,
+    "Rank": 54,
+    "Time Spent (seconds)": 11,
     "Number of People": 1,
-    "Activity": "docs.w3cub.com",
-    "Category": "Uncategorized",
-    "Productivity": 0
+    "Activity": "facetime",
+    "Category": "Voice Chat",
+    "Productivity": 1
   },
   {
-    "Rank": 57,
+    "Rank": 55,
+    "Time Spent (seconds)": 11,
+    "Number of People": 1,
+    "Activity": "Google Calendar",
+    "Category": "Calendars",
+    "Productivity": 1
+  },
+  {
+    "Rank": 56,
     "Time Spent (seconds)": 10,
     "Number of People": 1,
     "Activity": "drupal.stackexchange.com",
     "Category": "Engineering & Technology",
     "Productivity": 1
+  },
+  {
+    "Rank": 57,
+    "Time Spent (seconds)": 10,
+    "Number of People": 1,
+    "Activity": "docs.w3cub.com",
+    "Category": "Uncategorized",
+    "Productivity": 0
   },
   {
     "Rank": 58,
@@ -507,17 +507,17 @@
     "Rank": 64,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "fourtet.bandcamp.com",
-    "Category": "Music",
-    "Productivity": -2
+    "Activity": "stackoverflow.com",
+    "Category": "General Software Development",
+    "Productivity": 2
   },
   {
     "Rank": 65,
     "Time Spent (seconds)": 4,
     "Number of People": 1,
-    "Activity": "stackoverflow.com",
-    "Category": "General Software Development",
-    "Productivity": 2
+    "Activity": "fourtet.bandcamp.com",
+    "Category": "Music",
+    "Productivity": -2
   },
   {
     "Rank": 66,
